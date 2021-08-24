@@ -119,10 +119,15 @@ function search(word) {
             results.push(mounting_method[i].word)
         }
     }
-    let lcHtml = '<ul>'
-    for (let i = 0; i < results.length; i++) {
-        lcHtml = lcHtml + '<li>'+results[i]+'</li>'
+    let lcHtml = "";
+    if (results.length == 0) {
+        lcHtml = '<p>nothing matches that query</p>';
+    } else {
+        lcHtml = '<ul>'
+        for (let i = 0; i < results.length; i++) {
+            lcHtml = lcHtml + '<li>'+results[i]+'</li>';
+        }
+        lcHtml = lcHtml + '</ul>';
     }
-    lcHtml = lcHtml + '</ul>'
     document.getElementById("results").innerHTML = lcHtml;
 }
