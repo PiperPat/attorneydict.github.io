@@ -1,36 +1,3 @@
-// Structure
-
-const abut_mns = "abutment means";
-const adjg_mns = "adjoining means";
-const actg_mns = "actuating means";
-const adjt_mns = "adjustment means";
-const arches = "arches";
-const arm = "arm";
-const axle = "axle";
-const bail = "bail";
-const band = "band";
-const base = "base";
-const beam = "beam";
-const cntvr_bm = "cantilever beam";
-const simpl_bm = "simple beam";
-const belt = "belt";
-const bsng_mns = "biasing means";
-const blade = "blade";
-const bladder = "bladder";
-const blower = "blower";
-const body = "body";
-const broom = "broom";
-
-// Mounting Method
-const abut = "abut";
-const attach = "attach";
-const bolt = "bolt";
-const couple = "couple";
-const demntbly = "demountably";
-const engage = "engage";
-const fix = "fix";
-
-
 const structure = [
     abut_mns,
     adjg_mns,
@@ -51,8 +18,86 @@ const structure = [
     bladder,
     blower,
     body,
-    broom
-    
+    broom,
+    brace ,
+    branch ,
+    bracket ,
+    carriage ,
+    cap ,
+    cse ,
+    cstrs ,
+    channel ,
+    chute ,
+    clip ,
+    column ,
+    collar ,
+    container ,
+    converyor ,
+    cover ,
+    device ,
+    die ,
+    drum ,
+    enclosure ,
+    finger ,
+    flange ,
+    foot ,
+    frame ,
+    gate ,
+    gauges ,
+    guide ,
+    handle ,
+    hinge ,
+    head ,
+    holder ,
+    housing ,
+    jacket ,
+    jaw ,
+    laminate ,
+    leg ,
+    ling ,
+    lug ,
+    member ,
+    membrane ,
+    mntg_plt ,
+    manifold ,
+    neck ,
+    object ,
+    optng_mns ,
+    particle ,
+    partition ,
+    plate ,
+    platform ,
+    plug ,
+    receptcl ,
+    ram ,
+    retaining ,
+    reinforcing ,
+    rib ,
+    ring ,
+    rod ,
+    saddle ,
+    seat ,
+    sheet ,
+    shell ,
+    shoe ,
+    shoulder ,
+    sleeve ,
+    soul ,
+    spcg_mns ,
+    spindle ,
+    stop_mmbr,
+    stem ,
+    step ,
+    strut ,
+    spprt_mns ,
+    teeth ,
+    tongue ,
+    track ,
+    truss ,
+    upright ,
+    wall ,
+    wheel ,
+    web 
 ];
 const mounting_method = [
     abut,
@@ -71,7 +116,7 @@ function search(word) {
         }
     } else if (word == "mounting method") {
         for (let i = 0; i < mounting_method.length; i++) {   
-            results.push(mounting_method[i])
+            results.push(mounting_method[i].word)
         }
     }
     let lcHtml = '<ul>'
