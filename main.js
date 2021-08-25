@@ -131,3 +131,26 @@ function search(word) {
     }
     document.getElementById("results").innerHTML = lcHtml;
 }
+
+
+function getCateg(thing) {
+    switch (thing.value) {
+        case 'shp':
+            alert('shape');
+            break;
+        case 'mat':
+            alert('material');
+            break;
+        case 'mvt':
+            alert('movement');
+            break;
+        case 'fnt':
+            alert('function');
+            break;
+        case 'rtn':
+            alert('relationship');
+            break;
+        default:
+            alert('other');
+    }
+}

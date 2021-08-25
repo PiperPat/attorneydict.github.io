@@ -33,15 +33,15 @@
             <option value="">movement</option>
             <option value="">rotation to rotation</option>
         </select>
-        <label for="categories">Select category:</label>
-        <select name="categ" id="categories">
-            <option value="">shape</option>
-            <option value="">material</option>
-            <option value="">movement</option>
-            <option value="">function</option>
-            <option value="">relationship</option>
-            <option value="">orientation</option>
-            <option value="">other</option>
+        
+        <select name="categ" id="categories" onchange="getCateg(this)">
+            <option value="" selected disabled hidden>Select category</option>
+            <option value="shp">shape</option>
+            <option value="mat">material</option>
+            <option value="mvt">movement</option>
+            <option value="fnt">function</option>
+            <option value="rtn">relationship</option>
+            <option value="oth">other</option>
         </select>
         <label for="categories">Subcategory:</label>
         <select name="categ" id="form_categories">
