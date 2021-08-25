@@ -104,42 +104,56 @@ const web = "web";
 const abut = {
     word: "abut",
     definition: "",
+    category: "",
+    subcategory: "",
     tags: ["mounting method", "sticks out", "protrusion"],
     has_img: false,
     img_src: ""
 };
 const attach = {
     word : "attach",
+    category: "",
+    subcategory: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
 const bolt = {
     word: "bolt",
+    category: "",
+    subcategory: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
 const couple = {
     word: "couple",
+    category: "",
+    subcategory: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
 const demntbly = {
     word: "demountably",
+    category: "",
+    subcategory: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
 const engage = {
     word: "engage",
+    category: "",
+    subcategory: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
 const fix = {
     word: "fix",
+    category: "",
+    subcategory: "",
     tags: [],
     has_img: false,
     img_src: ""

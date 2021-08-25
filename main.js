@@ -132,25 +132,50 @@ function search(word) {
     document.getElementById("results").innerHTML = lcHtml;
 }
 
+function showSubcateg(show) {
+    const subcat = document.getElementById('subcateg');
+    if (show) {
+        subcat.classList.remove('banish');
+        subcat.classList.add('unbanish');
+    } else {
+        subcat.classList.add('banish');
+        subcat.classList.remove('unbanish');
+    }
+}
 
 function getCateg(thing) {
+    let dropdown = document.getElementById('subcateg');
+    let lcHtml = `<option value="" selected disabled hidden>Select subcategory</option>`;
     switch (thing.value) {
         case 'shp':
-            alert('shape');
+            showSubcateg(true);
+            lcHtml = lcHtml + `
+                <option value="gen">general</option>
+                <option value="conn">connections & edges</option>
+                <option value="vds">voids & receptacles</option>
+                <option value="prt">protrusions</option>
+                <option value="mbr">member</option>
+                <option value="spr">springs & gears</option>
+            `;
             break;
         case 'mat':
-            alert('material');
+            lcHtml = lcHtml + ``;
             break;
         case 'mvt':
-            alert('movement');
+            lcHtml = lcHtml + ``;
             break;
         case 'fnt':
-            alert('function');
+            lcHtml = lcHtml + ``;
             break;
         case 'rtn':
-            alert('relationship');
+            lcHtml = lcHtml + ``;
+            break;
+        case 'elc':
+            showSubcateg(false);
+            lcHtml = lcHtml + ``;
             break;
         default:
             alert('other');
     }
+    dropdown.innerHTML = lcHtml;
 }
