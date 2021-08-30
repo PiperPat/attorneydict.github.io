@@ -1029,6 +1029,9 @@ const thrust = {
     has_img: false,
     img_src: ""
 };
+
+// spring
+
 const air = {
     word: "air",
     definition: "",
@@ -1092,6 +1095,9 @@ const torsional = {
     has_img: false,
     img_src: ""
 };
+
+// numbers
+
 const multiplicity = {
     word: "multiplicity",
     definition: "",
@@ -1419,6 +1425,128 @@ const surrounding = {
 };
 const symmetrical = {
     word: "symmetrical",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// voids
+
+const aperture = {
+    word: "aperture",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const bore = {
+    word: "bore",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+const cavity = {
+    word: "cavity",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const chamber = {
+    word: "chamber",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const duct = {
+    word: "duct",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const groove = {
+    word: "groove",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const hole = {
+    word: "hole",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const hollow = {
+    word: "hollow",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const notch = {
+    word: "notch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const open_ended = {
+    word: "open-ended",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const opening = {
+    word: "opening",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const orifice = {
+    word: "orifice",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const recess = {
+    word: "recess",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const passage = {
+    word: "passage",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const slit = {
+    word: "slit",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const slot = {
+    word: "slot",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const socket = {
+    word: "socket",
     definition: "",
     tags: [],
     has_img: false,

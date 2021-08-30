@@ -212,3 +212,22 @@ const placement = [
     surrounding,
     symmetrical
 ];
+const voids = [
+    aperture,
+    bore,
+    cavity,
+    chamber,
+    duct,
+    groove,
+    hole,
+    hollow,
+    notch,
+    open_ended,
+    opening,
+    orifice,
+    recess,
+    passage,
+    slit,
+    slot,
+    socket,
+];

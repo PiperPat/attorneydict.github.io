@@ -34,6 +34,11 @@ function search(query) {
             results.push(placement[i].word)
         }
     }
+    else if (query == "voids") {
+        for (let i = 0; i < voids.length; i++) {   
+            results.push(voids[i].word)
+        }
+    }
     let lcHtml = "";
     if (results.length == 0) {
         lcHtml = '<p>nothing matches that query</p>';
