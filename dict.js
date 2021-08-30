@@ -698,7 +698,7 @@ const web = {
 // Mounting Method
 const abut = {
     word: "abut",
-    definition: "",
+    definition: "lie against",
     tags: ["mounting method", "sticks out", "protrusion"],
     has_img: false,
     img_src: ""
@@ -1109,4 +1109,322 @@ const several = {
     tags: [],
     has_img: false,
     img_src: ""
+};
+
+// Placement
+
+const adjacent = {
+    word: "adjacent",
+    definition: "lying near",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const aligned = {
+    word: "aligned",
+    definition: "in line",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const attached = {
+    word: "attached",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const axial = {
+    word: "axial",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const coaxial = {
+    word: "coaxial",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const cantilever = {
+    word: "cantilever",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const complmtry = {
+    word: "complementary",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const concentric = {
+    word: "concentric",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const eccentric = {
+    word: "eccentric",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const contiguous = {
+    word: "contiguous",
+    definition: "touching, adjoining",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const distal_prox = {
+    word: "distal-proximate",
+    definition: "immediate connection",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const divided = {
+    word: "divided",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const disposed = {
+    word: "disposed",
+    definition: "placed on",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const engaged = {
+    word: "engaged",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const extended = {
+    word: "extended",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const inclined = {
+    word: "inclined",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const integral = {
+    word: "integral",
+    definition: "whole, complete",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const intermediate = {
+    word: "intermediate",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const interposed = {
+    word: "interposed",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const juxtaposed = {
+    word: "juxtaposed",
+    definition: "side by side",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const located = {
+    word: "located",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const lateral = {
+    word: "lateral",
+    definition: "(from side)",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const mating = {
+    word: "mating",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const meshing = {
+    word: "meshing",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const normal = {
+    word: "normal",
+    definition: "right angles",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const offset = {
+    word: "offset",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const opposed = {
+    word: "opposed",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const overlapping = {
+    word: "overlapping",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const perpendclr = {
+    word: "perpendicular",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const parallel = {
+    word: "parallel",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const planar = {
+    word: "planar",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const positioned = {
+    word: "positioned",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const projecting = {
+    word: "projecting",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const proximate = {
+    word: "proximate",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const radial = {
+    word: "radial",
+    definition: "from centre",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const removable = {
+    word: "removable",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const rectilinear = {
+    word: "rectilinear",
+    definition: "forming a straight line",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const resting = {
+    word: "resting",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const retractable = {
+    word: "retractable",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const spacer = {
+    word: "spacer",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const staggered = {
+    word: "staggered",
+    definition: "zig zag",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const superposed = {
+    word: "superposed",
+    definition: "placed on or above something else",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const supported = {
+    word: "supported",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const surrounding = {
+    word: "surrounding",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
+};
+const symmetrical = {
+    word: "symmetrical",
+    definition: "",
+    tags: [],
+    has_img = false,
+    img_src = ""
 };

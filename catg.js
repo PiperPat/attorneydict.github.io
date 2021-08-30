@@ -108,3 +108,69 @@ const mounting_method = [
     engage,
     fix 
 ];
+
+const spring = [
+    air,
+    bias,
+    element,
+    coil,
+    helical,
+    helcl_comp,
+    helcl_tnsn,
+    leaf,
+    torsional
+];
+
+const numbers = [
+    multiplicity,
+    plurality,
+    several
+];
+
+const placement = [
+    abut,
+    adjacent,
+    aligned,
+    attached,
+    axial,
+    cantilever,
+    complmtry,
+    concentric,
+    eccentric,
+    contiguous,
+    distal_prox,
+    divided,
+    disposed,
+    engaged,
+    extended,
+    inclined,
+    integral,
+    intermediate,
+    interposed,
+    juxtaposed,
+    located,
+    lateral,
+    mating,
+    meshing,
+    normal,
+    offset,
+    opposed,
+    overlapping,
+    perpendclr,
+    parallel,
+    planar,
+    positioned,
+    projecting,
+    proximate,
+    radial,
+    removable,
+    rectilinear,
+    resting,
+    retractable,
+    spacer,
+    staggered,
+    superposed,
+    supported,
+    surrounding,
+    symmetrical
+];
