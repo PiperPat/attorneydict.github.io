@@ -9,6 +9,31 @@ function search(query) {
             results.push(mounting_method[i].word)
         }
     }
+    else if (query == "fastener") {
+        for (let i = 0; i < fastener.length; i++) {   
+            results.push(fastener[i].word)
+        }
+    }
+    else if (query == "bearing") {
+        for (let i = 0; i < bearing.length; i++) {   
+            results.push(bearing[i].word)
+        }
+    }
+    else if (query == "spring") {
+        for (let i = 0; i < spring.length; i++) {   
+            results.push(spring[i].word)
+        }
+    }
+    else if (query == "numbers") {
+        for (let i = 0; i < numbers.length; i++) {   
+            results.push(numbers[i].word)
+        }
+    }
+    else if (query == "placement") {
+        for (let i = 0; i < placement.length; i++) {   
+            results.push(placement[i].word)
+        }
+    }
     let lcHtml = "";
     if (results.length == 0) {
         lcHtml = '<p>nothing matches that query</p>';

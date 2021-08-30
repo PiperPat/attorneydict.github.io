@@ -108,7 +108,47 @@ const mounting_method = [
     engage,
     fix 
 ];
-
+const fastener = [
+    bolt,
+    cable,
+    clip,
+    clamp,
+    connection,
+    coupling,
+    dowel,
+    hld_dwn,
+    hook,
+    joint,
+    unv_jnt,
+    keeper,
+    key,
+    latch,
+    lock,
+    lug,
+    nail,
+    nut,
+    pin,
+    rivet,
+    screw,
+    seam
+];
+const bearing = [
+    ant_frcn,
+    ant_fr_ball,
+    ant_fr_nedl,
+    ant_fr_roller,
+    ant_fr_tp_rlr,
+    bushing,
+    fulcrum,
+    journal,
+    pivot,
+    radial,
+    seal,
+    seat,
+    sliding,
+    support,
+    thrust
+];
 const spring = [
     air,
     bias,
@@ -120,13 +160,11 @@ const spring = [
     leaf,
     torsional
 ];
-
 const numbers = [
     multiplicity,
     plurality,
     several
 ];
-
 const placement = [
     abut,
     adjacent,
