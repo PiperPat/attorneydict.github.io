@@ -2416,3 +2416,716 @@ const one_way = {
     has_img: false,
     img_src: ""
 };
+
+// position
+
+const angle = {
+    word: "angle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const oblique_angle = {
+    word: "oblique angle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const obtuse_angle = {
+    word: "obtuse angle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const axial = {
+    word: "axial ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const bottom_top = {
+    word: "bottom-top ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const close_open= {
+    word: "close-open",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const crest = {
+    word: "crest ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const edge = {
+    word: "edge",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const external_internal = {
+    word: "external-internal ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const face = {
+    word: "face",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const film = {
+    word: "film ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const horizontal_vertical = {
+    word: "horizontal-vertical ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const lateral = {
+    word: "lateral",
+    definition: "from side to side",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const layer = {
+    word: "layer",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const lower_upper = {
+    word: "lower-upper",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const normal_to_parallel = {
+    word: "normal to-parallel ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const rim = {
+    word: "rim",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const section = {
+    word: "section ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const slant = {
+    word: "slant",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const surface = {
+    word: "surface ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const tilt = {
+    word: "tilt",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// materials
+
+const adhesive = {
+    word: "adhesive ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const concrete = {
+    word: "concrete ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cork= {
+    word: "cork",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const fabric= {
+    word: "fabric",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const fibre= {
+    word: "fibre",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const fluid= {
+    word: "fluid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const insulation = {
+    word: "insulation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const liquid = {
+    word: "liquid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const metal = {
+    word: "metal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const plastic = {
+    word: "plastic ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const refractory = {
+    word: "refractory",
+    definition: "heat resistent",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const sand= {
+    word: "sand",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const wood= {
+    word: "wood",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const scrn = {
+    word: "screen",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// sequence 
+
+const alternate= {
+    word: "alternate",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cyclic= {
+    word: "cyclic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const interval= {
+    word: "interval",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const lag_lead= {
+    word: "lag-lead",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const simultaneously = {
+    word: "simultaneously",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const consecutive = {
+    word: "consecutive",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// Movement
+const compression = {
+    word: "compression",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const downward_upward = {
+    word: "downward-upward",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const drag= {
+    word: "drag",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const eccentric= {
+    word: "eccentric",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const emergent= {
+    word: "emergent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const extensible= {
+    word: "extensible",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const extrude= {
+    word: "extrude",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const grinding= {
+    word: "grinding",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const hinge= {
+    word: "hinge",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const impact= {
+    word: "impact",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const inertia= {
+    word: "inertia",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const oscillate= {
+    word: "oscillate",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const crank = {
+    word: "crank ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pivot= {
+    word: "pivot",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pressing= {
+    word: "pressing",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pulverize= {
+    word: "pulverize",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const sagging= {
+    word: "sagging",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const severing= {
+    word: "severing",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const slidable= {
+    word: "slidable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const terminating= {
+    word: "terminating",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const transverse = {
+    word: "transverse",
+    definition: "clockwise direction",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const traversing= {
+    word: "traversing",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const vibrating= {
+    word: "vibrating",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// Electrical
+
+const contact = {
+    word: "contact",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const electrode = {
+    word: "electrode",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const electromagnet= {
+    word: "electromagnet",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const filament= {
+    word: "filament",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const insulator= {
+    word: "insulator",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const lead = {
+    word: "lead ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const line_cord = {
+    word: "line cord ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const motor = {
+    word: "motor ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const power_supply= {
+    word: "power supply",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const resistance = {
+    word: "resistance ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const socket = {
+    word: "socket ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const solenoid = {
+    word: "solenoid ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const swtch = {
+    word: "switch ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const transformer = {
+    word: "transformer ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const wire= {
+    word: "wire",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// Rotation to translation
+
+const longitudinal= {
+    word: "longitudinal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const bell = {
+    word: "bell ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cam = {
+    word: "cam ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const circ_to_reportical = {
+    word: "circular to reportical ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cam_movement= {
+    word: "cam movement",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const propelling= {
+    word: "propelling",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const connecting_rod = {
+    word: "connecting rod ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const crank_arm= {
+    word: "crank arm",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const jack= {
+    word: "jack",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const radius_bar = {
+    word: "radius bar ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const screw= {
+    word: "screw",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const winch= {
+    word: "winch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const yoke= {
+    word: "yoke",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// Translation to translation
+
+const inclined_plane = {
+    word: "inclined plane ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const lever= {
+    word: "lever",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const linkage= {
+    word: "linkage",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const parallel= {
+    word: "parallel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const straight_line= {
+    word: "straight line",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const motion= {
+    word: "motion",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const toggle = {
+    word: "toggle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};

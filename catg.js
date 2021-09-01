@@ -368,3 +368,116 @@ const fluid_flow = [
     non_return,
     one_way
 ];
+const position = [
+    angle,
+    oblique_angle,
+    obtuse_angle,
+    axial,
+    bottom_top,
+    close_open,
+    crest,
+    edge,
+    external_internal,
+    face,
+    film,
+    horizontal_vertical,
+    lateral,
+    layer,
+    lower_upper,
+    normal_to_parallel,
+    rim,
+    section,
+    slant,
+    surface,
+    tilt
+];
+const materials = [
+    adhesive,
+    concrete,
+    cork,
+    fabric,
+    fibre,
+    fluid,
+    insulation,
+    liquid,
+    metal,
+    plastic,
+    refractory,
+    sand,
+    wood,
+    scrn
+];
+const sequence = [
+    alternate,
+    cyclic,
+    interval,
+    lag_lead,
+    simultaneously,
+    consecutive
+];
+const movement = [
+    compression,
+    downward_upward,
+    drag,
+    eccentric,
+    emergent,
+    extensible,
+    extrude,
+    grinding,
+    hinge,
+    impact,
+    inertia,
+    oscillate,
+    crank,
+    pivot,
+    pressing,
+    pulverize,
+    sagging,
+    severing,
+    slidable,
+    terminating,
+    transverse,
+    traversing,
+    vibrating
+];
+const electrical = [
+    contact,
+    electrode,
+    electromagnet,
+    filament,
+    insulator,
+    lead,
+    line_cord,
+    motor,
+    power_supply,
+    resistance,
+    socket,
+    solenoid,
+    swtch,
+    transformer,
+    wire
+];
+const rot_to_trnsln = [
+    longitudinal,
+    bell,
+    cam,
+    circ_to_reportical,
+    cam_movement,
+    propelling,
+    connecting_rod,
+    crank_arm,
+    jack,
+    radius_bar,
+    screw,
+    winch,
+    yoke
+];
+const trnsln_to_trnsln = [
+    inclined_plane,
+    lever,
+    linkage,
+    parallel,
+    straight_line,
+    motion,
+    toggle
+];
