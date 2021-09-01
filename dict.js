@@ -1897,3 +1897,147 @@ const wedge = {
     has_img: false,
     img_src: ""
 };
+
+
+// material properties
+
+const collapsible = {
+    word: "collapsible",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const contractable = {
+    word: "contractable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const deformable = {
+    word: "deformable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const dense = {
+    word: "dense",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const elastic = {
+    word: "elastic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const enlarged = {
+    word: "enlarged",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const expandable = {
+    word: "expandable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const embiggened = {
+    word: "embiggened",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const flexible = {
+    word: "flexible",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const foldable = {
+    word: "foldable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const foraminous = {
+    word: "foraminous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const fixed = {
+    word: "fixed",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const insulation = {
+    word: "insulation",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const opaque = {
+    word: "opaque",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const permeable = {
+    word: "permeable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const porous = {
+    word: "porous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const resilient = {
+    word: "resilient",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const rigid = {
+    word: "rigid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const translucent = {
+    word: "translucent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const transparent = {
+    word: "transparent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};

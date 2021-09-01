@@ -289,3 +289,25 @@ const shapes = [
     web,
     wedge
 ];
+const material_prop = [
+    collapsible,
+    contractable,
+    deformable,
+    dense,
+    elastic,
+    enlarged,
+    expandable,
+    embiggened,
+    flexible,
+    foldable,
+    foraminous,
+    fixed,
+    insulation,
+    opaque,
+    permeable,
+    porous,
+    resilient,
+    rigid,
+    translucent,
+    transparent
+];

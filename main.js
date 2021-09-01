@@ -44,6 +44,11 @@ function search(query) {
             results.push(shapes[i].word)
         }
     }
+    else if (query == "material properties") {
+        for (let i = 0; i < material_prop.length; i++) {   
+            results.push(material_prop[i].word)
+        }
+    }
     let lcHtml = "";
     if (results.length == 0) {
         lcHtml = '<p>nothing matches that query</p>';
