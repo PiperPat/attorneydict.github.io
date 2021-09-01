@@ -39,6 +39,11 @@ function search(query) {
             results.push(voids[i].word)
         }
     }
+    else if (query == "shapes") {
+        for (let i = 0; i < shapes.length; i++) {   
+            results.push(shapes[i].word)
+        }
+    }
     let lcHtml = "";
     if (results.length == 0) {
         lcHtml = '<p>nothing matches that query</p>';

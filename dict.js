@@ -1552,3 +1552,348 @@ const socket = {
     has_img: false,
     img_src: ""
 };
+
+// shape
+const x_shaped = {
+    word: "A-, ... Z-shaped",
+    definition: "For example, a C-shaped member",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const t_shaped = {
+    word: "T-shaped",
+    definition: "cross piece with stem",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const annular = {
+    word: "annular",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const arch = {
+    word: "arch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const arculate = {
+    word: "arculate",
+    definition: "like an arc",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const barrel = {
+    word: "barrel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const bevel = {
+    word: "bevel",
+    definition: "sloping",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const buldged = {
+    word: "buldged",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const bucket = {
+    word: "bucket",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const chamfered = {
+    word: "chamfered",
+    definition: "right angle edge",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const circular = {
+    word: "circular",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const concave = {
+    word: "concave",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const convex = {
+    word: "convex",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const conical = {
+    word: "conical",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const corrugated = {
+    word: "corrugated",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cuboid = {
+    word: "cuboid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cup = {
+    word: "cup",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cylinder = {
+    word: "cylinder",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cylindroid = {
+    word: "cylindroid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const depression = {
+    word: "depression",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const disc = {
+    word: "disc",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const dome = {
+    word: "dome",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const elliptical = {
+    word: "elliptical",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const fin = {
+    word: "fin",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const fold = {
+    word: "fold",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const fork = {
+    word: "fork",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const frusto = {
+    word: "frusto",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const hr_gls_shp = {
+    word: "hour glass shape",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const inclinded = {
+    word: "inclinded",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const oblong = {
+    word: "oblong",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const parabolic = {
+    word: "parabolic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const plane = {
+    word: "plane",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const phombic = {
+    word: "phombic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const rectangular = {
+    word: "rectangular",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const round = {
+    word: "round",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const shelf = {
+    word: "shelf",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const sinusoidal = {
+    word: "sinusoidal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const spherical = {
+    word: "spherical",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const square = {
+    word: "square",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const stepped = {
+    word: "stepped",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const taper = {
+    word: "taper",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const trapezoid = {
+    word: "trapezoid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const triangular = {
+    word: "triangular",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const truncate = {
+    word: "truncate",
+    definition: "cut off top",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const trough = {
+    word: "trough",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const tubular = {
+    word: "tubular",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const twist = {
+    word: "twist",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const waisted = {
+    word: "waisted",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const wedge = {
+    word: "wedge",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
