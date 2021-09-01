@@ -49,6 +49,16 @@ function search(query) {
             results.push(material_prop[i].word)
         }
     }
+    else if (query == "optical") {
+        for (let i = 0; i < optical.length; i++) {   
+            results.push(optical[i].word)
+        }
+    }
+    else if (query == "fluid flow") {
+        for (let i = 0; i < fluid_flow.length; i++) {   
+            results.push(fluid_flow[i].word)
+        }
+    }
     let lcHtml = "";
     if (results.length == 0) {
         lcHtml = '<p>nothing matches that query</p>';

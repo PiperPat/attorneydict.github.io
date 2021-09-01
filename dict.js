@@ -2041,3 +2041,378 @@ const transparent = {
     has_img: false,
     img_src: ""
 };
+
+// optical
+const bezel = {
+    word: "bezel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const bulb = {
+    word: "bulb",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const fluorescent_bulb = {
+    word: "fluorescent bulb",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const incandescent_bulb = {
+    word: "incandescent bulb",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const lamp = {
+    word: "lamp",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const light_beam = {
+    word: "light beam",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const light_ray = {
+    word: "light ray",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const reflection = {
+    word: "reflection",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const refraction = {
+    word: "refraction",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const transmission = {
+    word: "transmission",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const wndw = { // window var name was caused a weird problem
+    word: "window",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// fluid flow
+const accumulator = {
+    word: "accumulator",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const aspirator = {
+    word: "aspirator",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const bellows = {
+    word: "bellows",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const conduit = {
+    word: "conduit",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const connector = {
+    word: "connector",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const convection = {
+    word: "convection",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cylinder_piston = {
+    word: "cylinder piston",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cylinder_rod = {
+    word: "cylinder rod",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const dashpot = {
+    word: "dashpot",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const diaphragm = {
+    word: "diaphragm",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const discharge = {
+    word: "discharge",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const dispenser = {
+    word: "dispenser",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const filter = {
+    word: "filter",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const flue = {
+    word: "flue",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const gasket = {
+    word: "gasket",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const hose = {
+    word: "hose",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const hydraulic = {
+    word: "hydraulic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const medium = {
+    word: "medium",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const nozzle = {
+    word: "nozzle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const outlet = {
+    word: "outlet",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pipe = {
+    word: "pipe",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const plunger = {
+    word: "plunger",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const port = {
+    word: "port",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const inlet_port = {
+    word: "inlet port",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const outlet_port = {
+    word: "outlet port",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pump = {
+    word: "pump",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const centrifugal_pump = {
+    word: "centrifugal pump",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const gear_pump = {
+    word: "gear pump",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const piston_pump = {
+    word: "piston pump",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const vane_pump = {
+    word: "vane pump",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const reservoir = {
+    word: "reservoir",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const seal = {
+    word: "seal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const siphon = {
+    word: "siphon",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const tank = {
+    word: "tank",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const tube = {
+    word: "tube",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const valve = {
+    word: "valve",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const ball_check_valve = {
+    word: "ball-check valve",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const control_valve = {
+    word: "control valve",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const gate_valve = {
+    word: "gate valve",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const shut_off_valve = {
+    word: "shut-off valve",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const non_return = {
+    word: "non-return",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const one_way = {
+    word: "one-way",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
