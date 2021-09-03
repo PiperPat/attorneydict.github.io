@@ -2339,13 +2339,6 @@ const reservoir = {
     has_img: false,
     img_src: ""
 };
-const seal = {
-    word: "seal",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
 const siphon = {
     word: "siphon",
     definition: "",
@@ -2440,13 +2433,6 @@ const obtuse_angle = {
     has_img: false,
     img_src: ""
 };
-const axial = {
-    word: "axial ",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
 const bottom_top = {
     word: "bottom-top ",
     definition: "",
@@ -2499,13 +2485,6 @@ const film = {
 const horizontal_vertical = {
     word: "horizontal-vertical ",
     definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
-const lateral = {
-    word: "lateral",
-    definition: "from side to side",
     tags: [],
     has_img: false,
     img_src: ""
@@ -2606,13 +2585,6 @@ const fibre= {
 };
 const fluid= {
     word: "fluid",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
-const insulation = {
-    word: "insulation ",
     definition: "",
     tags: [],
     has_img: false,
@@ -2735,13 +2707,6 @@ const drag= {
     has_img: false,
     img_src: ""
 };
-const eccentric= {
-    word: "eccentric",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
 const emergent= {
     word: "emergent",
     definition: "",
@@ -2770,13 +2735,6 @@ const grinding= {
     has_img: false,
     img_src: ""
 };
-const hinge= {
-    word: "hinge",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
 const impact= {
     word: "impact",
     definition: "",
@@ -2800,13 +2758,6 @@ const oscillate= {
 };
 const crank = {
     word: "crank ",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
-const pivot= {
-    word: "pivot",
     definition: "",
     tags: [],
     has_img: false,
@@ -2948,13 +2899,6 @@ const resistance = {
     has_img: false,
     img_src: ""
 };
-const socket = {
-    word: "socket ",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
 const solenoid = {
     word: "solenoid ",
     definition: "",
@@ -3056,13 +3000,6 @@ const radius_bar = {
     has_img: false,
     img_src: ""
 };
-const screw= {
-    word: "screw",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
 const winch= {
     word: "winch",
     definition: "",
@@ -3101,13 +3038,6 @@ const linkage= {
     has_img: false,
     img_src: ""
 };
-const parallel= {
-    word: "parallel",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: ""
-};
 const straight_line= {
     word: "straight line",
     definition: "",
@@ -3124,6 +3054,170 @@ const motion= {
 };
 const toggle = {
     word: "toggle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+
+// rotation to rotation
+
+const brake = {
+    word: "brake",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const chain = {
+    word: "chain",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const clutch = {
+    word: "clutch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const centrifugal  = {
+    word: "centrifugal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const sprag = {
+    word: "sprag",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const toothed = {
+    word: "toothed",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const drive = {
+    word: "drive",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pulley = {
+    word: "pulley",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const sheave  = {
+    word: "sheave ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const friction = {
+    word: "friction",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const gear = {
+    word: "gear",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const bvl_crwn_int = {
+    word: "bevel crown internal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const non_circular = {
+    word: "non-circular",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pinion = {
+    word: "pinion",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const right_angle = {
+    word: "right angle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const spur = {
+    word: "spur",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const worm_n_wheel = {
+    word: "worm and wheel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const intermittent = {
+    word: "intermittent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const geneva = {
+    word: "geneva",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pawl_n_ratchet = {
+    word: "pawl and ratchet",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const pendulum = {
+    word: "pendulum",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const variable_speed  = {
+    word: "variable speed",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const flex_coupling_sprocket = {
+    word: "flexible coupling sprocket",
     definition: "",
     tags: [],
     has_img: false,

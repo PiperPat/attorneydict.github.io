@@ -59,6 +59,51 @@ function search(query) {
             results.push(fluid_flow[i].word)
         }
     }
+    else if (query == "position") {
+        for (let i = 0; i < position.length; i++) {   
+            results.push(position[i].word)
+        }
+    }
+    else if (query == "materials") {
+        for (let i = 0; i < materials.length; i++) {   
+            results.push(materials[i].word)
+        }
+    }
+    else if (query == "sequence") {
+        for (let i = 0; i < sequence.length; i++) {   
+            results.push(sequence[i].word)
+        }
+    }
+    else if (query == "movement") {
+        for (let i = 0; i < movement.length; i++) {   
+            results.push(movement[i].word)
+        }
+    }
+    else if (query == "electrical") {
+        for (let i = 0; i < electrical.length; i++) {   
+            results.push(electrical[i].word)
+        }
+    }
+    else if (query == "rotation to translation") {
+        for (let i = 0; i < rot_to_trnsln.length; i++) {   
+            results.push(rot_to_trnsln[i].word)
+        }
+    }
+    else if (query == "translation to translation") {
+        for (let i = 0; i < trnsln_to_trnsln.length; i++) {   
+            results.push(trnsln_to_trnsln[i].word)
+        }
+    }
+    else if (query == "rotation to rotation") {
+        for (let i = 0; i < rot_to_rot.length; i++) {   
+            results.push(rot_to_rot[i].word)
+        }
+    }
+    // else if (query == "") {
+    //     for (let i = 0; i < .length; i++) {   
+    //         results.push([i].word)
+    //     }
+    // }
     let lcHtml = "";
     if (results.length == 0) {
         lcHtml = '<p>nothing matches that query</p>';
