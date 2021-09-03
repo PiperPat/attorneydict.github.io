@@ -104,6 +104,109 @@ function search(query) {
     //         results.push([i].word)
     //     }
     // }
+    let filter = document.getElementById("categories").value
+    switch (filter) {
+        case "str":
+            for (let i = 0; i < structure.length; i++) {   
+                results.push(structure[i].word)
+            }
+            break;
+        case "mmt":
+            for (let i = 0; i < mounting_method.length; i++) {   
+                results.push(mounting_method[i].word)
+            }
+            break;
+        case "fst":
+            for (let i = 0; i < fastener.length; i++) {   
+                results.push(fastener[i].word)
+            }
+            break;
+        case "brg":
+            for (let i = 0; i < bearing.length; i++) {   
+                results.push(bearing[i].word)
+            }
+            break;
+        case "spr":
+            for (let i = 0; i < spring.length; i++) {   
+                results.push(spring[i].word)
+            }
+            break;
+        case "num":
+            for (let i = 0; i < numbers.length; i++) {   
+                results.push(numbers[i].word)
+            }
+            break;
+        case "plc":
+            for (let i = 0; i < placement.length; i++) {   
+                results.push(placement[i].word)
+            }
+            break;
+        case "vds":
+            for (let i = 0; i < voids.length; i++) {   
+                results.push(voids[i].word)
+            }
+            break;
+        case "shp":
+            for (let i = 0; i < shapes.length; i++) {   
+                results.push(shapes[i].word)
+            }
+            break;
+        case "map":
+            for (let i = 0; i < material_prop.length; i++) {   
+                results.push(material_prop[i].word)
+            }
+            break;
+        case "opt":
+            for (let i = 0; i < optical.length; i++) {   
+                results.push(optical[i].word)
+            }
+            break;
+        case "fld":
+            for (let i = 0; i < fluid_flow.length; i++) {   
+                results.push(fluid_flow[i].word)
+            }
+            break;
+        case "pos":
+            for (let i = 0; i < position.length; i++) {   
+                results.push(position[i].word)
+            }
+            break;
+        case "mat":
+            for (let i = 0; i < materials.length; i++) {   
+                results.push(materials[i].word)
+            }
+            break;
+        case "ele":
+            for (let i = 0; i < electrical.length; i++) {   
+                results.push(electrical[i].word)
+            }
+            break;
+        case "rtt":
+            for (let i = 0; i < rot_to_trnsln.length; i++) {   
+                results.push(rot_to_trnsln[i].word)
+            }
+            break;
+        case "ttt":
+            for (let i = 0; i < trnsln_to_trnsln.length; i++) {   
+                results.push(trnsln_to_trnsln[i].word)
+            }
+            break;
+        case "seq":
+            for (let i = 0; i < sequence.length; i++) {   
+                results.push(sequence[i].word)
+            }
+            break;
+        case "mvt":
+            for (let i = 0; i < movement.length; i++) {   
+                results.push(movement[i].word)
+            }
+            break;
+        case "rtr":
+            for (let i = 0; i < rot_to_rot.length; i++) {   
+                results.push(rot_to_rot[i].word)
+            }
+            break;
+    }
     let lcHtml = "";
     if (results.length == 0) {
         lcHtml = '<p>nothing matches that query</p>';
