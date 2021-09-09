@@ -513,7 +513,7 @@ const rot_to_rot = [
     variable_speed,
     flex_coupling_sprocket
 ];
-extenal = [
+const categ_extenal = [
     body,
     box,
     block,
@@ -537,8 +537,8 @@ extenal = [
     support,
     spprt_struct
 ];
-const member_x = [
-    arm,
+const categ_member = [
+    arm_mbr,
     assembly,
     auxiliary,
     bar,
@@ -547,28 +547,28 @@ const member_x = [
     block,
     box,
     brace,
-    branch,
+    branch_mbr,
     bulkhead,
     bulwark,
     caliper,
     cantilevar,
-    compartment,
+    compartment_mbr,
     component,
     connecting_rod,
     crank,
-    coupling,
+    coupling_mbr,
     extension,
     flag,
-    foot,
+    foot_mbr,
     fork,
     foundation,
-    guide,
+    guide_mbr,
     haft,
     handle,
-    head,
+    head_mbr,
     key,
     knob,
-    leg,
+    leg_mbr,
     lever,
     limb,
     link,
@@ -598,15 +598,15 @@ const member_x = [
     splint,
     stake,
     stanchion,
-    support,
+    support_mbr,
     tappet,
     tenon,
     trestle,
     trigger,
     tripod,
-    wall
+    wall_mbr
 ];
-const projection = [
+const categ_projection = [
     aux_member,
     boss,
     dog,
@@ -640,7 +640,7 @@ const projection = [
     tongue,
     wedge
 ];
-const limit = [
+const categ_limit = [
     abutment,
     apex,
     base,
@@ -668,7 +668,7 @@ const limit = [
     stp,
     sufficient
 ];
-const flang = [
+const categ_flange = [
     chimb,
     chime,
     collar,

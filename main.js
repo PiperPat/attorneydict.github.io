@@ -206,6 +206,35 @@ function search(query) {
                 results.push(rot_to_rot[i].word)
             }
             break;
+        case "ext":
+            for (let i = 0; i < categ_extenal.length; i++) {   
+                results.push(categ_extenal[i].word)
+            }
+        case "mbr":
+            for (let i = 0; i < categ_member.length; i++) {   
+                results.push(categ_member[i].word)
+            }
+            break;
+        case "prj":
+            for (let i = 0; i < categ_projection.length; i++) {   
+                results.push(categ_projection[i].word)
+            }
+            break;
+        case "lmt":
+            for (let i = 0; i < categ_limit.length; i++) {   
+                results.push(categ_limit[i].word)
+            }
+            break;
+        case "flg":
+            for (let i = 0; i < categ_flange.length; i++) {   
+                results.push(categ_flange[i].word)
+            }
+            break;
+        // case "":
+        //     for (let i = 0; i < .length; i++) {   
+        //         results.push([i].word)
+        //     }
+        //     break;       
     }
     let lcHtml = "";
     if (results.length == 0) {
