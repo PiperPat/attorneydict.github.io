@@ -1,4 +1,4 @@
-f = open("data.txt", "r")
+f = open("../dict.js", "r")
 all_data = f.read()
 f.close()
 words = all_data.split(";")
