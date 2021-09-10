@@ -8,13 +8,14 @@
     <script src='rm-repeats/output.js'></script>
     <!-- <script src='catg.js'></script>
     <script src='main.js'></script> -->
+    <script src='categ2.js'></script>
     <script src='dict2.js'></script>
     <link rel='stylesheet' href='functional.css' />
 </head>
 <body>
     <div>
         <label for="categories">General & Mechanical terms</label>
-        <select name="categ" id="categories">
+        <select name="categ" id="categories" onchange="search()">
             <option value="str">structure</option>
             <option value="mmt">Mounting method</option>
             <option value="fst">Fastener</option>
@@ -42,9 +43,6 @@
             <option value="flg">flang</option>
         </select>
         
-        <select name="subcateg" id="subcateg" class="banish"></select>
-        <input type="text" id="searchBox" placeholder="search dictionary..." />
-        <button onclick="search(document.getElementById('searchBox').value)">search</button>
     </div>
     <div id='results'></div>
 </body>
