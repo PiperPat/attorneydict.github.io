@@ -1,4 +1,4 @@
-const structure = [
+const categ_structure = [
     abut_mns,
     adjg_mns,
     actg_mns,
@@ -99,7 +99,7 @@ const structure = [
     wheel ,
     web 
 ];
-const mounting_method = [
+const categ_mounting_method = [
     abut,
     attach,
     bolt,
@@ -108,7 +108,7 @@ const mounting_method = [
     engage,
     fix 
 ];
-const fastener = [
+const categ_fastener = [
     bolt,
     cable,
     clip,
@@ -132,7 +132,7 @@ const fastener = [
     screw,
     seam
 ];
-const bearing = [
+const categ_bearing = [
     ant_frcn,
     ant_fr_ball,
     ant_fr_nedl,
@@ -149,7 +149,7 @@ const bearing = [
     support,
     thrust
 ];
-const spring = [
+const categ_spring = [
     air,
     bias,
     element,
@@ -160,12 +160,12 @@ const spring = [
     leaf,
     torsional
 ];
-const numbers = [
+const categ_numbers = [
     multiplicity,
     plurality,
     several
 ];
-const placement = [
+const categ_placement = [
     abut,
     adjacent,
     aligned,
@@ -212,7 +212,7 @@ const placement = [
     surrounding,
     symmetrical
 ];
-const voids = [
+const categ_voids = [
     aperture,
     bore,
     cavity,
@@ -231,7 +231,7 @@ const voids = [
     slot,
     socket,
 ];
-const shapes = [
+const categ_shapes = [
     x_shaped,
     t_shaped,
     annular,
@@ -289,7 +289,7 @@ const shapes = [
     web,
     wedge
 ];
-const material_prop = [
+const categ_material_prop = [
     collapsible,
     contractable,
     deformable,
@@ -311,7 +311,7 @@ const material_prop = [
     translucent,
     transparent
 ];
-const optical = [
+const categ_optical = [
     bezel,
     bulb,
     fluorescent_bulb,
@@ -324,7 +324,7 @@ const optical = [
     transmission,
     wndw
 ];
-const fluid_flow = [
+const categ_fluid_flow = [
     accumulator,
     aspirator,
     bellows,
@@ -368,7 +368,7 @@ const fluid_flow = [
     non_return,
     one_way
 ];
-const position = [
+const categ_position = [
     angle,
     oblique_angle,
     obtuse_angle,
@@ -391,7 +391,7 @@ const position = [
     surface,
     tilt
 ];
-const materials = [
+const categ_materials = [
     adhesive,
     concrete,
     cork,
@@ -407,7 +407,7 @@ const materials = [
     wood,
     scrn
 ];
-const sequence = [
+const categ_sequence = [
     alternate,
     cyclic,
     interval,
@@ -415,7 +415,7 @@ const sequence = [
     simultaneously,
     consecutive
 ];
-const movement = [
+const categ_movement = [
     compression,
     downward_upward,
     drag,
@@ -440,7 +440,7 @@ const movement = [
     traversing,
     vibrating
 ];
-const electrical = [
+const categ_electrical = [
     contact,
     electrode,
     electromagnet,
@@ -457,7 +457,7 @@ const electrical = [
     transformer,
     wire
 ];
-const rot_to_trnsln = [
+const categ_rot_to_trnsln = [
     longitudinal,
     bell,
     cam,
@@ -472,7 +472,7 @@ const rot_to_trnsln = [
     winch,
     yoke
 ];
-const trnsln_to_trnsln = [
+const categ_trnsln_to_trnsln = [
     inclined_plane,
     lever,
     linkage,
@@ -481,7 +481,7 @@ const trnsln_to_trnsln = [
     motion,
     toggle
 ];
-const rot_to_rot = [
+const categ_rot_to_rot = [
     brake,
     band,
     disc,
@@ -689,3 +689,174 @@ const categ_flange = [
     skirt,
     slat
 ];
+const categ_edge = [
+    boundary ,
+    cheek ,
+    corner_ext ,
+    cornice ,
+    edge ,
+    edge ,
+    face ,
+    flank ,
+    profile ,
+    ridge ,
+    rim ,
+    screen ,
+    shape ,
+    side ,
+    skimmer 
+];
+const categ_wedge = [
+    angled_surface ,
+    cam_means ,
+    force_fit ,
+    incline ,
+    inclined_surface ,
+    key ,
+    pin ,
+    ramp ,
+    screw ,
+    slope ,
+    edge 
+];
+const categ_point = [
+    apex ,
+    cornice ,
+    crest ,
+    crown ,
+    ad ,
+    head ,
+    heel ,
+    knob ,
+    terminus ,
+    tail ,
+    tip ,
+    toe ,
+    top ,
+    vertex ,
+    zenith 
+];  
+const categ_slab_categ = [
+    bar ,
+    billet ,
+    base ,
+    bed ,
+    block ,
+    chunky ,
+    ceiling ,
+    staunchion ,
+    floor ,
+    flange ,
+    foundation ,
+    ground ,
+    mat  ,
+    plank ,
+    plane ,
+    platform ,
+    rest ,
+    shelf ,
+    slab ,
+    stage ,
+    slice 
+];
+const categ_sheet = [
+    film ,
+    foil ,
+    laminate ,
+    layer ,
+    membrane ,
+    plate ,
+    scale ,
+    sheet ,
+    sliver ,
+    slab ,
+    slice ,
+    wafer ,
+    bearer ,
+    boom ,
+    brace ,
+    column ,
+    guy ,
+    loading_bearing ,
+    mast ,
+    pillar ,
+    pole ,
+    prop ,
+    rigging ,
+    spar ,
+    stay ,
+    stave ,
+    stud ,
+    staunchion ,
+    upright ,
+    BEAM ,
+    arch ,
+    beam ,
+    cantilever ,
+    chord ,
+    girder ,
+    jamb ,
+    joist ,
+    lintel ,
+    prop ,
+    rafter ,
+    RSJ ,
+    tie_bar ,
+    tie_beam ,
+    transom ,
+    truss 
+];
+const categ_beam = [
+    axis ,
+    axle ,
+    bar ,
+    cordon ,
+    castor ,
+    column ,
+    counter_shaft ,
+    crank ,
+    king_pin ,
+    mandrel ,
+    nip_bw_rllrs ,
+    pillar ,
+    pin ,
+    pivot ,
+    pole ,
+    rod ,
+    roll ,
+    roller ,
+    rotor ,
+    shaft  ,
+    shank ,
+    spindle ,
+    stub_axl_shft ,
+    support ,
+    trunnion ,
+    tube ,
+    wheel 
+];
+const categ_bearing_again = [
+    articulated ,
+    ball_b ,
+    bearing ,
+    bush ,
+    chuck ,
+    castor ,
+    fulcrum ,
+    hinge ,
+    jewel ,
+    joint ,
+    journal ,
+    king_pin ,
+    knife_edge ,
+    mandrel ,
+    needle ,
+    pivot ,
+    plummer ,
+    roller_b ,
+    saddle ,
+    slipper ,
+    swing ,
+    swivel 
+];
+    

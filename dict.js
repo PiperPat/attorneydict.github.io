@@ -4159,3 +4159,1113 @@ const slat = {
     has_img: false,
     img_src: ''
 };
+
+// EDGE
+const boundary = {
+    word: 'boundary',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const cheek = {
+    word: 'cheek',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const corner_ext = {
+    word: 'corner (external)',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const cornice = {
+    word: 'cornice',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const edge = {
+    word: 'edge',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const edge = {
+    word: 'edge',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const face = {
+    word: 'face',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const flank = {
+    word: 'flank',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const profile = {
+    word: 'profile',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const ridge = {
+    word: 'ridge',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const rim = {
+    word: 'rim',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const screen = {
+    word: 'screen',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const shape = {
+    word: 'shape',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const side = {
+    word: 'side',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const skimmer = {
+    word: 'skimmer',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+
+//WEDGE
+const angled_surface = {
+    word: 'angled surface',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const cam_means = {
+    word: 'cam means',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const force_fit = {
+    word: 'force fit',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const incline = {
+    word: 'incline',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const inclined_surface = {
+    word: 'inclined surface',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const key = {
+    word: 'key',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const pin = {
+    word: 'pin',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const ramp = {
+    word: 'ramp',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const screw = {
+    word: 'screw',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const slope = {
+    word: 'slope',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const edge = {
+    word: 'edge',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+
+// POINT
+const apex = {
+    word: 'apex',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const cornice = {
+    word: 'cornice',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const crest = {
+    word: 'crest',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const crown = {
+    word: 'crown',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const ad = {
+    word: 'ad',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const head = {
+    word: 'head',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const heel = {
+    word: 'heel',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const knob = {
+    word: 'knob',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const terminus = {
+    word: 'terminus',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const tail = {
+    word: 'tail',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const tip = {
+    word: 'tip',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const toe = {
+    word: 'toe',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const top_word = {
+    word: 'top',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const vertex = {
+    word: 'vertex',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const zenith = {
+    word: 'zenith',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+
+
+// SLAB
+const bar = {
+    word: 'bar',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const billet = {
+    word: 'billet',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const base = {
+    word: 'base',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const bed = {
+    word: 'bed',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const block = {
+    word: 'block',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const chunky = {
+    word: 'chunk(y)',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const ceiling = {
+    word: 'ceiling',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const staunchion = {
+    word: 'staunchion',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const floor = {
+    word: 'floor',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const flange = {
+    word: 'flange',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const foundation = {
+    word: 'foundation',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const ground = {
+    word: 'ground',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const mat  = {
+    word: 'mat ',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const plank = {
+    word: 'plank',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const plane = {
+    word: 'plane',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const platform = {
+    word: 'platform',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const rest = {
+    word: 'rest',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const shelf = {
+    word: 'shelf',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const slab = {
+    word: 'slab',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const stage = {
+    word: 'stage',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const slice = {
+    word: 'slice',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+
+
+// SHEET
+const film = {
+    word: 'film',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const foil = {
+    word: 'foil',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const laminate = {
+    word: 'laminate',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const layer = {
+    word: 'layer',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const membrane = {
+    word: 'membrane',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const plate = {
+    word: 'plate',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const scale = {
+    word: 'scale',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const sheet = {
+    word: 'sheet',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const sliver = {
+    word: 'sliver',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const slab = {
+    word: 'slab',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const slice = {
+    word: 'slice',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const wafer = {
+    word: 'wafer',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const bearer = {
+    word: 'bearer',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const boom = {
+    word: 'boom',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const brace = {
+    word: 'brace',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const column = {
+    word: 'column',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const guy = {
+    word: 'guy',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const loading_bearing = {
+    word: 'loading-bearing',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const mast = {
+    word: 'mast',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const pillar = {
+    word: 'pillar',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const pole = {
+    word: 'pole',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const prop = {
+    word: 'prop',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const rigging = {
+    word: 'rigging',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const spar = {
+    word: 'spar',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const stay = {
+    word: 'stay',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const stave = {
+    word: 'stave',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const stud = {
+    word: 'stud',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const staunchion = {
+    word: 'staunchion',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const upright = {
+    word: 'upright',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const BEAM = {
+    word: 'BEAM',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const arch = {
+    word: 'arch',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const beam = {
+    word: 'beam',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const cantilever = {
+    word: 'cantilever',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const chord = {
+    word: 'chord',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const girder = {
+    word: 'girder',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const jamb = {
+    word: 'jamb',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const joist = {
+    word: 'joist',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const lintel = {
+    word: 'lintel',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const prop = {
+    word: 'prop',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const rafter = {
+    word: 'rafter',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const RSJ = {
+    word: 'RSJ',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const tie_bar = {
+    word: 'tie bar',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const tie_beam = {
+    word: 'tie beam',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const transom = {
+    word: 'transom',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const truss = {
+    word: 'truss',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+
+
+// BEAM
+const axis = {
+    word: 'axis',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const axle = {
+    word: 'axle',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const bar = {
+    word: 'bar',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const cordon = {
+    word: 'cordon',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const castor = {
+    word: 'castor',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const column = {
+    word: 'column',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const counter_shaft = {
+    word: 'counter shaft',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const crank = {
+    word: 'crank',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const king_pin = {
+    word: 'king pin',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const mandrel = {
+    word: 'mandrel',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const nip_bw_rllrs = {
+    word: 'nip (between rollers)',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const pillar = {
+    word: 'pillar',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const pin = {
+    word: 'pin',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const pivot = {
+    word: 'pivot',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const pole = {
+    word: 'pole',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const rod = {
+    word: 'rod',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const roll = {
+    word: 'roll',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const roller = {
+    word: 'roller',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const rotor = {
+    word: 'rotor',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const shaft  = {
+    word: 'shaft ',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const shank = {
+    word: 'shank',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const spindle = {
+    word: 'spindle',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const stub_axl_shft = {
+    word: 'stub axle/shaft',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const support = {
+    word: 'support',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const trunnion = {
+    word: 'trunnion',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const tube = {
+    word: 'tube',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const wheel = {
+    word: 'wheel',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+
+
+// BEARING
+const articulated = {
+    word: 'articulated',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const ball_b = {
+    word: 'ball b',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const bearing = {
+    word: 'bearing',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const bush = {
+    word: 'bush',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const chuck = {
+    word: 'chuck',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const castor = {
+    word: 'castor',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const fulcrum = {
+    word: 'fulcrum',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const hinge = {
+    word: 'hinge',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const jewel = {
+    word: 'jewel',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const joint = {
+    word: 'joint',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const journal = {
+    word: 'journal',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const king_pin = {
+    word: 'king pin',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const knife_edge = {
+    word: 'knife edge',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const mandrel = {
+    word: 'mandrel',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const needle = {
+    word: 'needle',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const pivot = {
+    word: 'pivot',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const plummer = {
+    word: 'plummer',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const roller_b = {
+    word: 'roller b',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const saddle = {
+    word: 'saddle',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const slipper = {
+    word: 'slipper',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const swing = {
+    word: 'swing',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
+const swivel = {
+    word: 'swivel',
+    definition: '',
+    tags: [],
+    has_img: false,
+    img_src: ''
+};
