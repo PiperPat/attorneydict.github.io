@@ -342,6 +342,30 @@ categ_bearing_again = {
 		slipper ,	    swing ,	    swivel 	
 	]
 };
+categ_plug = {
+	code: "plg",
+	contents: [
+		bung,   check, clack_v, cock,    cork,   diaphram_v,    flap,   
+		gate_v,    globe_v,    needle, non_return,  plug, poppet,  relief_v, 
+		spigot,  stopper,  tap,  throttle, valve,   
+	]
+};
+categ_gear = {
+	code: "gea",
+	contents: [
+		bevel_g,    cam,    cog,    comb,   differential_gear, gear_train,  
+		gear_ratio,   helical_g, pawl,    pinion, rack,    ratchet,    screw,  
+		spiral,   spoke, Sprocket,    Spur_g, toothed_wheel,   worm_g,    
+		cable,  cable_hook,   crane, dead_end,    dead_eye,   ferrule,   hoist, 
+		pulley,  roller,   runner,    snatch, block,   tackle,    sheave, 
+	]
+};
+// categ_ = {
+// 	code: "",
+// 	contents: [
+
+// 	]
+// };
 
 categories = [
     categ_structure, categ_mounting_method, categ_fastener, categ_bearing, 
@@ -351,5 +375,5 @@ categories = [
     categ_rot_to_trnsln, categ_trnsln_to_trnsln, categ_rot_to_rot, categ_extenal, 
     categ_member, categ_projection, categ_limit, categ_flange, categ_edge, 
     categ_wedge, categ_point, categ_slab, categ_sheet, categ_beam, 
-    categ_bearing_again
+    categ_bearing_again, categ_plug
 ];

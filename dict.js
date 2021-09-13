@@ -5269,3 +5269,238 @@ const swivel = {
     has_img: false,
     img_src: ''
 };
+//plug
+const bung  = {
+    word: "bung ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const check = {
+    word: "check",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const clack_v = {
+    word: "clack v",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cock = {
+    word: "cock",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const cork  = {
+    word: "cork ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const diaphram_v  = {
+    word: "diaphram v ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const flap = {
+    word: "flap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const gate_v  = {
+    word: "gate v ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const globe_v  = {
+    word: "globe v ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const needle  = {
+    word: "needle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const non_return  = {
+    word: "non-return ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const plug = {
+    word: "plug",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const poppet  = {
+    word: "poppet ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const relief_v = {
+    word: "relief v",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const spigot = {
+    word: "spigot",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const stopper = {
+    word: "stopper",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const tap = {
+    word: "tap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const throttle  = {
+    word: "throttle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+const valve = {
+    word: "valve",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+};
+// Giving up on datastructure from here
+// gear
+const bevel_g = {
+    word: "bevel gear",
+};
+const cam = {
+    word: "cam",
+};
+const cog = {
+    word: "cog",
+};
+const comb  = {
+    word: "comb ",
+};
+const differential_gear = {
+    word: "differential gear",
+};
+const gear_train  = {
+    word: "gear train ",
+};
+const gear_ratio  = {
+    word: "gear ratio ",
+};
+const helical_g  = {
+    word: "helical gear",
+};
+const pawl = {
+    word: "pawl",
+};
+const pinion  = {
+    word: "pinion ",
+};
+const rack = {
+    word: "rack",
+};
+const ratchet  = {
+    word: "ratchet ",
+};
+const screw  = {
+    word: "screw ",
+};
+const spiral  = {
+    word: "spiral ",
+};
+const spoke = {
+    word: "spoke",
+};
+const Sprocket = {
+    word: "Sprocket",
+};
+const Spur_g  = {
+    word: "Spur gear",
+};
+const toothed_wheel  = {
+    word: "toothed wheel ",
+};
+const worm_g = {
+    word: "worm gear",
+};
+const cable = {
+    word: "cable",
+};
+const cable_hook  = {
+    word: "cable hook ",
+};
+const crane = {
+    word: "crane",
+};
+const dead_end  = {
+    word: "dead-end ",
+};
+const dead_eye = {
+    word: "dead-eye",
+};
+const ferrule  = {
+    word: "ferrule ",
+};
+const hoist = {
+    word: "hoist",
+};
+const pulley  = {
+    word: "pulley ",
+};
+const roller  = {
+    word: "roller ",
+};
+const runner = {
+    word: "runner",
+};
+const snatch  = {
+    word: "snatch ",
+};
+const block  = {
+    word: "block ",
+};
+const tackle = {
+    word: "tackle",
+};
+const sheave = {
+    word: "sheave",
+};
