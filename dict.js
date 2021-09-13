@@ -5527,3 +5527,310 @@ const grips= {
     word: "grips"
 };
 
+// SPRING
+
+const biassing_means  = {
+    word: "biasing means"
+};
+const buffer = {
+    word: "buffer"
+};
+const coil = {
+    word: "coil"
+};
+const compression_s  = {
+    word: "compression s"
+};
+const corkscrew  = {
+    word: "corkscrew"
+};
+const eliptical_s  = {
+    word: "eliptical s"
+};
+const extensible_tendon  = {
+    word: "extensible tendon"
+};
+const helical_s = {
+    word: "helical s"
+};
+const helix = {
+    word: "helix"
+};
+const leaf_s = {
+    word: "leaf s"
+};
+const resilient  = {
+    word: "resilient"
+};
+const semi_eliptical  = {
+    word: "semi-eliptical"
+};
+const spiral_s  = {
+    word: "spiral s"
+};
+const torsion_bar  = {
+    word: "torsion bar"
+};
+const torsion_s  = {
+    word: "torsion s"
+};
+const threaded = {
+    word: "threaded"
+};
+const urging_means  = {
+    word: "urging means"
+};
+const vortex = {
+    word: "vortex"
+};
+const load = {
+    word: "load"
+};
+const inertial_body  = {
+    word: "inertial body"
+};
+const gross_weight  = {
+    word: "gross weight"
+};
+const mass = {
+    word: "mass"
+};
+const tare_weight = {
+    word: "tare weight"
+};
+
+//LIFT
+
+const capstan = {
+    word: "capstan"
+};
+const cable_hoist  = {
+    word: "cable hoist"
+};
+const conveyor = {
+    word: "conveyor"
+};
+const crane  = {
+    word: "crane"
+};
+const derrick  = {
+    word: "derrick"
+};
+const elevator = {
+    word: "elevator"
+};
+const hoist  = {
+    word: "hoist"
+};
+const jack = {
+    word: "jack"
+};
+const jemmy  = {
+    word: "jemmy"
+};
+const lever  = {
+    word: "lever"
+};
+const lift = {
+    word: "lift"
+};
+const scaffold  = {
+    word: "scaffold"
+};
+const support = {
+    word: "support"
+};
+const winch  = {
+    word: "winch"
+};
+const windlass = {
+    word: "windlass"
+};
+
+
+// FIBRE
+
+const band  = {
+    word: "band"
+};
+const braided = {
+    word: "braid (ed)"
+};
+const cable  = {
+    word: "cable"
+};
+const chain  = {
+    word: "chain"
+};
+const cord  = {
+    word: "cord"
+};
+const fibre  = {
+    word: "fibre"
+};
+const fibril = {
+    word: "fibril"
+};
+const filament = {
+    word: "filament"
+};
+const hemp_filament  = {
+    word: "hemp filament"
+};
+const lace_filament = {
+    word: "lace filament"
+};
+const line_filament = {
+    word: "line filament"
+};
+const rope_filament = {
+    word: "rope filament"
+};
+const sheet  = {
+    word: "sheet"
+};
+const strand = {
+    word: "strand"
+};
+const strap  = {
+    word: "strap"
+};
+const string  = {
+    word: "string"
+};
+const strip  = {
+    word: "strip"
+};
+const tape = {
+    word: "tape"
+};
+const tendril = {
+    word: "tendril"
+};
+const twisted  = {
+    word: "twist(ed)"
+};
+const warp = {
+    word: "warp"
+};
+const weft  = {
+    word: "weft"
+};
+const wire  = {
+    word: "wire"
+};
+const winding  = {
+    word: "winding"
+};
+const yarn = {
+    word: "yarn"
+};
+
+
+// RECEPTACLE
+
+const ampoule  = {
+    word: "ampoule"
+};
+const bag = {
+    word: "bag"
+};
+const barrel  = {
+    word: "barrel"
+};
+const beaker = {
+    word: "beaker"
+};
+const bin  = {
+    word: "bin"
+};
+const bladder  = {
+    word: "bladder"
+};
+const bottle = {
+    word: "bottle"
+};
+const bowl  = {
+    word: "bowl"
+};
+const box  = {
+    word: "box"
+};
+const bunker = {
+    word: "bunker"
+};
+const calabash = {
+    word: "calabash"
+};
+const can = {
+    word: "can"
+};
+const capsule = {
+    word: "capsule"
+};
+const carton  = {
+    word: "carton"
+};
+const case_word = {
+    word: "case"
+};
+const catchment  = {
+    word: "catchment"
+};
+const cellar  = {
+    word: "cellar"
+};
+const chamber  = {
+    word: "chamber"
+};
+const cistern  = {
+    word: "cistern"
+};
+const coffer  = {
+    word: "coffer"
+};
+const container  = {
+    word: "container"
+};
+const depot  = {
+    word: "depot"
+};
+const drain = {
+    word: "drain"
+};
+const drum  = {
+    word: "drum"
+};
+const dump  = {
+    word: "dump"
+};
+const gourd  = {
+    word: "gourd"
+};
+const hod = {
+    word: "hod"
+};
+const hold  = {
+    word: "hold"
+};
+const hopper = {
+    word: "hopper"
+};
+const jar = {
+    word: "jar"
+};
+const jug = {
+    word: "jug"
+};
+const pan = {
+    word: "pan"
+};
+const phial  = {
+    word: "phial"
+};
+const receptacle  = {
+    word: "receptacle"
+};
+const reservoir = {
+    word: "reservoir"
+};

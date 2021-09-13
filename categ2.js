@@ -368,12 +368,40 @@ categ_jaws = {
 	]
 };
 
-// categ_ = {
-// 	code: "",
-// 	contents: [
-
-// 	]
-// };
+categ_spring_again = {
+	code: "spr",
+	contents: [
+		biassing_means, buffer,  coil, compression_s,   corkscrew, eliptical_s, 
+		extensible_tendon,   helical_s, helix,   leaf_s,    resilient,  semi_eliptical,   
+		spiral_s,  torsion_bar,  torsion_s,    threaded,   urging_means,  vortex,   
+		load,  inertial_body,    gross_weight,   mass,  tare_weight,  
+	]
+};
+categ_lift = {
+	code: "lft",
+	contents: [
+		capstan,    cable_hoist,    conveyor,   crane, derrick, elevator,    
+		hoist,  jack, jemmy,   lever, lift,    scaffold,   support,   winch, windlass,    
+	]
+};
+categ_fibre = {
+	code: "fbr",
+	contents: [
+		band,   braided,   cable, chain,   cord,  fibre,    fibril, filament,    
+		hemp_filament,  lace_filament,    line_filament,  rope_filament,    sheet,  
+		strand,   strap, string,  strip,    tape,   tendril,   twisted,   warp,  
+		weft, wire,    winding,    yarn,   
+	]
+};
+categ_receptacle = {
+	code: "rec",
+	contents: [
+		ampoule,    bag,    barrel, beaker,  bin,  bladder,  bottle,   bowl,  box,  
+		bunker,   calabash,  can,  capsule,  carton,   case_word, catchment,   cellar,    
+		chamber,    cistern,    coffer, container,   depot, drain,   drum,  dump, gourd,   
+		hod,   hold,  hopper,   jar,   jug,   pan,   phial, receptacle,  reservoir,    
+	]
+};
 // categ_ = {
 // 	code: "",
 // 	contents: [
@@ -388,5 +416,6 @@ categories = [
     categ_rot_to_trnsln, categ_trnsln_to_trnsln, categ_rot_to_rot, categ_extenal, 
     categ_member, categ_projection, categ_limit, categ_flange, categ_edge, 
     categ_wedge, categ_point, categ_slab, categ_sheet, categ_beam, 
-    categ_bearing_again, categ_plug, categ_jaws
+    categ_bearing_again, categ_plug, categ_jaws, categ_spring_again,
+	categ_lift, categ_fibre, categ_receptacle
 ];
