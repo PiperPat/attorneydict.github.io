@@ -2541,28 +2541,28 @@ const concrete = {
     has_img: false,
     img_src: ""
 };
-const cork= {
+const cork = {
     word: "cork",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const fabric= {
+const fabric = {
     word: "fabric",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const fibre= {
+const fibre = {
     word: "fibre",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const fluid= {
+const fluid = {
     word: "fluid",
     definition: "",
     tags: [],
@@ -2597,14 +2597,14 @@ const refractory = {
     has_img: false,
     img_src: ""
 };
-const sand= {
+const sand = {
     word: "sand",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const wood= {
+const wood = {
     word: "wood",
     definition: "",
     tags: [],
@@ -2621,28 +2621,28 @@ const scrn = {
 
 // sequence 
 
-const alternate= {
+const alternate = {
     word: "alternate",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const cyclic= {
+const cyclic = {
     word: "cyclic",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const interval= {
+const interval = {
     word: "interval",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const lag_lead= {
+const lag_lead = {
     word: "lag-lead",
     definition: "",
     tags: [],
@@ -2679,56 +2679,56 @@ const downward_upward = {
     has_img: false,
     img_src: ""
 };
-const drag= {
+const drag = {
     word: "drag",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const emergent= {
+const emergent = {
     word: "emergent",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const extensible= {
+const extensible = {
     word: "extensible",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const extrude= {
+const extrude = {
     word: "extrude",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const grinding= {
+const grinding = {
     word: "grinding",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const impact= {
+const impact = {
     word: "impact",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const inertia= {
+const inertia = {
     word: "inertia",
     definition: "",
     tags: [],
     has_img: false,
     img_src: ""
 };
-const oscillate= {
+const oscillate = {
     word: "oscillate",
     definition: "",
     tags: [],
@@ -2742,7 +2742,7 @@ const crank = {
     has_img: false,
     img_src: ""
 };
-const pressing= {
+const pressing = {
     word: "pressing",
     definition: "",
     tags: [],
@@ -5271,7 +5271,7 @@ const swivel = {
 };
 //plug
 const bung  = {
-    word: "bung ",
+    word: "bung",
     definition: "",
     tags: [],
     has_img: false,
@@ -5504,3 +5504,26 @@ const tackle = {
 const sheave = {
     word: "sheave",
 };
+// JAWS
+const bolt_cutter = {
+    word: "bolt cutter"
+};
+const clamp= {
+    word: "clamp"
+};
+const cutters= {
+    word: "cutters"
+};
+const fibro_cutter = {
+    word: "fibro cutter"
+};
+const foot_prints = {
+    word: "foot prints"
+};
+const G_clamp= {
+    word: "G-clamp"
+};
+const grips= {
+    word: "grips"
+};
+

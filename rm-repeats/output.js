@@ -2898,7 +2898,7 @@ const concrete = {
     img_src: ""
 }; 
 
-const cork= {
+const cork = {
     word: "cork",
     definition: "",
     tags: [],
@@ -2906,7 +2906,7 @@ const cork= {
     img_src: ""
 }; 
 
-const fabric= {
+const fabric = {
     word: "fabric",
     definition: "",
     tags: [],
@@ -2914,7 +2914,7 @@ const fabric= {
     img_src: ""
 }; 
 
-const fibre= {
+const fibre = {
     word: "fibre",
     definition: "",
     tags: [],
@@ -2922,7 +2922,7 @@ const fibre= {
     img_src: ""
 }; 
 
-const fluid= {
+const fluid = {
     word: "fluid",
     definition: "",
     tags: [],
@@ -2962,7 +2962,7 @@ const refractory = {
     img_src: ""
 }; 
 
-const sand= {
+const sand = {
     word: "sand",
     definition: "",
     tags: [],
@@ -2970,7 +2970,7 @@ const sand= {
     img_src: ""
 }; 
 
-const wood= {
+const wood = {
     word: "wood",
     definition: "",
     tags: [],
@@ -2989,7 +2989,7 @@ const scrn = {
 
 // sequence 
 
-const alternate= {
+const alternate = {
     word: "alternate",
     definition: "",
     tags: [],
@@ -2997,7 +2997,7 @@ const alternate= {
     img_src: ""
 }; 
 
-const cyclic= {
+const cyclic = {
     word: "cyclic",
     definition: "",
     tags: [],
@@ -3005,7 +3005,7 @@ const cyclic= {
     img_src: ""
 }; 
 
-const interval= {
+const interval = {
     word: "interval",
     definition: "",
     tags: [],
@@ -3013,7 +3013,7 @@ const interval= {
     img_src: ""
 }; 
 
-const lag_lead= {
+const lag_lead = {
     word: "lag-lead",
     definition: "",
     tags: [],
@@ -3055,7 +3055,7 @@ const downward_upward = {
     img_src: ""
 }; 
 
-const drag= {
+const drag = {
     word: "drag",
     definition: "",
     tags: [],
@@ -3063,7 +3063,7 @@ const drag= {
     img_src: ""
 }; 
 
-const emergent= {
+const emergent = {
     word: "emergent",
     definition: "",
     tags: [],
@@ -3071,7 +3071,7 @@ const emergent= {
     img_src: ""
 }; 
 
-const extensible= {
+const extensible = {
     word: "extensible",
     definition: "",
     tags: [],
@@ -3079,7 +3079,7 @@ const extensible= {
     img_src: ""
 }; 
 
-const extrude= {
+const extrude = {
     word: "extrude",
     definition: "",
     tags: [],
@@ -3087,7 +3087,7 @@ const extrude= {
     img_src: ""
 }; 
 
-const grinding= {
+const grinding = {
     word: "grinding",
     definition: "",
     tags: [],
@@ -3095,7 +3095,7 @@ const grinding= {
     img_src: ""
 }; 
 
-const impact= {
+const impact = {
     word: "impact",
     definition: "",
     tags: [],
@@ -3103,7 +3103,7 @@ const impact= {
     img_src: ""
 }; 
 
-const inertia= {
+const inertia = {
     word: "inertia",
     definition: "",
     tags: [],
@@ -3111,7 +3111,7 @@ const inertia= {
     img_src: ""
 }; 
 
-const oscillate= {
+const oscillate = {
     word: "oscillate",
     definition: "",
     tags: [],
@@ -3127,7 +3127,7 @@ const crank = {
     img_src: ""
 }; 
 
-const pressing= {
+const pressing = {
     word: "pressing",
     definition: "",
     tags: [],
@@ -5303,4 +5303,236 @@ const swivel = {
     tags: [],
     has_img: false,
     img_src: ''
+}; 
+
+//plug
+const bung  = {
+    word: "bung",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const check = {
+    word: "check",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const clack_v = {
+    word: "clack v",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const cock = {
+    word: "cock",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const diaphram_v  = {
+    word: "diaphram v ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const flap = {
+    word: "flap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const gate_v  = {
+    word: "gate v ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const globe_v  = {
+    word: "globe v ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const poppet  = {
+    word: "poppet ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const relief_v = {
+    word: "relief v",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const spigot = {
+    word: "spigot",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const stopper = {
+    word: "stopper",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const tap = {
+    word: "tap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+const throttle  = {
+    word: "throttle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: ""
+}; 
+
+// Giving up on datastructure from here
+// gear
+const bevel_g = {
+    word: "bevel gear",
+}; 
+
+const cog = {
+    word: "cog",
+}; 
+
+const comb  = {
+    word: "comb ",
+}; 
+
+const differential_gear = {
+    word: "differential gear",
+}; 
+
+const gear_train  = {
+    word: "gear train ",
+}; 
+
+const gear_ratio  = {
+    word: "gear ratio ",
+}; 
+
+const helical_g  = {
+    word: "helical gear",
+}; 
+
+const ratchet  = {
+    word: "ratchet ",
+}; 
+
+const spiral  = {
+    word: "spiral ",
+}; 
+
+const spoke = {
+    word: "spoke",
+}; 
+
+const Sprocket = {
+    word: "Sprocket",
+}; 
+
+const Spur_g  = {
+    word: "Spur gear",
+}; 
+
+const toothed_wheel  = {
+    word: "toothed wheel ",
+}; 
+
+const worm_g = {
+    word: "worm gear",
+}; 
+
+const cable_hook  = {
+    word: "cable hook ",
+}; 
+
+const crane = {
+    word: "crane",
+}; 
+
+const dead_end  = {
+    word: "dead-end ",
+}; 
+
+const dead_eye = {
+    word: "dead-eye",
+}; 
+
+const ferrule  = {
+    word: "ferrule ",
+}; 
+
+const hoist = {
+    word: "hoist",
+}; 
+
+const runner = {
+    word: "runner",
+}; 
+
+const snatch  = {
+    word: "snatch ",
+}; 
+
+const tackle = {
+    word: "tackle",
+}; 
+
+// JAWS
+const bolt_cutter = {
+    word: "bolt cutter"
+}; 
+
+const cutters= {
+    word: "cutters"
+}; 
+
+const fibro_cutter = {
+    word: "fibro cutter"
+}; 
+
+const foot_prints = {
+    word: "foot prints"
+}; 
+
+const G_clamp= {
+    word: "G-clamp"
+}; 
+
+const grips= {
+    word: "grips"
 }

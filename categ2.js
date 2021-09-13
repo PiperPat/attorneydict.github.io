@@ -360,13 +360,26 @@ categ_gear = {
 		pulley,  roller,   runner,    snatch, block,   tackle,    sheave, 
 	]
 };
+categ_jaws = {
+	code: "jws",
+	contents: [
+		bolt_cutter,    clamp,  cutters,  fibro_cutter, foot_prints, 
+		G_clamp, grips,   
+	]
+};
+
 // categ_ = {
 // 	code: "",
 // 	contents: [
 
 // 	]
 // };
+// categ_ = {
+// 	code: "",
+// 	contents: [
 
+// 	]
+// };
 categories = [
     categ_structure, categ_mounting_method, categ_fastener, categ_bearing, 
     categ_spring, categ_numbers, categ_placement, categ_voids, categ_shapes, 
@@ -375,5 +388,5 @@ categories = [
     categ_rot_to_trnsln, categ_trnsln_to_trnsln, categ_rot_to_rot, categ_extenal, 
     categ_member, categ_projection, categ_limit, categ_flange, categ_edge, 
     categ_wedge, categ_point, categ_slab, categ_sheet, categ_beam, 
-    categ_bearing_again, categ_plug
+    categ_bearing_again, categ_plug, categ_jaws
 ];
