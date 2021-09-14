@@ -444,6 +444,45 @@ categ_cover = {
 		envelope,    file,   lid,   
 	]
 };
+categ_append = {
+	code: "apd",
+	contents: [
+		attach,     affix,      bond,      braze,      coalesce,     
+		contact,      draw,      embrace,    engage,       fasten,     
+		fix,     fuse,    grip,    hold,     latch,      limit,     
+		lock,       mount,     partially_embrace,     place,   retain,      
+		secure,        solder,     weld,       
+	]
+};
+categ_relinquish = {
+	code: "req",
+	contents: [
+		collapse,       amount,     derange,     detach,  disassemble,     
+		discharge,      disengage,     dislodge,       dismantle,     displace,  
+		disperse,        ejaculate,      eject,      emit,     enclose,      
+		furl,      recede,     reject,       release,       relinquish,    
+		remove,    retract,      stow,   tip,  throw_word,      trigger,    
+		trip,     withdraw,       yield,     
+	]
+};
+categ_material_struct = {
+	code: "mst",
+	contents: [
+		alloy,      amorphous,      anhydrous,    anisotropic,      adsorbent,      
+		bound,    brittle,      composite,      combustile,   capactive,    
+		conductive,      coriaceous,   corious,  crisp,       crumbly,    
+		deformable,      diaelectric,      diamagnetic,      diffuse,      
+		deliquescent,     distortable,      elastic,       elastomer,  elastomeric,     
+		electrolytic,       emulsified,    ferromagnetic,     fissible,     
+		flexible,  fluid,       insulative,     foraminous,  fragile,     frangible,      
+		friable,       frothy,     fume,    gas,     gel,      gelatinous,        
+		glutinous,      homogenous,     homologous,       hydrated,      hydroscopic,       
+		immovable,  inductive,       isotropic,  juice,       lacerable,  lacteal,     
+		liquid,     magnetic,  malleable,       mastic,     metallic,    molten,      
+		nebulous,     opaque,       ossified,      paramagnetic,      pectinate,      
+		permeable,    
+	]
+};
 // categ_ = {
 // 	code: "",
 // 	contents: [
@@ -460,5 +499,6 @@ categories = [
     categ_wedge, categ_point, categ_slab, categ_sheet, categ_beam, 
     categ_bearing_again, categ_plug, categ_jaws, categ_spring_again,
 	categ_lift, categ_fibre, categ_receptacle, categ_interior, categ_tube,
-	categ_orifice, categ_closure, categ_cover
+	categ_orifice, categ_closure, categ_cover, categ_append, categ_relinquish,
+	categ_material_struct	
 ];

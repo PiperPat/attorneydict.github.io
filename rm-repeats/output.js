@@ -6105,4 +6105,388 @@ const envelope = {
 
 const file = {
     word: "file"
+}; 
+
+const affix = {
+    word: "affix"
+}; 
+
+const bond = {
+    word: "bond"
+}; 
+
+const braze = {
+    word: "braze"
+}; 
+
+const coalesce = {
+    word: "coalesce"
+}; 
+
+const draw = {
+    word: "draw"
+}; 
+
+const embrace = {
+    word: "embrace"
+}; 
+
+const fasten = {
+    word: "fasten"
+}; 
+
+const fuse = {
+    word: "fuse"
+}; 
+
+const grip = {
+    word: "grip"
+}; 
+
+const partially_embrace = {
+    word: "partially embrace"
+}; 
+
+const place = {
+    word: "place"
+}; 
+
+const retain = {
+    word: "retain"
+}; 
+
+const secure = {
+    word: "secure"
+}; 
+
+const solder = {
+    word: "solder"
+}; 
+
+
+// RELINQUISH 
+const collapse = {
+    word: "collapse"
+}; 
+
+const amount = {
+    word: "amount"
+}; 
+
+const derange = {
+    word: "derange"
+}; 
+
+const detach = {
+    word: "detach"
+}; 
+
+const disassemble = {
+    word: "disassemble"
+}; 
+
+const disengage = {
+    word: "disengage"
+}; 
+
+const dislodge = {
+    word: "dislodge"
+}; 
+
+const dismantle = {
+    word: "dismantle"
+}; 
+
+const displace = {
+    word: "displace"
+}; 
+
+const disperse = {
+    word: "disperse"
+}; 
+
+const ejaculate = {
+    word: "ejaculate"
+}; 
+
+const eject = {
+    word: "eject"
+}; 
+
+const emit = {
+    word: "emit"
+}; 
+
+const enclose = {
+    word: "enclose"
+}; 
+
+const furl = {
+    word: "furl"
+}; 
+
+const recede = {
+    word: "recede"
+}; 
+
+const reject = {
+    word: "reject"
+}; 
+
+const release = {
+    word: "release"
+}; 
+
+const relinquish = {
+    word: "relinquish"
+}; 
+
+const remove = {
+    word: "remove"
+}; 
+
+const retract = {
+    word: "retract"
+}; 
+
+const stow = {
+    word: "stow"
+}; 
+
+const throw_word = {
+    word: "throw"
+}; 
+
+const trip = {
+    word: "trip"
+}; 
+
+const withdraw = {
+    word: "withdraw"
+}; 
+
+const yield = {
+    word: "yield"
+}; 
+
+
+// MATERIAL STRUCTURE
+const alloy = {
+    word: "alloy"
+}; 
+
+const amorphous = {
+    word: "amorphous"
+}; 
+
+const anhydrous = {
+    word: "anhydrous"
+}; 
+
+const anisotropic = {
+    word: "anisotropic"
+}; 
+
+const adsorbent = {
+    word: "adsorbent"
+}; 
+
+const bound = {
+    word: "bound"
+}; 
+
+const brittle = {
+    word: "brittle"
+}; 
+
+const composite = {
+    word: "composite"
+}; 
+
+const combustile = {
+    word: "combustile"
+}; 
+
+const capactive = {
+    word: "capactive"
+}; 
+
+const conductive = {
+    word: "conductive"
+}; 
+
+const coriaceous = {
+    word: "coriaceous"
+}; 
+
+const corious = {
+    word: "corious"
+}; 
+
+const crisp = {
+    word: "crisp"
+}; 
+
+const crumbly = {
+    word: "crumbly"
+}; 
+
+const diaelectric = {
+    word: "diaelectric"
+}; 
+
+const diamagnetic = {
+    word: "diamagnetic"
+}; 
+
+const diffuse = {
+    word: "diffuse"
+}; 
+
+const deliquescent = {
+    word: "deliquescent"
+}; 
+
+const distortable = {
+    word: "distortable"
+}; 
+
+const elastomer = {
+    word: "elastomer"
+}; 
+
+const elastomeric = {
+    word: "elastomeric"
+}; 
+
+const electrolytic = {
+    word: "electrolytic"
+}; 
+
+const emulsified = {
+    word: "emulsified"
+}; 
+
+const ferromagnetic = {
+    word: "ferromagnetic"
+}; 
+
+const fissible = {
+    word: "fissible"
+}; 
+
+const insulative = {
+    word: "insulative"
+}; 
+
+const fragile = {
+    word: "fragile"
+}; 
+
+const frangible = {
+    word: "frangible"
+}; 
+
+const friable = {
+    word: "friable"
+}; 
+
+const frothy = {
+    word: "frothy"
+}; 
+
+const fume = {
+    word: "fume(y)"
+}; 
+
+const gas = {
+    word: "gas(eous)"
+}; 
+
+const gel = {
+    word: "gel"
+}; 
+
+const gelatinous = {
+    word: "gelatinous"
+}; 
+
+const glutinous = {
+    word: "glutinous"
+}; 
+
+const homogenous = {
+    word: "homogenous"
+}; 
+
+const homologous = {
+    word: "homologous"
+}; 
+
+const hydrated = {
+    word: "hydrated"
+}; 
+
+const hydroscopic = {
+    word: "hydroscopic"
+}; 
+
+const immovable = {
+    word: "immovable"
+}; 
+
+const inductive = {
+    word: "inductive"
+}; 
+
+const isotropic = {
+    word: "isotropic"
+}; 
+
+const juice = {
+    word: "juice(y)"
+}; 
+
+const lacerable  = {
+    word: "lacerable "
+}; 
+
+const lacteal = {
+    word: "lacteal"
+}; 
+
+const magnetic = {
+    word: "magnetic"
+}; 
+
+const malleable = {
+    word: "malleable"
+}; 
+
+const mastic = {
+    word: "mastic"
+}; 
+
+const metallic = {
+    word: "metallic"
+}; 
+
+const molten = {
+    word: "molten"
+}; 
+
+const nebulous = {
+    word: "nebulous"
+}; 
+
+const ossified = {
+    word: "ossified"
+}; 
+
+const paramagnetic = {
+    word: "paramagnetic"
+}; 
+
+const pectinate = {
+    word: "pectinate (interdigitated, comblike)"
 }
