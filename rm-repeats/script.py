@@ -13,7 +13,7 @@ for word in words:
     segments = word.split("\n")
     for seg in segments:
         if "const" in seg:
-            var = re.split('=| ', seg)[1]
+            var = re.split('=| |\t', seg)[1]
             if var not in unique_vars:
                 unique_vars.append(var)
                 unique_words.append(word)
@@ -25,5 +25,6 @@ f = open("output.js", "w")
 f.write(output)
 f.close()
 
+print("repeated words:")
 for repeat in repeats:
     print(repeat)

@@ -5837,4 +5837,272 @@ const phial  = {
 
 const receptacle  = {
     word: "receptacle"
+}; 
+
+const spline = {
+    word: "spline"
+}; 
+
+const well = {
+    word: "well"
+}; 
+
+const centre = {
+    word: "centre"
+}; 
+
+const focus_word = {
+    word: "focus"
+}; 
+
+const inside = {
+    word: "inside"
+}; 
+
+const interior = {
+    word: "interior"
+}; 
+
+
+// TUBE
+const aqua	 = {
+    word: "aqua"
+}; 
+
+const canal	 = {
+    word: "canal"
+}; 
+
+const cannula = {
+    word: "cannula"
+}; 
+
+const causeway	 = {
+    word: "causeway"
+}; 
+
+const chimney	 = {
+    word: "chimney"
+}; 
+
+const circuit	 = {
+    word: "circuit"
+}; 
+
+const cloaca	 = {
+    word: "cloaca"
+}; 
+
+const corridor	 = {
+    word: "corridor"
+}; 
+
+const dike = {
+    word: "dike"
+}; 
+
+const ditch	 = {
+    word: "ditch"
+}; 
+
+const downpipe	 = {
+    word: "downpipe"
+}; 
+
+const egress	 = {
+    word: "egress"
+}; 
+
+const fall	 = {
+    word: "fall"
+}; 
+
+const flexible_hose	 = {
+    word: "flexible hose"
+}; 
+
+const funnel	 = {
+    word: "funnel"
+}; 
+
+const gallery	 = {
+    word: "gallery"
+}; 
+
+const hosepipe	 = {
+    word: "hosepipe"
+}; 
+
+const ingress = {
+    word: "ingress"
+}; 
+
+const main	 = {
+    word: "main"
+}; 
+
+const path	 = {
+    word: "path"
+}; 
+
+const pipeline	 = {
+    word: "pipeline"
+}; 
+
+const race	 = {
+    word: "race"
+}; 
+
+const run_o_pipe	 = {
+    word: "run of pipe"
+}; 
+
+const scupper	 = {
+    word: "scupper"
+}; 
+
+const sewer	 = {
+    word: "sewer"
+}; 
+
+const stand_pipe	 = {
+    word: "stand pipe"
+}; 
+
+const syphon	 = {
+    word: "syphon"
+}; 
+
+const sluice	 = {
+    word: "sluice"
+}; 
+
+const tunnel	 = {
+    word: "tunnel"
+}; 
+
+const vein	 = {
+    word: "vein"
+}; 
+
+const vent	 = {
+    word: "vent"
+}; 
+
+const viaduct	 = {
+    word: "viaduct"
+}; 
+
+const bight	 = {
+    word: "bight"
+}; 
+
+const breech	 = {
+    word: "breech"
+}; 
+
+const calibre	 = {
+    word: "calibre"
+}; 
+
+const chasm	 = {
+    word: "chasm"
+}; 
+
+const crack	 = {
+    word: "crack"
+}; 
+
+const entrance	 = {
+    word: "entrance"
+}; 
+
+const eye	 = {
+    word: "eye"
+}; 
+
+const exhaust	 = {
+    word: "exhaust"
+}; 
+
+const gap	 = {
+    word: "gap"
+}; 
+
+const hatch	 = {
+    word: "hatch"
+}; 
+
+const inlet	 = {
+    word: "inlet"
+}; 
+
+const pin_hole = {
+    word: "pin hole"
+}; 
+
+const venturi = {
+    word: "venturi"
+}; 
+
+const closure = {
+    word: "closure"
+}; 
+
+const door = {
+    word: "door"
+}; 
+
+const lacing = {
+    word: "lacing"
+}; 
+
+const lid = {
+    word: "lid"
+}; 
+
+const occlusion = {
+    word: "occlusion"
+}; 
+
+const trap = {
+    word: "trap"
+}; 
+
+const shive = {
+    word: "shive"
+}; 
+
+const zip = {
+    word: "zip"
+}; 
+
+
+// COVER
+const awning = {
+    word: "awning"
+}; 
+
+const hat = {
+    word: "hat"
+}; 
+
+const coat = {
+    word: "coat"
+}; 
+
+const coating = {
+    word: "coating"
+}; 
+
+const cocoon = {
+    word: "cocoon"
+}; 
+
+const envelope = {
+    word: "envelope"
+}; 
+
+const file = {
+    word: "file"
 }

@@ -399,7 +399,49 @@ categ_receptacle = {
 		ampoule,    bag,    barrel, beaker,  bin,  bladder,  bottle,   bowl,  box,  
 		bunker,   calabash,  can,  capsule,  carton,   case_word, catchment,   cellar,    
 		chamber,    cistern,    coffer, container,   depot, drain,   drum,  dump, gourd,   
-		hod,   hold,  hopper,   jar,   jug,   pan,   phial, receptacle,  reservoir,    
+		hod,   hold,  hopper,   jar,   jug,   pan,   phial, receptacle,  reservoir,   
+		slot,   socket,    spline, trough,  well,  
+	]
+};
+categ_interior = {
+	code: "int",
+	contents: [
+		cavity, centre,  chamber,  focus_word,    hollow, inside,  interior, opening, 
+		recess,  
+	]
+};
+categ_tube = {
+	code: "tub",
+	contents: [
+		aqua,   barrel,    bore,   canal, cannula, causeway,    channel,    chimney,    
+		circuit,    cloaca, conduit, corridor,    dike,   ditch, downpipe,    drain,  
+		duct, egress,  fall, flexible_hose,   flue,  funnel,   gallery,   guide, hose,    
+		hosepipe,   ingress,   main,  manifold, passage, path,    pipe,   pipeline,  race, 
+		run_o_pipe,  scupper,  sewer,    stand_pipe, syphon,  sluice,   trough,    tube,   
+		tunnel,    vein,   vent,  viaduct,  
+	]
+};
+categ_orifice = {
+	code: "ori",
+	contents: [
+		aperture,   bight, bore,    breech, calibre, cavity,  chasm,    crack,  entrance, 
+		egress,  eye,  exhaust,  gap,  gate, hatch,   hole,  ingress,  inlet,    nozzle, 
+		opening, pin_hole,    slit,   venturi,   
+	]
+};
+categ_closure = {
+	code: "cls",
+	contents: [
+		bung,   cap,   closure,   cork,  cover,    door,   dome,  flap, lacing,  
+		lid,  lug,  occlusion,    plug,   ram,   throttle,  top_word,  trap, 
+		stopper, seal,    shive,  zip,  
+	]
+};
+categ_cover = {
+	code: "cvr",
+	contents: [
+		awning, cap, capsule, hat, coat,    coating,    cocoon, cover,   enclosure, 
+		envelope,    file,   lid,   
 	]
 };
 // categ_ = {
@@ -417,5 +459,6 @@ categories = [
     categ_member, categ_projection, categ_limit, categ_flange, categ_edge, 
     categ_wedge, categ_point, categ_slab, categ_sheet, categ_beam, 
     categ_bearing_again, categ_plug, categ_jaws, categ_spring_again,
-	categ_lift, categ_fibre, categ_receptacle
+	categ_lift, categ_fibre, categ_receptacle, categ_interior, categ_tube,
+	categ_orifice, categ_closure, categ_cover
 ];
