@@ -483,6 +483,55 @@ categ_material_struct = {
 		permeable,    
 	]
 };
+categ_unknown = {
+	code: "???",
+	contents: [
+		undecahedron,       washer,     
+	]
+};
+categ_relationship = {
+	code: "rln",
+	contents: [
+		abut,       alignment,  communicating,       contact,    dangle,      
+		depend,   extend,   hang,    intermediate,      interpose,    
+		operatively_assoc,        pendancy,       planetary,  protrude,        
+		radiating,      suspend,    telescope,        truncate,       
+	]
+};
+categ_movement_again = {
+	code: "mv2",
+	contents: [
+		abrasion,       acceleration,   action,      attrition,     beat,       
+		circination,       circulation,       circumgyration,    circumrevolution,      
+		compression,      conduction,   convection,   convolution,     convulsion,    
+		fluctuation,     friction,     gyration,  idle,        vibration,      movement,   
+		nutation,     orbit,   oscillation,     pendular_motion,   pendulous,       
+		precession,    pulsation,     quiver,       reciprocation,     recirculation,     
+		recycling,   retraction,      revolution,        rock,       roll,   rotation,    
+		shake,     stationary,       suspension,    swing,     tension,      tick,      
+		turbination,    undulation,       vacillation,    vibration,   vibratiuncle,     
+		vortex,  waggle,      wiggle,     zig_zag,      
+	]
+};
+categ_geometric = {
+	code: "geo",
+	contents: [
+		adaxial,        anterior,       arcuate,    axial,   coaxial,  co_extensive,        
+		concave,        convergent,     diagonal,       diametrically_opposed,     
+		diametrically_opposite,    divergent,   dorsal,   lateral,     lenticular,    
+		longitudinal,    posterior,        prehensible,        radiating,      rotund,     
+		transverse,       truncated,     sectioned,     ventral,     
+	]
+};
+categ_contact = {
+	code: "con",
+	contents: [
+		abut,       bias,   bond,    compress,      contact,      depress,      
+		embed,    extend,       expand,     force,   fuse,    hit,   inject,   
+		insert,      interpose,     pass_over,      pull,      push,   straddle,     
+		touch,   urge,    
+	]
+};
 // categ_ = {
 // 	code: "",
 // 	contents: [
@@ -500,5 +549,6 @@ categories = [
     categ_bearing_again, categ_plug, categ_jaws, categ_spring_again,
 	categ_lift, categ_fibre, categ_receptacle, categ_interior, categ_tube,
 	categ_orifice, categ_closure, categ_cover, categ_append, categ_relinquish,
-	categ_material_struct	
+	categ_material_struct, categ_unknown, categ_relationship, categ_movement_again,
+	categ_geometric, categ_contact,	
 ];

@@ -6489,4 +6489,371 @@ const paramagnetic = {
 
 const pectinate = {
     word: "pectinate (interdigitated, comblike)"
+}; 
+
+// UNKNOWN
+const undecahedron  = {
+    word: "undecahedron (11) "
+}; 
+
+const washer = {
+    word: "washer"
+}; 
+
+const alignment  = {
+    word: "alignment "
+}; 
+
+const communicating  = {
+    word: "communicating with "
+}; 
+
+const dangle = {
+    word: "dangle"
+}; 
+
+const depend = {
+    word: "depend"
+}; 
+
+const extend = {
+    word: "extend"
+}; 
+
+const hang = {
+    word: "hang"
+}; 
+
+const interpose = {
+    word: "interpose"
+}; 
+
+const operatively_assoc  = {
+    word: "operatively associated with "
+}; 
+
+const pendancy = {
+    word: "pendancy"
+}; 
+
+const planetary  = {
+    word: "planetary "
+}; 
+
+const protrude  = {
+    word: "protrude "
+}; 
+
+const radiating  = {
+    word: "radiating "
+}; 
+
+const suspend = {
+    word: "suspend"
+}; 
+
+const telescope  = {
+    word: "telescope(e) or telescope (icable)"
+}; 
+
+// MOVEMENT 
+const abrasion = {
+    word: "abrasion"
+}; 
+
+const acceleration  = {
+    word: "acceleration "
+}; 
+
+const action = {
+    word: "action"
+}; 
+
+const attrition = {
+    word: "attrition"
+}; 
+
+const beat = {
+    word: "beat"
+}; 
+
+const circination  = {
+    word: "circination "
+}; 
+
+const circulation  = {
+    word: "circulation "
+}; 
+
+const circumgyration  = {
+    word: "circumgyration "
+}; 
+
+const circumrevolution = {
+    word: "circumrevolution"
+}; 
+
+const conduction  = {
+    word: "conduction "
+}; 
+
+const convolution  = {
+    word: "convolution "
+}; 
+
+const convulsion  = {
+    word: "convulsion "
+}; 
+
+const fluctuation  = {
+    word: "fluctuation "
+}; 
+
+const gyration = {
+    word: "gyration"
+}; 
+
+const idle = {
+    word: "idle"
+}; 
+
+const vibration = {
+    word: "vibration"
+}; 
+
+const movement  = {
+    word: "movement "
+}; 
+
+const nutation  = {
+    word: "nutation "
+}; 
+
+const orbit = {
+    word: "orbit"
+}; 
+
+const oscillation  = {
+    word: "oscillation "
+}; 
+
+const pendular_motion  = {
+    word: "pendular motion "
+}; 
+
+const pendulous  = {
+    word: "pendulous "
+}; 
+
+const precession  = {
+    word: "precession "
+}; 
+
+const pulsation = {
+    word: "pulsation"
+}; 
+
+const quiver  = {
+    word: "quiver "
+}; 
+
+const reciprocation  = {
+    word: "reciprocation "
+}; 
+
+const recirculation  = {
+    word: "recirculation "
+}; 
+
+const recycling  = {
+    word: "recycling "
+}; 
+
+const retraction  = {
+    word: "retraction "
+}; 
+
+const revolution  = {
+    word: "revolution "
+}; 
+
+const rock = {
+    word: "rock"
+}; 
+
+const rotation = {
+    word: "rotation"
+}; 
+
+const shake = {
+    word: "shake"
+}; 
+
+const stationary  = {
+    word: "stationary "
+}; 
+
+const suspension  = {
+    word: "suspension "
+}; 
+
+const tension = {
+    word: "tension"
+}; 
+
+const tick = {
+    word: "tick"
+}; 
+
+const turbination  = {
+    word: "turbination "
+}; 
+
+const undulation  = {
+    word: "undulation "
+}; 
+
+const vacillation  = {
+    word: "vacillation "
+}; 
+
+const vibratiuncle  = {
+    word: "vibratiuncle "
+}; 
+
+const waggle = {
+    word: "waggle"
+}; 
+
+const wiggle = {
+    word: "wiggle"
+}; 
+
+const zig_zag = {
+    word: "zig zag"
+}; 
+
+// GEOMETRIC
+const adaxial  = {
+    word: "adaxial "
+}; 
+
+const anterior  = {
+    word: "anterior "
+}; 
+
+const arcuate  = {
+    word: "arcuate "
+}; 
+
+const co_extensive  = {
+    word: "co-extensive "
+}; 
+
+const convergent = {
+    word: "convergent"
+}; 
+
+const diagonal = {
+    word: "diagonal"
+}; 
+
+const diametrically_opposed  = {
+    word: "diametrically opposed "
+}; 
+
+const diametrically_opposite  = {
+    word: "diametrically opposite "
+}; 
+
+const divergent  = {
+    word: "divergent "
+}; 
+
+const dorsal = {
+    word: "dorsal"
+}; 
+
+const lenticular  = {
+    word: "lenticular "
+}; 
+
+const posterior  = {
+    word: "posterior "
+}; 
+
+const prehensible  = {
+    word: "prehensible (able to grasp) "
+}; 
+
+const rotund = {
+    word: "rotund"
+}; 
+
+const truncated  = {
+    word: "truncated "
+}; 
+
+const sectioned  = {
+    word: "sectioned "
+}; 
+
+const ventral = {
+    word: "ventral"
+}; 
+
+const compress  = {
+    word: "compress "
+}; 
+
+const depress  = {
+    word: "depress "
+}; 
+
+const embed  = {
+    word: "embed "
+}; 
+
+const expand  = {
+    word: "expand "
+}; 
+
+const force  = {
+    word: "force "
+}; 
+
+const hit  = {
+    word: "hit "
+}; 
+
+const inject  = {
+    word: "inject "
+}; 
+
+const insert  = {
+    word: "insert "
+}; 
+
+const pass_over  = {
+    word: "pass over "
+}; 
+
+const pull = {
+    word: "pull"
+}; 
+
+const push  = {
+    word: "push "
+}; 
+
+const straddle  = {
+    word: "straddle "
+}; 
+
+const touch = {
+    word: "touch"
+}; 
+
+const urge = {
+    word: "urge"
 }
