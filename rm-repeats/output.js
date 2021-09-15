@@ -6856,4 +6856,97 @@ const touch = {
 
 const urge = {
     word: "urge"
+}; 
+
+// PHYSICAL PROPERTIES
+const plasma = {
+    word: "plasma"
+}; 
+
+const pliable = {
+    word: "pliable"
+}; 
+
+const pliant = {
+    word: "pliant"
+}; 
+
+const polymeric = {
+    word: "polymeric (co, homo)"
+}; 
+
+const paste = {
+    word: "paste"
+}; 
+
+const resistive  = {
+    word: "resistive "
+}; 
+
+const sap = {
+    word: "sap"
+}; 
+
+const semi_permeable  = {
+    word: "semi-permeable "
+}; 
+
+const sequacious  = {
+    word: "sequacious "
+}; 
+
+const solid = {
+    word: "solid"
+}; 
+
+const spongy = {
+    word: "spongy"
+}; 
+
+const steam = {
+    word: "steam"
+}; 
+
+const stringy = {
+    word: "stringy"
+}; 
+
+const supple = {
+    word: "supple"
+}; 
+
+const tenacious  = {
+    word: "tenacious "
+}; 
+
+const thermoplastic  = {
+    word: "thermoplastic(s) "
+}; 
+
+const thermosetting  = {
+    word: "thermosetting "
+}; 
+
+const tumescent = {
+    word: "tumescent"
+}; 
+
+const vacuous = {
+    word: "vacuous"
+}; 
+
+const vapour = {
+    word: "vapour"
+}; 
+
+const viscous = {
+    word: "viscous"
+}; 
+
+const vulcanised  = {
+    word: "vulcanised "
+}; 
+
+const yieldable = {
+    word: "yieldable"
 }

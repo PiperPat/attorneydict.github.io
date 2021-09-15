@@ -532,6 +532,18 @@ categ_contact = {
 		touch,   urge,    
 	]
 };
+categ_physical_prop = {
+	code: "phy",
+	contents: [
+		plasma,         plastic,        pliable,    pliant,      polymeric,         
+		porous,       paste,         refractory,         resilient,        
+		resistive,         rigid,      sap,       semi_permeable,       
+		sequacious,        solid,        spongy,         steam,    stringy,      
+		supple,      tenacious,       thermoplastic,    thermosetting,           
+		transparent,        translucent,         tumescent,        vacuous,       
+		vapour,         viscous,           vulcanised,         yieldable,      
+	]
+};
 // categ_ = {
 // 	code: "",
 // 	contents: [
@@ -550,5 +562,5 @@ categories = [
 	categ_lift, categ_fibre, categ_receptacle, categ_interior, categ_tube,
 	categ_orifice, categ_closure, categ_cover, categ_append, categ_relinquish,
 	categ_material_struct, categ_unknown, categ_relationship, categ_movement_again,
-	categ_geometric, categ_contact,	
+	categ_geometric, categ_contact,	categ_physical_prop
 ];
