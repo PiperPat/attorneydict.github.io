@@ -16,9 +16,10 @@ function search() {
         for (let i = 0; i < results.length; i++) {
             if (! results[i].has_img) lcHtml = lcHtml + '<li>'+results[i].word+'</li>';
             else {
-                alert("he's got an image!");
                 lcHtml = lcHtml + "<li>"+results[i].word ;
-                lcHtml = lcHtml + "<img src='" + results[i].img_src.path + results[i].img_src.imgs[0] + "' />"
+                for (let j = 0; j < results[i].img_src.imgs.length; j++) {
+                    lcHtml = lcHtml + "<img src='" + results[i].img_src.path + results[i].img_src.imgs[j] + "' />"
+                }
                 lcHtml = lcHtml + "</li>"
             }
         }
