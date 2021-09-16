@@ -6756,7 +6756,14 @@ const wiggle = {
     word: "wiggle"
 };
 const zig_zag = {
-    word: "zig zag"
+    word: "zig zag",
+    definition: "",
+    tags: ["curve"],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-4.PNG"]
+    }
 };
 // GEOMETRIC
 const adaxial  = {
@@ -6986,14 +6993,34 @@ const vulcanised  = {
 const yieldable = {
     word: "yieldable"
 };
-// 2D PLANE CURVES
+// 2D PLANE CURVES -- have images
 const conic_section = {
     word: "conic section",
     definition: "",
     tags: ["ellipse", "parabola", "hyperbola", "focus", "vertex", "vertices", "asymptote"],
     has_img: true,
     img_src: {
-        path: "/figs/2D-plane-curves/",
+        path: "figs/2D-plane-curves/",
         imgs: ["A-1A.PNG", "A-1B.PNG", "A-1C.PNG", "A-2A.PNG"]
     }
-}
+};
+const serpentine = {
+    word: "serpentine",
+    definition: "",
+    tags: ["curve", ],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-2A.PNG"]
+    }
+};
+const wavy_line = {
+    word: "wavy line",
+    definition: "",
+    tags: ["curve", ],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-3.PNG"]
+    }
+};

@@ -547,7 +547,7 @@ categ_physical_prop = {
 categ_plane_curves_2D = {
 	code: "c2D",
 	contents: [
-		conic_section
+		conic_section, serpentine, wavy_line, zig_zag
 	]
 };
 // categ_ = {
