@@ -5,7 +5,7 @@ const abut_mns = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const adjg_mns = {
@@ -13,7 +13,7 @@ const adjg_mns = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const actg_mns = {
@@ -21,7 +21,7 @@ const actg_mns = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const adjt_mns = {
@@ -29,7 +29,7 @@ const adjt_mns = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const arches = {
@@ -37,7 +37,7 @@ const arches = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const arm = {
@@ -45,7 +45,7 @@ const arm = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const axle = {
@@ -53,7 +53,7 @@ const axle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bail = {
@@ -61,7 +61,7 @@ const bail = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const band = {
@@ -69,7 +69,7 @@ const band = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const base = {
@@ -77,7 +77,7 @@ const base = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const beam = {
@@ -85,7 +85,7 @@ const beam = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cntvr_bm = {
@@ -93,7 +93,7 @@ const cntvr_bm = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const simpl_bm = {
@@ -101,7 +101,7 @@ const simpl_bm = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const belt = {
@@ -109,7 +109,7 @@ const belt = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bsng_mns = {
@@ -117,7 +117,7 @@ const bsng_mns = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const blade = {
@@ -125,7 +125,7 @@ const blade = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bladder = {
@@ -133,7 +133,7 @@ const bladder = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const blower = {
@@ -141,7 +141,7 @@ const blower = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const broom = {
@@ -149,7 +149,7 @@ const broom = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const brace = {
@@ -157,7 +157,7 @@ const brace = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const branch = {
@@ -165,7 +165,7 @@ const branch = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bracket = {
@@ -173,7 +173,7 @@ const bracket = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const carriage = {
@@ -181,7 +181,7 @@ const carriage = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cap = {
@@ -189,7 +189,7 @@ const cap = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cse = {
@@ -197,7 +197,7 @@ const cse = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cstrs = {
@@ -205,7 +205,7 @@ const cstrs = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const channel = {
@@ -213,7 +213,7 @@ const channel = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const chute = {
@@ -221,7 +221,7 @@ const chute = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const clip = {
@@ -229,7 +229,7 @@ const clip = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const column = {
@@ -237,7 +237,7 @@ const column = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const collar = {
@@ -245,7 +245,7 @@ const collar = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const container = {
@@ -253,7 +253,7 @@ const container = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const converyor = {
@@ -261,7 +261,7 @@ const converyor = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cover = {
@@ -269,7 +269,7 @@ const cover = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const device = {
@@ -277,7 +277,7 @@ const device = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const die = {
@@ -285,7 +285,7 @@ const die = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const drum = {
@@ -293,7 +293,7 @@ const drum = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const enclosure = {
@@ -301,7 +301,7 @@ const enclosure = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const finger = {
@@ -309,7 +309,7 @@ const finger = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const flange = {
@@ -317,7 +317,7 @@ const flange = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const foot = {
@@ -325,7 +325,7 @@ const foot = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const frame = {
@@ -333,7 +333,7 @@ const frame = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const gate = {
@@ -341,7 +341,7 @@ const gate = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const gauges = {
@@ -349,7 +349,7 @@ const gauges = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const hinge = {
@@ -357,7 +357,7 @@ const hinge = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const head = {
@@ -365,7 +365,7 @@ const head = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const holder = {
@@ -373,7 +373,7 @@ const holder = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const housing = {
@@ -381,7 +381,7 @@ const housing = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const jacket = {
@@ -389,7 +389,7 @@ const jacket = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const jaw = {
@@ -397,7 +397,7 @@ const jaw = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const laminate = {
@@ -405,7 +405,7 @@ const laminate = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const leg = {
@@ -413,7 +413,7 @@ const leg = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const ling = {
@@ -421,7 +421,7 @@ const ling = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const lug = {
@@ -429,7 +429,7 @@ const lug = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const member = {
@@ -437,7 +437,7 @@ const member = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const membrane = {
@@ -445,7 +445,7 @@ const membrane = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const mntg_plt = {
@@ -453,7 +453,7 @@ const mntg_plt = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const manifold = {
@@ -461,7 +461,7 @@ const manifold = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const neck = {
@@ -469,7 +469,7 @@ const neck = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const object = {
@@ -477,7 +477,7 @@ const object = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const optng_mns = {
@@ -485,7 +485,7 @@ const optng_mns = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const particle = {
@@ -493,7 +493,7 @@ const particle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const partition = {
@@ -501,7 +501,7 @@ const partition = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const plate = {
@@ -509,7 +509,7 @@ const plate = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const platform = {
@@ -517,7 +517,7 @@ const platform = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const plug = {
@@ -525,7 +525,7 @@ const plug = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const receptcl = {
@@ -533,7 +533,7 @@ const receptcl = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const ram = {
@@ -541,7 +541,7 @@ const ram = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const retaining = {
@@ -549,7 +549,7 @@ const retaining = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const reinforcing = {
@@ -557,7 +557,7 @@ const reinforcing = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const rib = {
@@ -565,7 +565,7 @@ const rib = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const ring = {
@@ -573,7 +573,7 @@ const ring = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const rod = {
@@ -581,7 +581,7 @@ const rod = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const saddle = {
@@ -589,7 +589,7 @@ const saddle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const seat = {
@@ -597,7 +597,7 @@ const seat = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const sheet = {
@@ -605,7 +605,7 @@ const sheet = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const shell = {
@@ -613,7 +613,7 @@ const shell = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const shoe = {
@@ -621,7 +621,7 @@ const shoe = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const shoulder = {
@@ -629,7 +629,7 @@ const shoulder = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const sleeve = {
@@ -637,7 +637,7 @@ const sleeve = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const soul = {
@@ -645,7 +645,7 @@ const soul = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const spcg_mns = {
@@ -653,7 +653,7 @@ const spcg_mns = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const spindle = {
@@ -661,7 +661,7 @@ const spindle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const stop_mmbr = {
@@ -669,7 +669,7 @@ const stop_mmbr = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const stem = {
@@ -677,7 +677,7 @@ const stem = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const step = {
@@ -685,7 +685,7 @@ const step = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const strut = {
@@ -693,7 +693,7 @@ const strut = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const spprt_mns = {
@@ -701,7 +701,7 @@ const spprt_mns = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const teeth = {
@@ -709,7 +709,7 @@ const teeth = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const tongue = {
@@ -717,7 +717,7 @@ const tongue = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const track = {
@@ -725,7 +725,7 @@ const track = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const truss = {
@@ -733,7 +733,7 @@ const truss = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const upright = {
@@ -741,7 +741,7 @@ const upright = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const wall = {
@@ -749,7 +749,7 @@ const wall = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const wheel = {
@@ -757,7 +757,7 @@ const wheel = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const web = {
@@ -765,7 +765,7 @@ const web = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -776,49 +776,49 @@ const abut = {
     definition: "lie against",
     tags: ["mounting method", "sticks out", "protrusion"],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const attach = {
     word : "attach",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bolt = {
     word: "bolt",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const couple = {
     word: "couple",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const demntbly = {
     word: "demountably",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const engage = {
     word: "engage",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fix = {
     word: "fix",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -827,7 +827,7 @@ const hold = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -836,7 +836,7 @@ const hingedly = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -845,7 +845,7 @@ const lock = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -854,7 +854,7 @@ const mount = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -863,7 +863,7 @@ const pivotably = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -872,7 +872,7 @@ const set_thrdbl = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -881,7 +881,7 @@ const weld = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -892,7 +892,7 @@ const cable = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -901,7 +901,7 @@ const clamp = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -910,7 +910,7 @@ const connection = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -919,7 +919,7 @@ const coupling = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -928,7 +928,7 @@ const dowel = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const hld_dwn = {
@@ -936,7 +936,7 @@ const hld_dwn = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const hook = {
@@ -944,7 +944,7 @@ const hook = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const joint = {
@@ -952,7 +952,7 @@ const joint = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const unv_jnt = {
@@ -960,7 +960,7 @@ const unv_jnt = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const keeper = {
@@ -968,7 +968,7 @@ const keeper = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const key = {
@@ -976,7 +976,7 @@ const key = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const latch = {
@@ -984,7 +984,7 @@ const latch = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const nail = {
@@ -992,7 +992,7 @@ const nail = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const nut = {
@@ -1000,7 +1000,7 @@ const nut = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pin = {
@@ -1008,7 +1008,7 @@ const pin = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const rivet = {
@@ -1016,7 +1016,7 @@ const rivet = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const screw = {
@@ -1024,7 +1024,7 @@ const screw = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const seam = {
@@ -1032,7 +1032,7 @@ const seam = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -1043,7 +1043,7 @@ const ant_frcn = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const ant_fr_ball = {
@@ -1051,7 +1051,7 @@ const ant_fr_ball = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const ant_fr_nedl = {
@@ -1059,7 +1059,7 @@ const ant_fr_nedl = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const ant_fr_roller = {
@@ -1067,7 +1067,7 @@ const ant_fr_roller = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const ant_fr_tp_rlr = {
@@ -1075,7 +1075,7 @@ const ant_fr_tp_rlr = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bushing = {
@@ -1083,7 +1083,7 @@ const bushing = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fulcrum = {
@@ -1091,7 +1091,7 @@ const fulcrum = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const journal = {
@@ -1099,7 +1099,7 @@ const journal = {
     definition: "(rest or beamage)",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pivot = {
@@ -1107,7 +1107,7 @@ const pivot = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const radial = {
@@ -1115,7 +1115,7 @@ const radial = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const seal = {
@@ -1123,7 +1123,7 @@ const seal = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const sliding = {
@@ -1131,7 +1131,7 @@ const sliding = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const support = {
@@ -1139,7 +1139,7 @@ const support = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const thrust = {
@@ -1147,7 +1147,7 @@ const thrust = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -1158,7 +1158,7 @@ const air = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bias = {
@@ -1166,7 +1166,7 @@ const bias = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const element = {
@@ -1174,7 +1174,7 @@ const element = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const coil = {
@@ -1182,7 +1182,7 @@ const coil = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const helical = {
@@ -1190,7 +1190,7 @@ const helical = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const helcl_comp = {
@@ -1198,7 +1198,7 @@ const helcl_comp = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const helcl_tnsn = {
@@ -1206,7 +1206,7 @@ const helcl_tnsn = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const leaf = {
@@ -1214,7 +1214,7 @@ const leaf = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const torsional = {
@@ -1222,7 +1222,7 @@ const torsional = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -1233,7 +1233,7 @@ const multiplicity = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const plurality = {
@@ -1241,7 +1241,7 @@ const plurality = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const several = {
@@ -1249,7 +1249,7 @@ const several = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -1260,7 +1260,7 @@ const adjacent = {
     definition: "lying near",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const aligned = {
@@ -1268,7 +1268,7 @@ const aligned = {
     definition: "in line",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const attached = {
@@ -1276,7 +1276,7 @@ const attached = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const axial = {
@@ -1284,7 +1284,7 @@ const axial = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const coaxial = {
@@ -1292,7 +1292,7 @@ const coaxial = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cantilever = {
@@ -1300,7 +1300,7 @@ const cantilever = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const complmtry = {
@@ -1308,7 +1308,7 @@ const complmtry = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const concentric = {
@@ -1316,7 +1316,7 @@ const concentric = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const eccentric = {
@@ -1324,7 +1324,7 @@ const eccentric = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const contiguous = {
@@ -1332,7 +1332,7 @@ const contiguous = {
     definition: "touching, adjoining",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const distal_prox = {
@@ -1340,7 +1340,7 @@ const distal_prox = {
     definition: "immediate connection",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const divided = {
@@ -1348,7 +1348,7 @@ const divided = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const disposed = {
@@ -1356,7 +1356,7 @@ const disposed = {
     definition: "placed on",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const engaged = {
@@ -1364,7 +1364,7 @@ const engaged = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const extended = {
@@ -1372,7 +1372,7 @@ const extended = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const inclined = {
@@ -1380,7 +1380,7 @@ const inclined = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const integral = {
@@ -1388,7 +1388,7 @@ const integral = {
     definition: "whole, complete",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const intermediate = {
@@ -1396,7 +1396,7 @@ const intermediate = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const interposed = {
@@ -1404,7 +1404,7 @@ const interposed = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const juxtaposed = {
@@ -1412,7 +1412,7 @@ const juxtaposed = {
     definition: "side by side",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const located = {
@@ -1420,7 +1420,7 @@ const located = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const lateral = {
@@ -1428,7 +1428,7 @@ const lateral = {
     definition: "(from side)",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const mating = {
@@ -1436,7 +1436,7 @@ const mating = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const meshing = {
@@ -1444,7 +1444,7 @@ const meshing = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const normal = {
@@ -1452,7 +1452,7 @@ const normal = {
     definition: "right angles",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const offset = {
@@ -1460,7 +1460,7 @@ const offset = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const opposed = {
@@ -1468,7 +1468,7 @@ const opposed = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const overlapping = {
@@ -1476,7 +1476,7 @@ const overlapping = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const perpendclr = {
@@ -1484,7 +1484,7 @@ const perpendclr = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const parallel = {
@@ -1492,7 +1492,7 @@ const parallel = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const planar = {
@@ -1500,7 +1500,7 @@ const planar = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const positioned = {
@@ -1508,7 +1508,7 @@ const positioned = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const projecting = {
@@ -1516,7 +1516,7 @@ const projecting = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const proximate = {
@@ -1524,7 +1524,7 @@ const proximate = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const removable = {
@@ -1532,7 +1532,7 @@ const removable = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const rectilinear = {
@@ -1540,7 +1540,7 @@ const rectilinear = {
     definition: "forming a straight line",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const resting = {
@@ -1548,7 +1548,7 @@ const resting = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const retractable = {
@@ -1556,7 +1556,7 @@ const retractable = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const spacer = {
@@ -1564,7 +1564,7 @@ const spacer = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const staggered = {
@@ -1572,7 +1572,7 @@ const staggered = {
     definition: "zig zag",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const superposed = {
@@ -1580,7 +1580,7 @@ const superposed = {
     definition: "placed on or above something else",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const supported = {
@@ -1588,7 +1588,7 @@ const supported = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const surrounding = {
@@ -1596,7 +1596,7 @@ const surrounding = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const symmetrical = {
@@ -1604,7 +1604,7 @@ const symmetrical = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -1615,7 +1615,7 @@ const aperture = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bore = {
@@ -1623,7 +1623,7 @@ const bore = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
  
 const cavity = {
@@ -1631,7 +1631,7 @@ const cavity = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const chamber = {
@@ -1639,7 +1639,7 @@ const chamber = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const duct = {
@@ -1647,7 +1647,7 @@ const duct = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const groove = {
@@ -1655,7 +1655,7 @@ const groove = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const hole = {
@@ -1663,7 +1663,7 @@ const hole = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const hollow = {
@@ -1671,7 +1671,7 @@ const hollow = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const notch = {
@@ -1679,7 +1679,7 @@ const notch = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const open_ended = {
@@ -1687,7 +1687,7 @@ const open_ended = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const opening = {
@@ -1695,7 +1695,7 @@ const opening = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const orifice = {
@@ -1703,7 +1703,7 @@ const orifice = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const recess = {
@@ -1711,7 +1711,7 @@ const recess = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const passage = {
@@ -1719,7 +1719,7 @@ const passage = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const slit = {
@@ -1727,7 +1727,7 @@ const slit = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const slot = {
@@ -1735,7 +1735,7 @@ const slot = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const socket = {
@@ -1743,7 +1743,7 @@ const socket = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -1753,7 +1753,7 @@ const x_shaped = {
     definition: "For example, a C-shaped member",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const t_shaped = {
@@ -1761,7 +1761,7 @@ const t_shaped = {
     definition: "cross piece with stem",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const annular = {
@@ -1769,7 +1769,7 @@ const annular = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const arch = {
@@ -1777,7 +1777,7 @@ const arch = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const arculate = {
@@ -1785,7 +1785,7 @@ const arculate = {
     definition: "like an arc",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const barrel = {
@@ -1793,7 +1793,7 @@ const barrel = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bevel = {
@@ -1801,7 +1801,7 @@ const bevel = {
     definition: "sloping",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const buldged = {
@@ -1809,7 +1809,7 @@ const buldged = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bucket = {
@@ -1817,7 +1817,7 @@ const bucket = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const chamfered = {
@@ -1825,7 +1825,7 @@ const chamfered = {
     definition: "right angle edge",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const circular = {
@@ -1833,7 +1833,7 @@ const circular = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const concave = {
@@ -1841,7 +1841,7 @@ const concave = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const convex = {
@@ -1849,7 +1849,7 @@ const convex = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const conical = {
@@ -1857,7 +1857,7 @@ const conical = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const corrugated = {
@@ -1865,7 +1865,7 @@ const corrugated = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cuboid = {
@@ -1873,7 +1873,7 @@ const cuboid = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cup = {
@@ -1881,7 +1881,7 @@ const cup = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cylinder = {
@@ -1889,7 +1889,7 @@ const cylinder = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cylindroid = {
@@ -1897,7 +1897,7 @@ const cylindroid = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const depression = {
@@ -1905,7 +1905,7 @@ const depression = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const disc = {
@@ -1913,7 +1913,7 @@ const disc = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const dome = {
@@ -1921,15 +1921,15 @@ const dome = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const elliptical = {
     word: "elliptical",
     definition: "",
-    tags: [],
+    tags: ["elliptical", "ellipse"],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fin = {
@@ -1937,7 +1937,7 @@ const fin = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fold = {
@@ -1945,7 +1945,7 @@ const fold = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fork = {
@@ -1953,7 +1953,7 @@ const fork = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const frusto = {
@@ -1961,7 +1961,7 @@ const frusto = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const hr_gls_shp = {
@@ -1969,7 +1969,7 @@ const hr_gls_shp = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const inclinded = {
@@ -1977,7 +1977,7 @@ const inclinded = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const oblong = {
@@ -1985,7 +1985,7 @@ const oblong = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const parabolic = {
@@ -1993,7 +1993,7 @@ const parabolic = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const plane = {
@@ -2001,7 +2001,7 @@ const plane = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const phombic = {
@@ -2009,7 +2009,7 @@ const phombic = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const rectangular = {
@@ -2017,7 +2017,7 @@ const rectangular = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const round = {
@@ -2025,7 +2025,7 @@ const round = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const shelf = {
@@ -2033,7 +2033,7 @@ const shelf = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const sinusoidal = {
@@ -2041,7 +2041,7 @@ const sinusoidal = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const spherical = {
@@ -2049,7 +2049,7 @@ const spherical = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const square = {
@@ -2057,7 +2057,7 @@ const square = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const stepped = {
@@ -2065,7 +2065,7 @@ const stepped = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const taper = {
@@ -2073,7 +2073,7 @@ const taper = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const trapezoid = {
@@ -2081,7 +2081,7 @@ const trapezoid = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const triangular = {
@@ -2089,7 +2089,7 @@ const triangular = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const truncate = {
@@ -2097,7 +2097,7 @@ const truncate = {
     definition: "cut off top",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const trough = {
@@ -2105,7 +2105,7 @@ const trough = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const tubular = {
@@ -2113,7 +2113,7 @@ const tubular = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const twist = {
@@ -2121,7 +2121,7 @@ const twist = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const waisted = {
@@ -2129,7 +2129,7 @@ const waisted = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const wedge = {
@@ -2137,7 +2137,7 @@ const wedge = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -2149,7 +2149,7 @@ const collapsible = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const contractable = {
@@ -2157,7 +2157,7 @@ const contractable = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const deformable = {
@@ -2165,7 +2165,7 @@ const deformable = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const dense = {
@@ -2173,7 +2173,7 @@ const dense = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const elastic = {
@@ -2181,7 +2181,7 @@ const elastic = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const enlarged = {
@@ -2189,7 +2189,7 @@ const enlarged = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const expandable = {
@@ -2197,7 +2197,7 @@ const expandable = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const embiggened = {
@@ -2205,7 +2205,7 @@ const embiggened = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const flexible = {
@@ -2213,7 +2213,7 @@ const flexible = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const foldable = {
@@ -2221,7 +2221,7 @@ const foldable = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const foraminous = {
@@ -2229,7 +2229,7 @@ const foraminous = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fixed = {
@@ -2237,7 +2237,7 @@ const fixed = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const insulation = {
@@ -2245,7 +2245,7 @@ const insulation = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const opaque = {
@@ -2253,7 +2253,7 @@ const opaque = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const permeable = {
@@ -2261,7 +2261,7 @@ const permeable = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const porous = {
@@ -2269,7 +2269,7 @@ const porous = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const resilient = {
@@ -2277,7 +2277,7 @@ const resilient = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const rigid = {
@@ -2285,7 +2285,7 @@ const rigid = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const translucent = {
@@ -2293,7 +2293,7 @@ const translucent = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const transparent = {
@@ -2301,7 +2301,7 @@ const transparent = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -2311,7 +2311,7 @@ const bezel = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bulb = {
@@ -2319,7 +2319,7 @@ const bulb = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fluorescent_bulb = {
@@ -2327,7 +2327,7 @@ const fluorescent_bulb = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const incandescent_bulb = {
@@ -2335,7 +2335,7 @@ const incandescent_bulb = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const lamp = {
@@ -2343,7 +2343,7 @@ const lamp = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const light_beam = {
@@ -2351,7 +2351,7 @@ const light_beam = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const light_ray = {
@@ -2359,7 +2359,7 @@ const light_ray = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const reflection = {
@@ -2367,7 +2367,7 @@ const reflection = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const refraction = {
@@ -2375,7 +2375,7 @@ const refraction = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const transmission = {
@@ -2383,7 +2383,7 @@ const transmission = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const wndw = { // window var name was caused a weird problem
@@ -2391,7 +2391,7 @@ const wndw = { // window var name was caused a weird problem
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -2401,7 +2401,7 @@ const accumulator = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const aspirator = {
@@ -2409,7 +2409,7 @@ const aspirator = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bellows = {
@@ -2417,7 +2417,7 @@ const bellows = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const conduit = {
@@ -2425,7 +2425,7 @@ const conduit = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const connector = {
@@ -2433,7 +2433,7 @@ const connector = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const convection = {
@@ -2441,7 +2441,7 @@ const convection = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cylinder_piston = {
@@ -2449,7 +2449,7 @@ const cylinder_piston = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cylinder_rod = {
@@ -2457,7 +2457,7 @@ const cylinder_rod = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const dashpot = {
@@ -2465,7 +2465,7 @@ const dashpot = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const diaphragm = {
@@ -2473,7 +2473,7 @@ const diaphragm = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const discharge = {
@@ -2481,7 +2481,7 @@ const discharge = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const dispenser = {
@@ -2489,7 +2489,7 @@ const dispenser = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const filter = {
@@ -2497,7 +2497,7 @@ const filter = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const flue = {
@@ -2505,7 +2505,7 @@ const flue = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const gasket = {
@@ -2513,7 +2513,7 @@ const gasket = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const hose = {
@@ -2521,7 +2521,7 @@ const hose = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const hydraulic = {
@@ -2529,7 +2529,7 @@ const hydraulic = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const medium = {
@@ -2537,7 +2537,7 @@ const medium = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const nozzle = {
@@ -2545,7 +2545,7 @@ const nozzle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const outlet = {
@@ -2553,7 +2553,7 @@ const outlet = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pipe = {
@@ -2561,7 +2561,7 @@ const pipe = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const plunger = {
@@ -2569,7 +2569,7 @@ const plunger = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const port = {
@@ -2577,7 +2577,7 @@ const port = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const inlet_port = {
@@ -2585,7 +2585,7 @@ const inlet_port = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const outlet_port = {
@@ -2593,7 +2593,7 @@ const outlet_port = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pump = {
@@ -2601,7 +2601,7 @@ const pump = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const centrifugal_pump = {
@@ -2609,7 +2609,7 @@ const centrifugal_pump = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const gear_pump = {
@@ -2617,7 +2617,7 @@ const gear_pump = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const piston_pump = {
@@ -2625,7 +2625,7 @@ const piston_pump = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const vane_pump = {
@@ -2633,7 +2633,7 @@ const vane_pump = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const reservoir = {
@@ -2641,7 +2641,7 @@ const reservoir = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const siphon = {
@@ -2649,7 +2649,7 @@ const siphon = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const tank = {
@@ -2657,7 +2657,7 @@ const tank = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const tube = {
@@ -2665,7 +2665,7 @@ const tube = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const valve = {
@@ -2673,7 +2673,7 @@ const valve = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const ball_check_valve = {
@@ -2681,7 +2681,7 @@ const ball_check_valve = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const control_valve = {
@@ -2689,7 +2689,7 @@ const control_valve = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const gate_valve = {
@@ -2697,7 +2697,7 @@ const gate_valve = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const shut_off_valve = {
@@ -2705,7 +2705,7 @@ const shut_off_valve = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const non_return = {
@@ -2713,7 +2713,7 @@ const non_return = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const one_way = {
@@ -2721,7 +2721,7 @@ const one_way = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -2732,7 +2732,7 @@ const angle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const oblique_angle = {
@@ -2740,7 +2740,7 @@ const oblique_angle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const obtuse_angle = {
@@ -2748,7 +2748,7 @@ const obtuse_angle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bottom_top = {
@@ -2756,7 +2756,7 @@ const bottom_top = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const close_open= {
@@ -2764,7 +2764,7 @@ const close_open= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const crest = {
@@ -2772,7 +2772,7 @@ const crest = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const edge = {
@@ -2780,7 +2780,7 @@ const edge = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const external_internal = {
@@ -2788,7 +2788,7 @@ const external_internal = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const face = {
@@ -2796,7 +2796,7 @@ const face = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const film = {
@@ -2804,7 +2804,7 @@ const film = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const horizontal_vertical = {
@@ -2812,7 +2812,7 @@ const horizontal_vertical = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const layer = {
@@ -2820,7 +2820,7 @@ const layer = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const lower_upper = {
@@ -2828,7 +2828,7 @@ const lower_upper = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const normal_to_parallel = {
@@ -2836,7 +2836,7 @@ const normal_to_parallel = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const rim = {
@@ -2844,7 +2844,7 @@ const rim = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const section = {
@@ -2852,7 +2852,7 @@ const section = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const slant = {
@@ -2860,7 +2860,7 @@ const slant = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const surface = {
@@ -2868,7 +2868,7 @@ const surface = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const tilt = {
@@ -2876,7 +2876,7 @@ const tilt = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -2887,7 +2887,7 @@ const adhesive = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const concrete = {
@@ -2895,7 +2895,7 @@ const concrete = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cork = {
@@ -2903,7 +2903,7 @@ const cork = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fabric = {
@@ -2911,7 +2911,7 @@ const fabric = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fibre = {
@@ -2919,7 +2919,7 @@ const fibre = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const fluid = {
@@ -2927,7 +2927,7 @@ const fluid = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const liquid = {
@@ -2935,7 +2935,7 @@ const liquid = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const metal = {
@@ -2943,7 +2943,7 @@ const metal = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const plastic = {
@@ -2951,7 +2951,7 @@ const plastic = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const refractory = {
@@ -2959,7 +2959,7 @@ const refractory = {
     definition: "heat resistent",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const sand = {
@@ -2967,7 +2967,7 @@ const sand = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const wood = {
@@ -2975,7 +2975,7 @@ const wood = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const scrn = {
@@ -2983,7 +2983,7 @@ const scrn = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -2994,7 +2994,7 @@ const alternate = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cyclic = {
@@ -3002,7 +3002,7 @@ const cyclic = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const interval = {
@@ -3010,7 +3010,7 @@ const interval = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const lag_lead = {
@@ -3018,7 +3018,7 @@ const lag_lead = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const simultaneously = {
@@ -3026,7 +3026,7 @@ const simultaneously = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const consecutive = {
@@ -3034,7 +3034,7 @@ const consecutive = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -3044,7 +3044,7 @@ const compression = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const downward_upward = {
@@ -3052,7 +3052,7 @@ const downward_upward = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const drag = {
@@ -3060,7 +3060,7 @@ const drag = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const emergent = {
@@ -3068,7 +3068,7 @@ const emergent = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const extensible = {
@@ -3076,7 +3076,7 @@ const extensible = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const extrude = {
@@ -3084,7 +3084,7 @@ const extrude = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const grinding = {
@@ -3092,7 +3092,7 @@ const grinding = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const impact = {
@@ -3100,7 +3100,7 @@ const impact = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const inertia = {
@@ -3108,7 +3108,7 @@ const inertia = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const oscillate = {
@@ -3116,7 +3116,7 @@ const oscillate = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const crank = {
@@ -3124,7 +3124,7 @@ const crank = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pressing = {
@@ -3132,7 +3132,7 @@ const pressing = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pulverize= {
@@ -3140,7 +3140,7 @@ const pulverize= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const sagging= {
@@ -3148,7 +3148,7 @@ const sagging= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const severing= {
@@ -3156,7 +3156,7 @@ const severing= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const slidable= {
@@ -3164,7 +3164,7 @@ const slidable= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const terminating= {
@@ -3172,7 +3172,7 @@ const terminating= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const transverse = {
@@ -3180,7 +3180,7 @@ const transverse = {
     definition: "clockwise direction",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const traversing= {
@@ -3188,7 +3188,7 @@ const traversing= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const vibrating= {
@@ -3196,7 +3196,7 @@ const vibrating= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -3207,7 +3207,7 @@ const contact = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const electrode = {
@@ -3215,7 +3215,7 @@ const electrode = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const electromagnet= {
@@ -3223,7 +3223,7 @@ const electromagnet= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const filament= {
@@ -3231,7 +3231,7 @@ const filament= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const insulator= {
@@ -3239,7 +3239,7 @@ const insulator= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const lead = {
@@ -3247,7 +3247,7 @@ const lead = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const line_cord = {
@@ -3255,7 +3255,7 @@ const line_cord = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const motor = {
@@ -3263,7 +3263,7 @@ const motor = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const power_supply= {
@@ -3271,7 +3271,7 @@ const power_supply= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const resistance = {
@@ -3279,7 +3279,7 @@ const resistance = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const solenoid = {
@@ -3287,7 +3287,7 @@ const solenoid = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const swtch = {
@@ -3295,7 +3295,7 @@ const swtch = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const transformer = {
@@ -3303,7 +3303,7 @@ const transformer = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const wire= {
@@ -3311,7 +3311,7 @@ const wire= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -3322,7 +3322,7 @@ const longitudinal= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bell = {
@@ -3330,7 +3330,7 @@ const bell = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cam = {
@@ -3338,7 +3338,7 @@ const cam = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const circ_to_reportical = {
@@ -3346,7 +3346,7 @@ const circ_to_reportical = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cam_movement= {
@@ -3354,7 +3354,7 @@ const cam_movement= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const propelling= {
@@ -3362,7 +3362,7 @@ const propelling= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const connecting_rod = {
@@ -3370,7 +3370,7 @@ const connecting_rod = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const crank_arm= {
@@ -3378,7 +3378,7 @@ const crank_arm= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const jack= {
@@ -3386,7 +3386,7 @@ const jack= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const radius_bar = {
@@ -3394,7 +3394,7 @@ const radius_bar = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const winch= {
@@ -3402,7 +3402,7 @@ const winch= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const yoke= {
@@ -3410,7 +3410,7 @@ const yoke= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -3421,7 +3421,7 @@ const inclined_plane = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const lever= {
@@ -3429,7 +3429,7 @@ const lever= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const linkage= {
@@ -3437,7 +3437,7 @@ const linkage= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const straight_line= {
@@ -3445,7 +3445,7 @@ const straight_line= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const motion= {
@@ -3453,7 +3453,7 @@ const motion= {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const toggle = {
@@ -3461,7 +3461,7 @@ const toggle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 
@@ -3472,7 +3472,7 @@ const brake = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const chain = {
@@ -3480,7 +3480,7 @@ const chain = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const clutch = {
@@ -3488,7 +3488,7 @@ const clutch = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const centrifugal  = {
@@ -3496,7 +3496,7 @@ const centrifugal  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const sprag = {
@@ -3504,7 +3504,7 @@ const sprag = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const toothed = {
@@ -3512,7 +3512,7 @@ const toothed = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const drive = {
@@ -3520,7 +3520,7 @@ const drive = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pulley = {
@@ -3528,7 +3528,7 @@ const pulley = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const sheave  = {
@@ -3536,7 +3536,7 @@ const sheave  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const friction = {
@@ -3544,7 +3544,7 @@ const friction = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const gear = {
@@ -3552,7 +3552,7 @@ const gear = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const bvl_crwn_int = {
@@ -3560,7 +3560,7 @@ const bvl_crwn_int = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const non_circular = {
@@ -3568,7 +3568,7 @@ const non_circular = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pinion = {
@@ -3576,7 +3576,7 @@ const pinion = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const right_angle = {
@@ -3584,7 +3584,7 @@ const right_angle = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const spur = {
@@ -3592,7 +3592,7 @@ const spur = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const worm_n_wheel = {
@@ -3600,7 +3600,7 @@ const worm_n_wheel = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const intermittent = {
@@ -3608,7 +3608,7 @@ const intermittent = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const geneva = {
@@ -3616,7 +3616,7 @@ const geneva = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pawl_n_ratchet = {
@@ -3624,7 +3624,7 @@ const pawl_n_ratchet = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const pendulum = {
@@ -3632,7 +3632,7 @@ const pendulum = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const variable_speed  = {
@@ -3640,7 +3640,7 @@ const variable_speed  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const flex_coupling_sprocket = {
@@ -3648,7 +3648,7 @@ const flex_coupling_sprocket = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const body = {
@@ -3656,7 +3656,7 @@ const body = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const box = {
@@ -3664,7 +3664,7 @@ const box = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const block = {
@@ -3672,7 +3672,7 @@ const block = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cage = {
@@ -3680,7 +3680,7 @@ const cage = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cs = {
@@ -3688,7 +3688,7 @@ const cs = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const casing = {
@@ -3696,7 +3696,7 @@ const casing = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const chassis = {
@@ -3704,7 +3704,7 @@ const chassis = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const compartment = {
@@ -3712,7 +3712,7 @@ const compartment = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cradle = {
@@ -3720,7 +3720,7 @@ const cradle = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const framework = {
@@ -3728,7 +3728,7 @@ const framework = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const rack = {
@@ -3736,7 +3736,7 @@ const rack = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const scaffold = {
@@ -3744,7 +3744,7 @@ const scaffold = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const skeleton = {
@@ -3752,7 +3752,7 @@ const skeleton = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stator = {
@@ -3760,7 +3760,7 @@ const stator = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stretcher = {
@@ -3768,7 +3768,7 @@ const stretcher = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const spprt_struct = {
@@ -3776,7 +3776,7 @@ const spprt_struct = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 
@@ -3787,7 +3787,7 @@ const arm_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const assembly = {
@@ -3795,7 +3795,7 @@ const assembly = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const auxiliary = {
@@ -3803,7 +3803,7 @@ const auxiliary = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bar = {
@@ -3811,7 +3811,7 @@ const bar = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bifurcated = {
@@ -3819,7 +3819,7 @@ const bifurcated = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bit = {
@@ -3827,7 +3827,7 @@ const bit = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const branch_mbr = {
@@ -3835,7 +3835,7 @@ const branch_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bulkhead = {
@@ -3843,7 +3843,7 @@ const bulkhead = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bulwark = {
@@ -3851,7 +3851,7 @@ const bulwark = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const caliper = {
@@ -3859,7 +3859,7 @@ const caliper = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cantilevar = {
@@ -3867,7 +3867,7 @@ const cantilevar = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const compartment_mbr = {
@@ -3875,7 +3875,7 @@ const compartment_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const component = {
@@ -3883,7 +3883,7 @@ const component = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const crank_mbr = {
@@ -3891,7 +3891,7 @@ const crank_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const coupling_mbr = {
@@ -3899,7 +3899,7 @@ const coupling_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const extension = {
@@ -3907,7 +3907,7 @@ const extension = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const flag = {
@@ -3915,7 +3915,7 @@ const flag = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const foot_mbr = {
@@ -3923,7 +3923,7 @@ const foot_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const foundation = {
@@ -3931,7 +3931,7 @@ const foundation = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const guide_mbr = {
@@ -3939,7 +3939,7 @@ const guide_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const haft = {
@@ -3947,7 +3947,7 @@ const haft = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const head_mbr = {
@@ -3955,7 +3955,7 @@ const head_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const knob = {
@@ -3963,7 +3963,7 @@ const knob = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const leg_mbr = {
@@ -3971,7 +3971,7 @@ const leg_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const limb = {
@@ -3979,7 +3979,7 @@ const limb = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const link = {
@@ -3987,7 +3987,7 @@ const link = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const means = {
@@ -3995,7 +3995,7 @@ const means = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const mounting = {
@@ -4003,7 +4003,7 @@ const mounting = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const pallet = {
@@ -4011,7 +4011,7 @@ const pallet = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const panel = {
@@ -4019,7 +4019,7 @@ const panel = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const pawl = {
@@ -4027,7 +4027,7 @@ const pawl = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const pedal = {
@@ -4035,7 +4035,7 @@ const pedal = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const pedestal = {
@@ -4043,7 +4043,7 @@ const pedestal = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const portion = {
@@ -4051,7 +4051,7 @@ const portion = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const pike = {
@@ -4059,7 +4059,7 @@ const pike = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const prop = {
@@ -4067,7 +4067,7 @@ const prop = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const roller = {
@@ -4075,7 +4075,7 @@ const roller = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const rung = {
@@ -4083,7 +4083,7 @@ const rung = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const segment = {
@@ -4091,7 +4091,7 @@ const segment = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const shank = {
@@ -4099,7 +4099,7 @@ const shank = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const slide = {
@@ -4107,7 +4107,7 @@ const slide = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const splint = {
@@ -4115,7 +4115,7 @@ const splint = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stake = {
@@ -4123,7 +4123,7 @@ const stake = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stanchion = {
@@ -4131,7 +4131,7 @@ const stanchion = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const support_mbr = {
@@ -4139,7 +4139,7 @@ const support_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const tappet = {
@@ -4147,7 +4147,7 @@ const tappet = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const tenon = {
@@ -4155,7 +4155,7 @@ const tenon = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const trestle = {
@@ -4163,7 +4163,7 @@ const trestle = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const trigger = {
@@ -4171,7 +4171,7 @@ const trigger = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const tripod = {
@@ -4179,7 +4179,7 @@ const tripod = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const wall_mbr = {
@@ -4187,7 +4187,7 @@ const wall_mbr = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 
@@ -4198,7 +4198,7 @@ const aux_member = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const boss = {
@@ -4206,7 +4206,7 @@ const boss = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const dog = {
@@ -4214,7 +4214,7 @@ const dog = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const dump = {
@@ -4222,7 +4222,7 @@ const dump = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const ear = {
@@ -4230,7 +4230,7 @@ const ear = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const guide = {
@@ -4238,7 +4238,7 @@ const guide = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const handle = {
@@ -4246,7 +4246,7 @@ const handle = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const hump = {
@@ -4254,7 +4254,7 @@ const hump = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const lip = {
@@ -4262,7 +4262,7 @@ const lip = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const lobe = {
@@ -4270,7 +4270,7 @@ const lobe = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const male_member = {
@@ -4278,7 +4278,7 @@ const male_member = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const nib = {
@@ -4286,7 +4286,7 @@ const nib = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const peg = {
@@ -4294,7 +4294,7 @@ const peg = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const projection = {
@@ -4302,7 +4302,7 @@ const projection = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const prong = {
@@ -4310,7 +4310,7 @@ const prong = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const protrusion = {
@@ -4318,7 +4318,7 @@ const protrusion = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const ramp = {
@@ -4326,7 +4326,7 @@ const ramp = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const ridge = {
@@ -4334,7 +4334,7 @@ const ridge = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const tang = {
@@ -4342,7 +4342,7 @@ const tang = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const sawtooth = {
@@ -4350,7 +4350,7 @@ const sawtooth = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const skirt = {
@@ -4358,7 +4358,7 @@ const skirt = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const trunnion = {
@@ -4366,7 +4366,7 @@ const trunnion = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 
@@ -4377,7 +4377,7 @@ const abutment = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const apex = {
@@ -4385,7 +4385,7 @@ const apex = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cease = {
@@ -4393,7 +4393,7 @@ const cease = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const circumference = {
@@ -4401,7 +4401,7 @@ const circumference = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const enough = {
@@ -4409,7 +4409,7 @@ const enough = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const final_degree = {
@@ -4417,7 +4417,7 @@ const final_degree = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const finish = {
@@ -4425,7 +4425,7 @@ const finish = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const gauge = {
@@ -4433,7 +4433,7 @@ const gauge = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const hammer = {
@@ -4441,7 +4441,7 @@ const hammer = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const lap = {
@@ -4449,7 +4449,7 @@ const lap = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const ledge = {
@@ -4457,7 +4457,7 @@ const ledge = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const limit = {
@@ -4465,7 +4465,7 @@ const limit = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const peak = {
@@ -4473,7 +4473,7 @@ const peak = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const perimeter = {
@@ -4481,7 +4481,7 @@ const perimeter = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const periphery = {
@@ -4489,7 +4489,7 @@ const periphery = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const pinnacle = {
@@ -4497,7 +4497,7 @@ const pinnacle = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const rest = {
@@ -4505,7 +4505,7 @@ const rest = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const sill = {
@@ -4513,7 +4513,7 @@ const sill = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stp = {
@@ -4521,7 +4521,7 @@ const stp = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const sufficient = {
@@ -4529,7 +4529,7 @@ const sufficient = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 
@@ -4540,7 +4540,7 @@ const chimb = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const chime = {
@@ -4548,7 +4548,7 @@ const chime = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const flat = {
@@ -4556,7 +4556,7 @@ const flat = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const platfarm = {
@@ -4564,7 +4564,7 @@ const platfarm = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const rtrn = {
@@ -4572,7 +4572,7 @@ const rtrn = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const slat = {
@@ -4580,7 +4580,7 @@ const slat = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 
@@ -4590,7 +4590,7 @@ const boundary = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cheek = {
@@ -4598,7 +4598,7 @@ const cheek = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const corner_ext = {
@@ -4606,7 +4606,7 @@ const corner_ext = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cornice = {
@@ -4614,7 +4614,7 @@ const cornice = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const flank = {
@@ -4622,7 +4622,7 @@ const flank = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const profile = {
@@ -4630,7 +4630,7 @@ const profile = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const screen = {
@@ -4638,7 +4638,7 @@ const screen = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const shape = {
@@ -4646,7 +4646,7 @@ const shape = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const side = {
@@ -4654,7 +4654,7 @@ const side = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const skimmer = {
@@ -4662,7 +4662,7 @@ const skimmer = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 
@@ -4672,7 +4672,7 @@ const angled_surface = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cam_means = {
@@ -4680,7 +4680,7 @@ const cam_means = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const force_fit = {
@@ -4688,7 +4688,7 @@ const force_fit = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const incline = {
@@ -4696,7 +4696,7 @@ const incline = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const inclined_surface = {
@@ -4704,7 +4704,7 @@ const inclined_surface = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const slope = {
@@ -4712,7 +4712,7 @@ const slope = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const crown = {
@@ -4720,7 +4720,7 @@ const crown = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const ad = {
@@ -4728,7 +4728,7 @@ const ad = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const heel = {
@@ -4736,7 +4736,7 @@ const heel = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const terminus = {
@@ -4744,7 +4744,7 @@ const terminus = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const tail = {
@@ -4752,7 +4752,7 @@ const tail = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const tip = {
@@ -4760,7 +4760,7 @@ const tip = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const toe = {
@@ -4768,7 +4768,7 @@ const toe = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const top_word = {
@@ -4776,7 +4776,7 @@ const top_word = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const vertex = {
@@ -4784,7 +4784,7 @@ const vertex = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const zenith = {
@@ -4792,7 +4792,7 @@ const zenith = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const billet = {
@@ -4800,7 +4800,7 @@ const billet = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bed = {
@@ -4808,7 +4808,7 @@ const bed = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const chunky = {
@@ -4816,7 +4816,7 @@ const chunky = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const ceiling = {
@@ -4824,7 +4824,7 @@ const ceiling = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const staunchion = {
@@ -4832,7 +4832,7 @@ const staunchion = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const floor = {
@@ -4840,7 +4840,7 @@ const floor = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const ground = {
@@ -4848,7 +4848,7 @@ const ground = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const mat  = {
@@ -4856,7 +4856,7 @@ const mat  = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const plank = {
@@ -4864,7 +4864,7 @@ const plank = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const slab = {
@@ -4872,7 +4872,7 @@ const slab = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stage = {
@@ -4880,7 +4880,7 @@ const stage = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const slice = {
@@ -4888,7 +4888,7 @@ const slice = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const foil = {
@@ -4896,7 +4896,7 @@ const foil = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const scale = {
@@ -4904,7 +4904,7 @@ const scale = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const sliver = {
@@ -4912,7 +4912,7 @@ const sliver = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const wafer = {
@@ -4920,7 +4920,7 @@ const wafer = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bearer = {
@@ -4928,7 +4928,7 @@ const bearer = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const boom = {
@@ -4936,7 +4936,7 @@ const boom = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const guy = {
@@ -4944,7 +4944,7 @@ const guy = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const loading_bearing = {
@@ -4952,7 +4952,7 @@ const loading_bearing = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const mast = {
@@ -4960,7 +4960,7 @@ const mast = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const pillar = {
@@ -4968,7 +4968,7 @@ const pillar = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const pole = {
@@ -4976,7 +4976,7 @@ const pole = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const rigging = {
@@ -4984,7 +4984,7 @@ const rigging = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const spar = {
@@ -4992,7 +4992,7 @@ const spar = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stay = {
@@ -5000,7 +5000,7 @@ const stay = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stave = {
@@ -5008,7 +5008,7 @@ const stave = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stud = {
@@ -5016,7 +5016,7 @@ const stud = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const BEAM = {
@@ -5024,7 +5024,7 @@ const BEAM = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const chord = {
@@ -5032,7 +5032,7 @@ const chord = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const girder = {
@@ -5040,7 +5040,7 @@ const girder = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const jamb = {
@@ -5048,7 +5048,7 @@ const jamb = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const joist = {
@@ -5056,7 +5056,7 @@ const joist = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const lintel = {
@@ -5064,7 +5064,7 @@ const lintel = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const rafter = {
@@ -5072,7 +5072,7 @@ const rafter = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const RSJ = {
@@ -5080,7 +5080,7 @@ const RSJ = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const tie_bar = {
@@ -5088,7 +5088,7 @@ const tie_bar = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const tie_beam = {
@@ -5096,7 +5096,7 @@ const tie_beam = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const transom = {
@@ -5104,7 +5104,7 @@ const transom = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 
@@ -5115,7 +5115,7 @@ const axis = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const cordon = {
@@ -5123,7 +5123,7 @@ const cordon = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const castor = {
@@ -5131,7 +5131,7 @@ const castor = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const counter_shaft = {
@@ -5139,7 +5139,7 @@ const counter_shaft = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const king_pin = {
@@ -5147,7 +5147,7 @@ const king_pin = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const mandrel = {
@@ -5155,7 +5155,7 @@ const mandrel = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const nip_bw_rllrs = {
@@ -5163,7 +5163,7 @@ const nip_bw_rllrs = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const roll = {
@@ -5171,7 +5171,7 @@ const roll = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const rotor = {
@@ -5179,7 +5179,7 @@ const rotor = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const shaft  = {
@@ -5187,7 +5187,7 @@ const shaft  = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const stub_axl_shft = {
@@ -5195,7 +5195,7 @@ const stub_axl_shft = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 
@@ -5206,7 +5206,7 @@ const articulated = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const ball_b = {
@@ -5214,7 +5214,7 @@ const ball_b = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bearing = {
@@ -5222,7 +5222,7 @@ const bearing = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const bush = {
@@ -5230,7 +5230,7 @@ const bush = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const chuck = {
@@ -5238,7 +5238,7 @@ const chuck = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const jewel = {
@@ -5246,7 +5246,7 @@ const jewel = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const knife_edge = {
@@ -5254,7 +5254,7 @@ const knife_edge = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const needle = {
@@ -5262,7 +5262,7 @@ const needle = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const plummer = {
@@ -5270,7 +5270,7 @@ const plummer = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const roller_b = {
@@ -5278,7 +5278,7 @@ const roller_b = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const slipper = {
@@ -5286,7 +5286,7 @@ const slipper = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const swing = {
@@ -5294,7 +5294,7 @@ const swing = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 const swivel = {
@@ -5302,7 +5302,7 @@ const swivel = {
     definition: '',
     tags: [],
     has_img: false,
-    img_src: ''
+    img_src: {}
 }; 
 
 //plug
@@ -5311,7 +5311,7 @@ const bung  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const check = {
@@ -5319,7 +5319,7 @@ const check = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const clack_v = {
@@ -5327,7 +5327,7 @@ const clack_v = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const cock = {
@@ -5335,7 +5335,7 @@ const cock = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const diaphram_v  = {
@@ -5343,7 +5343,7 @@ const diaphram_v  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const flap = {
@@ -5351,7 +5351,7 @@ const flap = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const gate_v  = {
@@ -5359,7 +5359,7 @@ const gate_v  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const globe_v  = {
@@ -5367,7 +5367,7 @@ const globe_v  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const poppet  = {
@@ -5375,7 +5375,7 @@ const poppet  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const relief_v = {
@@ -5383,7 +5383,7 @@ const relief_v = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const spigot = {
@@ -5391,7 +5391,7 @@ const spigot = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const stopper = {
@@ -5399,7 +5399,7 @@ const stopper = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const tap = {
@@ -5407,7 +5407,7 @@ const tap = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 const throttle  = {
@@ -5415,7 +5415,7 @@ const throttle  = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: ""
+    img_src: {}
 }; 
 
 // Giving up on datastructure from here
@@ -6949,4 +6949,16 @@ const vulcanised  = {
 
 const yieldable = {
     word: "yieldable"
+}; 
+
+// 2D PLANE CURVES
+const conic_section = {
+    word: "conic section",
+    definition: "",
+    tags: ["ellipse", "parabola", "hyperbola", "focus", "vertex", "vertices", "asymptote"],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-1A.PNG", "A-1B.PNG", "A-1C.PNG", "A-2A.PNG"]
+    }
 }

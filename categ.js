@@ -544,6 +544,12 @@ categ_physical_prop = {
 		vapour,         viscous,           vulcanised,         yieldable,      
 	]
 };
+categ_plane_curves_2D = {
+	code: "c2D",
+	contents: [
+		conic_section
+	]
+};
 // categ_ = {
 // 	code: "",
 // 	contents: [
@@ -562,5 +568,6 @@ categories = [
 	categ_lift, categ_fibre, categ_receptacle, categ_interior, categ_tube,
 	categ_orifice, categ_closure, categ_cover, categ_append, categ_relinquish,
 	categ_material_struct, categ_unknown, categ_relationship, categ_movement_again,
-	categ_geometric, categ_contact,	categ_physical_prop
+	categ_geometric, categ_contact,	categ_physical_prop,
+	categ_plane_curves_2D
 ];
