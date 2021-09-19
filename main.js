@@ -29,7 +29,7 @@ function search() {
         }
     });
 
-    displayResults(results)
+    displayResults(results);
 }
 
 
@@ -41,6 +41,7 @@ function customQuery() {
     // user could be searching by category or word 
    
     if (q != "") {
+        // check category
         categories.forEach(function(c) {
             c.tags.forEach(function(tag) {
                 if (tag.match(q)) {
@@ -49,7 +50,16 @@ function customQuery() {
                 }
             });
         });
+
+        // check word
+        complete_glossay.forEach(function (entry) {
+            // also need to rm repeats
+            if (entry.word == q ) {
+                // alert("gottem");
+                results.push.apply(results, entry);
+            }
+        });
     }
 
-    displayResults(results)
+    displayResults(results);
 }

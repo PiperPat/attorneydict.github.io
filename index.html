@@ -4,13 +4,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Patent Glossary</title>
     <script src='rm-repeats/output.js'></script>
     <script src='main.js'></script>
     <script src='categ.js'></script>
+    <script src='glossary.js'></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap" rel="stylesheet">
     <link rel='stylesheet' href='functional.css' />
+    <link rel='stylesheet' href='style.css' />
 </head>
 <body>
+    <header>
+        <div id='header-imgs'>
+            <img id='main-logo' src='imgs/pipers-logo-2.png'>
+            <img id='unicron' src='imgs/redunicorn.jpg'>
+        </div>
+        <div id='greymatter'>
+            <ul>
+                <li><a href='piperpat.com'>Home</a></li>
+                <li><a href='http://wwwattorneys.piperpat.com/'>worldwide patent attorneys</a></li>
+            </ul>
+            <ul>
+                <li><a href='#'>PCT reminder</a></li>
+                <li><a href='#'>PCT maps</a></li>
+            </ul>
+        </div>
+        <h1 class='centre-text'>Patent Glossary</h1>
+    </header>
     <div>
         <label for="categories">General & Mechanical terms</label>
         <select name="categ" id="categories" onchange="search()">
