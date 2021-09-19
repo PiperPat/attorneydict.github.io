@@ -1,5 +1,6 @@
 categ_structure = {
     code: "str",
+	tags: ["structure"],
     contents: [
         abut_mns,    adjg_mns,    actg_mns,    adjt_mns,    arches,
         arm,    axle,    bail,    band,    base,    beam,    cntvr_bm,
@@ -23,6 +24,7 @@ categ_structure = {
 };
 categ_mounting_method = {
     code: "mmt",
+	tags: ["mounting method"],
     contents: [
         abut, attach, bolt, couple, demntbly,
         engage, fix 
@@ -30,6 +32,7 @@ categ_mounting_method = {
 };
 categ_fastener = {
     code: "fst",
+	tags: ["fastener", "attachment"],
     contents: [
         bolt, cable, clip, clamp, connection,
         coupling, dowel, hld_dwn, hook,joint,
@@ -40,6 +43,7 @@ categ_fastener = {
 };
 categ_bearing = {
     code: "brg",
+	tags: ["bearing"],
     contents: [
         ant_frcn, ant_fr_ball, ant_fr_nedl, ant_fr_roller,
         ant_fr_tp_rlr, bushing, fulcrum, journal, pivot,
@@ -48,6 +52,7 @@ categ_bearing = {
 };
 categ_spring = {
     code: "spr",
+	tags: ["spring"],
     contents: [
         air,    bias,    element,    coil,    helical,    
         helcl_comp,    helcl_tnsn,    leaf,    torsional
@@ -55,12 +60,14 @@ categ_spring = {
 };
 categ_numbers = {
     code: "num",
+	tags: ["numbers", "numeric"],
     contents: [
         multiplicity,    plurality,    several
     ]
 };
 categ_placement = {
     code: "plc",
+	tags: ["placement"],
     contents: [
         abut,     adjacent,     aligned,     attached,     
         axial,     cantilever,     complmtry,     concentric,     
@@ -77,6 +84,7 @@ categ_placement = {
 };
 categ_voids = {
     code: "vds",
+	tags: ["voids", "empty", "negative", "space"],
     contents: [
         aperture,     bore,     cavity,     chamber,     
         duct,     groove,     hole,     hollow,     notch,     
@@ -86,6 +94,7 @@ categ_voids = {
 };
 categ_shapes = {
     code: "shp",
+	tags: ["shapes", "geometry"],
     contents: [
         x_shaped,     t_shaped,     annular,     arch,     
         arculate,     barrel,     bevel,     buldged,     
@@ -105,6 +114,7 @@ categ_shapes = {
 };
 categ_material_prop = {
     code: "map",
+	tags: ["material properties"],
     contents: [
         collapsible,    contractable,    deformable,    dense,    
         elastic,    enlarged,    expandable,    embiggened,    
@@ -115,6 +125,7 @@ categ_material_prop = {
 };
 categ_optical = {
     code: "opt",
+	tags: ["optic", "light"],
     contents: [
         bezel,    bulb,    fluorescent_bulb,    incandescent_bulb,    
         lamp,    light_ray,    light_beam,    reflection,    refraction,    
@@ -123,6 +134,7 @@ categ_optical = {
 };
 categ_fluid_flow = {
     code: "fld",
+	tags: ["fluid", "liquid", "valve"],
     contents: [
         accumulator,    aspirator,    bellows,    conduit,    
         connector,    convection,    cylinder_piston,    cylinder_rod,    
@@ -137,6 +149,7 @@ categ_fluid_flow = {
 };
 categ_position = {
     code: "pos",
+	tags: ["position"],
     contents: [
         angle,    oblique_angle,    obtuse_angle,    axial,    
         bottom_top,    close_open,    crest,    edge,    external_internal,    
@@ -147,6 +160,7 @@ categ_position = {
 };
 categ_materials = {
 	code: "mat",
+	tags: ["materials"],
 	contents: [
 	    adhesive,	    concrete,	    cork,	    fabric,	    fibre,	    
 		fluid,	    insulation,	    liquid,	    metal,	    plastic,	    
@@ -155,6 +169,7 @@ categ_materials = {
 };
 categ_electrical = {
 	code: "ele",
+	tags: ["electric"],
 	contents: [
 	    contact,	    electrode,	    electromagnet,	    filament,	    
 		insulator,	    lead,	    line_cord,	    motor,	    power_supply,	    
@@ -164,6 +179,7 @@ categ_electrical = {
 };
 categ_rot_to_trnsln = {
 	code: "rtt",
+	tags: ["rotation", "translation"],
 	contents: [
 	    longitudinal,	    bell,	    cam,	    circ_to_reportical,	    
 		cam_movement,	    propelling,	    connecting_rod,	    crank_arm,	    
@@ -172,6 +188,7 @@ categ_rot_to_trnsln = {
 };
 categ_trnsln_to_trnsln = {
 	code: "ttt",
+	tags: ["-----"],
 	contents: [
 	    inclined_plane,	    lever,	    linkage,	    parallel,	    
 		straight_line,	    motion,	    toggle	
@@ -179,6 +196,7 @@ categ_trnsln_to_trnsln = {
 };
 categ_sequence = {
 	code: "seq",
+	tags: ["-----"],
 	contents: [
 	    alternate,	    cyclic,	    interval,	    lag_lead,	    
 		simultaneously,	    consecutive	
@@ -186,6 +204,7 @@ categ_sequence = {
 };
 categ_movement = {
 	code: "mvt",
+	tags: ["-----"],
 	contents: [
 	    compression,	    downward_upward,	    drag,	    eccentric,	    
 		emergent,	    extensible,	    extrude,	    grinding,	    
@@ -197,6 +216,7 @@ categ_movement = {
 };
 categ_rot_to_rot = {
 	code: "rtr",
+	tags: ["-----"],
 	contents: [
 	    brake,	    band,	    disc,	    shoe,	    chain,	    
 		clutch,	    centrifugal,	    sprag,	    toothed,	    
@@ -210,6 +230,7 @@ categ_rot_to_rot = {
 };
 categ_extenal = {
 	code: "ext",
+	tags: ["-----"],
 	contents: [
 	    body,	    box,	    block,	    brace,	    bracket,	    
 		cage,	    cs,	    casing,	    chassis,	    compartment,	    
@@ -220,6 +241,7 @@ categ_extenal = {
 };
 categ_member = {
 	code: "mbr",
+	tags: ["-----"],
 	contents: [
 	    arm_mbr,	    assembly,	    auxiliary,	    bar,	    
 		bifurcated,	    bit,	    block,	    box,	    brace,	    
@@ -239,6 +261,7 @@ categ_member = {
 };
 categ_projection = {
 	code: "prj",
+	tags: ["-----"],
 	contents: [
 	    aux_member,	    boss,	    dog,	    dump,	    ear,	    
 		extension,	    finger,	    flange,	    guide,	    handle,	    
@@ -251,6 +274,7 @@ categ_projection = {
 };
 categ_limit = {
 	code: "lmt",
+	tags: ["-----"],
 	contents: [
 	    abutment,	    apex,	    base,	    cease,	    circumference,	    
 		enough,	    final_degree,	    finish,	    foot,	    gauge,	    
@@ -261,6 +285,7 @@ categ_limit = {
 };
 categ_flange = {
 	code: "flg",
+	tags: ["-----"],
 	contents: [
 	    chimb,	    chime,	    collar,	    edge,	    flange,	    flat,	    
 		ledge,	    lip,	    platfarm,	    rtrn,	    rib,	    ridge,	    
@@ -270,6 +295,7 @@ categ_flange = {
 };
 categ_edge = {
 	code: "edg",
+	tags: ["-----"],
 	contents: [
 	    boundary ,	    cheek ,	    corner_ext ,	    cornice ,	    edge ,	    
 		face ,	    flank ,	    profile ,	    ridge ,	    rim ,	    screen ,	    
@@ -278,6 +304,7 @@ categ_edge = {
 };
 categ_wedge = {
 	code: "wdg",
+	tags: ["-----"],
 	contents: [
 	    angled_surface ,	    cam_means ,	    force_fit ,	    incline ,	    
 		inclined_surface ,	    key ,	    pin ,	    ramp ,	    screw ,	    
@@ -286,6 +313,7 @@ categ_wedge = {
 };
 categ_point = {
 	code: "pnt",
+	tags: ["-----"],
 	contents: [
 	    apex ,	    cornice ,	    crest ,	    crown ,	    ad ,	    
 		head ,	    heel ,	    knob ,	    terminus ,	    tail ,	    
@@ -294,6 +322,7 @@ categ_point = {
 };  	
 categ_slab = {
 	code: "slb",
+	tags: ["-----"],
 	contents: [	    
 		bar ,	    billet ,	    base ,	    bed ,	    block ,	    
 		chunky ,	    ceiling ,	    staunchion ,	    floor ,	    
@@ -304,6 +333,7 @@ categ_slab = {
 };
 categ_sheet = {
 	code: "sht",
+	tags: ["-----"],
 	contents: [
 	    film ,	    foil ,	    laminate ,	    layer ,	    membrane ,	    
 		plate ,	    scale ,	    sheet ,	    sliver ,	    slab ,	    
@@ -315,6 +345,7 @@ categ_sheet = {
 };	    
 categ_beam = {
 	code: "bem",
+	tags: ["-----"],
 	contents: [
 	    arch ,	    beam ,	    cantilever ,	    chord ,	    girder,
 		jamb ,	    joist ,	    lintel ,	    prop ,	    rafter ,	    
@@ -323,6 +354,7 @@ categ_beam = {
 };
 categ_shaft = {
 	code: "sft",
+	tags: ["-----"],
 	contents: [
 	    axis ,	    axle ,	    bar ,	    cordon ,	    castor ,	    
 		column ,	    counter_shaft ,	    crank ,	    king_pin ,	    mandrel ,	    
@@ -334,6 +366,7 @@ categ_shaft = {
 };
 categ_bearing_again = {
 	code: "bg2",
+	tags: ["-----"],
 	contents: [
 	    articulated ,	    ball_b ,	    bearing ,	    bush ,	    chuck ,	    
 		castor ,	    fulcrum ,	    hinge ,	    jewel ,	    joint ,	    
@@ -344,6 +377,7 @@ categ_bearing_again = {
 };
 categ_plug = {
 	code: "plg",
+	tags: ["-----"],
 	contents: [
 		bung,   check, clack_v, cock,    cork,   diaphram_v,    flap,   
 		gate_v,    globe_v,    needle, non_return,  plug, poppet,  relief_v, 
@@ -352,6 +386,7 @@ categ_plug = {
 };
 categ_gear = {
 	code: "gea",
+	tags: ["-----"],
 	contents: [
 		bevel_g,    cam,    cog,    comb,   differential_gear, gear_train,  
 		gear_ratio,   helical_g, pawl,    pinion, rack,    ratchet,    screw,  
@@ -362,6 +397,7 @@ categ_gear = {
 };
 categ_jaws = {
 	code: "jws",
+	tags: ["-----"],
 	contents: [
 		bolt_cutter,    clamp,  cutters,  fibro_cutter, foot_prints, 
 		G_clamp, grips,   
@@ -370,6 +406,7 @@ categ_jaws = {
 
 categ_spring_again = {
 	code: "spr",
+	tags: ["-----"],
 	contents: [
 		biassing_means, buffer,  coil, compression_s,   corkscrew, eliptical_s, 
 		extensible_tendon,   helical_s, helix,   leaf_s,    resilient,  semi_eliptical,   
@@ -379,6 +416,7 @@ categ_spring_again = {
 };
 categ_lift = {
 	code: "lft",
+	tags: ["-----"],
 	contents: [
 		capstan,    cable_hoist,    conveyor,   crane, derrick, elevator,    
 		hoist,  jack, jemmy,   lever, lift,    scaffold,   support,   winch, windlass,    
@@ -386,6 +424,7 @@ categ_lift = {
 };
 categ_fibre = {
 	code: "fbr",
+	tags: ["-----"],
 	contents: [
 		band,   braided,   cable, chain,   cord,  fibre,    fibril, filament,    
 		hemp_filament,  lace_filament,    line_filament,  rope_filament,    sheet,  
@@ -395,6 +434,7 @@ categ_fibre = {
 };
 categ_receptacle = {
 	code: "rec",
+	tags: ["-----"],
 	contents: [
 		ampoule,    bag,    barrel, beaker,  bin,  bladder,  bottle,   bowl,  box,  
 		bunker,   calabash,  can,  capsule,  carton,   case_word, catchment,   cellar,    
@@ -405,6 +445,7 @@ categ_receptacle = {
 };
 categ_interior = {
 	code: "int",
+	tags: ["-----"],
 	contents: [
 		cavity, centre,  chamber,  focus_word,    hollow, inside,  interior, opening, 
 		recess,  
@@ -412,6 +453,7 @@ categ_interior = {
 };
 categ_tube = {
 	code: "tub",
+	tags: ["-----"],
 	contents: [
 		aqua,   barrel,    bore,   canal, cannula, causeway,    channel,    chimney,    
 		circuit,    cloaca, conduit, corridor,    dike,   ditch, downpipe,    drain,  
@@ -423,6 +465,7 @@ categ_tube = {
 };
 categ_orifice = {
 	code: "ori",
+	tags: ["-----"],
 	contents: [
 		aperture,   bight, bore,    breech, calibre, cavity,  chasm,    crack,  entrance, 
 		egress,  eye,  exhaust,  gap,  gate, hatch,   hole,  ingress,  inlet,    nozzle, 
@@ -431,6 +474,7 @@ categ_orifice = {
 };
 categ_closure = {
 	code: "cls",
+	tags: ["-----"],
 	contents: [
 		bung,   cap,   closure,   cork,  cover,    door,   dome,  flap, lacing,  
 		lid,  lug,  occlusion,    plug,   ram,   throttle,  top_word,  trap, 
@@ -439,6 +483,7 @@ categ_closure = {
 };
 categ_cover = {
 	code: "cvr",
+	tags: ["-----"],
 	contents: [
 		awning, cap, capsule, hat, coat,    coating,    cocoon, cover,   enclosure, 
 		envelope,    file,   lid,   
@@ -446,6 +491,7 @@ categ_cover = {
 };
 categ_append = {
 	code: "apd",
+	tags: ["-----"],
 	contents: [
 		attach,     affix,      bond,      braze,      coalesce,     
 		contact,      draw,      embrace,    engage,       fasten,     
@@ -456,6 +502,7 @@ categ_append = {
 };
 categ_relinquish = {
 	code: "req",
+	tags: ["-----"],
 	contents: [
 		collapse,       amount,     derange,     detach,  disassemble,     
 		discharge,      disengage,     dislodge,       dismantle,     displace,  
@@ -467,6 +514,7 @@ categ_relinquish = {
 };
 categ_material_struct = {
 	code: "mst",
+	tags: ["-----"],
 	contents: [
 		alloy,      amorphous,      anhydrous,    anisotropic,      adsorbent,      
 		bound,    brittle,      composite,      combustile,   capactive,    
@@ -485,12 +533,14 @@ categ_material_struct = {
 };
 categ_unknown = {
 	code: "???",
+	tags: ["-----"],
 	contents: [
 		undecahedron,       washer,     
 	]
 };
 categ_relationship = {
 	code: "rln",
+	tags: ["-----"],
 	contents: [
 		abut,       alignment,  communicating,       contact,    dangle,      
 		depend,   extend,   hang,    intermediate,      interpose,    
@@ -500,6 +550,7 @@ categ_relationship = {
 };
 categ_movement_again = {
 	code: "mv2",
+	tags: ["-----"],
 	contents: [
 		abrasion,       acceleration,   action,      attrition,     beat,       
 		circination,       circulation,       circumgyration,    circumrevolution,      
@@ -515,6 +566,7 @@ categ_movement_again = {
 };
 categ_geometric = {
 	code: "geo",
+	tags: ["-----"],
 	contents: [
 		adaxial,        anterior,       arcuate,    axial,   coaxial,  co_extensive,        
 		concave,        convergent,     diagonal,       diametrically_opposed,     
@@ -525,6 +577,7 @@ categ_geometric = {
 };
 categ_contact = {
 	code: "con",
+	tags: ["-----"],
 	contents: [
 		abut,       bias,   bond,    compress,      contact,      depress,      
 		embed,    extend,       expand,     force,   fuse,    hit,   inject,   
@@ -534,6 +587,7 @@ categ_contact = {
 };
 categ_physical_prop = {
 	code: "phy",
+	tags: ["-----"],
 	contents: [
 		plasma,         plastic,        pliable,    pliant,      polymeric,         
 		porous,       paste,         refractory,         resilient,        
@@ -546,12 +600,14 @@ categ_physical_prop = {
 };
 categ_plane_curves_2D = {
 	code: "c2D",
+	tags: ["-----"],
 	contents: [
 		conic_section, serpentine, wavy_line, zig_zag
 	]
 };
 // categ_ = {
 // 	code: "",
+tags: ["-----"],
 // 	contents: [
 
 // 	]
