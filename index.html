@@ -33,7 +33,35 @@
         </div>
         <h1 class='centre-text'>Patent Glossary</h1>
     </header>
-    <div>
+    <div id="page-content">
+        <div id='letter-sort' style="text-align: center;">
+            <a class='sort-letter' onclick='showLetter(this)'>A</a>
+            <a class='sort-letter' onclick='showLetter(this)'>B</a>
+            <a class='sort-letter' onclick='showLetter(this)'>C</a>
+            <a class='sort-letter' onclick='showLetter(this)'>D</a>
+            <a class='sort-letter' onclick='showLetter(this)'>E</a>
+            <a class='sort-letter' onclick='showLetter(this)'>F</a>
+            <a class='sort-letter' onclick='showLetter(this)'>G</a>
+            <a class='sort-letter' onclick='showLetter(this)'>H</a>
+            <a class='sort-letter' onclick='showLetter(this)'>I</a>
+            <a class='sort-letter' onclick='showLetter(this)'>J</a>
+            <a class='sort-letter' onclick='showLetter(this)'>K</a>
+            <a class='sort-letter' onclick='showLetter(this)'>L</a>
+            <a class='sort-letter' onclick='showLetter(this)'>M</a>
+            <a class='sort-letter' onclick='showLetter(this)'>N</a>
+            <a class='sort-letter' onclick='showLetter(this)'>O</a>
+            <a class='sort-letter' onclick='showLetter(this)'>P</a>
+            <a class='sort-letter' onclick='showLetter(this)'>Q</a>
+            <a class='sort-letter' onclick='showLetter(this)'>R</a>
+            <a class='sort-letter' onclick='showLetter(this)'>S</a>
+            <a class='sort-letter' onclick='showLetter(this)'>T</a>
+            <a class='sort-letter' onclick='showLetter(this)'>U</a>
+            <a class='sort-letter' onclick='showLetter(this)'>V</a>
+            <a class='sort-letter' onclick='showLetter(this)'>W</a>
+            <a class='sort-letter' onclick='showLetter(this)'>X</a>
+            <a class='sort-letter' onclick='showLetter(this)'>Y</a>
+            <a class='sort-letter' onclick='showLetter(this)'>Z</a>
+        </div>
         <label for="categories">General & Mechanical terms</label>
         <select name="categ" id="categories" onchange="search()">
             <option value="str">structure</option>
@@ -95,7 +123,8 @@
         </select>
         <input type="text" placeholder="search for a word" id="input-query" onkeyup="customQuery()">
         
+        <div id='results'></div>
     </div>
-    <div id='results'></div>
+    
 </body>
 </html>
