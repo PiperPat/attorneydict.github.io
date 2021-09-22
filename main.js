@@ -19,7 +19,8 @@ function displayResults(results) {
     document.getElementById("results").innerHTML = lcHtml;
 }
 
-function search() {
+function showCateg() {
+    clearSelectedLetter()
     results = [];
     
     let filter = document.getElementById("categories").value
@@ -34,13 +35,14 @@ function search() {
 
 
 function customQuery() {
+    clearSelectedLetter()
     results = [];
 
     let q = document.getElementById("input-query").value;
 
     // user could be searching by category or word 
    
-    if (q != "") {
+    if (q) {
         // check category
         categories.forEach(function(c) {
             c.tags.forEach(function(tag) {
@@ -60,6 +62,29 @@ function customQuery() {
             }
         });
     }
+
+    displayResults(results);
+}
+
+// de-selects entire alphabet at top of page 
+function clearSelectedLetter() {
+    let these_fellas = document.getElementsByClassName("sort-letter");
+    for (i = 0; i < these_fellas.length; i++) {
+        these_fellas[i].classList.remove("selected-letter")
+    }
+}
+
+// when the user clicks on a letter at the top, this function finds all words 
+// starting with that letter
+function showLetter(letter) {
+    clearSelectedLetter()
+    document.getElementById(letter).classList.add("selected-letter");
+
+    results = [];
+
+    complete_glossay.forEach(function (entry) {
+        if (entry.word[0].toUpperCase() == letter ) results.push(entry);
+    });
 
     displayResults(results);
 }

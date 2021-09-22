@@ -1,2 +1,7 @@
 .banish {display: none;}
 .unbanish {display: inline;}
+
+.selected-letter {
+    font-weight: bolder;
+    color: rgb(204, 0, 0);
+}

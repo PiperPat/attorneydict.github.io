@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Patent Glossary</title>
     <script src='rm-repeats/output.js'></script>
-    <script src='main.js'></script>
     <script src='categ.js'></script>
     <script src='glossary.js'></script>
+    <script src='main.js'></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap" rel="stylesheet">
@@ -35,35 +35,35 @@
     </header>
     <div id="page-content">
         <div id='letter-sort' style="text-align: center;">
-            <a class='sort-letter' onclick='showLetter(this)'>A</a>
-            <a class='sort-letter' onclick='showLetter(this)'>B</a>
-            <a class='sort-letter' onclick='showLetter(this)'>C</a>
-            <a class='sort-letter' onclick='showLetter(this)'>D</a>
-            <a class='sort-letter' onclick='showLetter(this)'>E</a>
-            <a class='sort-letter' onclick='showLetter(this)'>F</a>
-            <a class='sort-letter' onclick='showLetter(this)'>G</a>
-            <a class='sort-letter' onclick='showLetter(this)'>H</a>
-            <a class='sort-letter' onclick='showLetter(this)'>I</a>
-            <a class='sort-letter' onclick='showLetter(this)'>J</a>
-            <a class='sort-letter' onclick='showLetter(this)'>K</a>
-            <a class='sort-letter' onclick='showLetter(this)'>L</a>
-            <a class='sort-letter' onclick='showLetter(this)'>M</a>
-            <a class='sort-letter' onclick='showLetter(this)'>N</a>
-            <a class='sort-letter' onclick='showLetter(this)'>O</a>
-            <a class='sort-letter' onclick='showLetter(this)'>P</a>
-            <a class='sort-letter' onclick='showLetter(this)'>Q</a>
-            <a class='sort-letter' onclick='showLetter(this)'>R</a>
-            <a class='sort-letter' onclick='showLetter(this)'>S</a>
-            <a class='sort-letter' onclick='showLetter(this)'>T</a>
-            <a class='sort-letter' onclick='showLetter(this)'>U</a>
-            <a class='sort-letter' onclick='showLetter(this)'>V</a>
-            <a class='sort-letter' onclick='showLetter(this)'>W</a>
-            <a class='sort-letter' onclick='showLetter(this)'>X</a>
-            <a class='sort-letter' onclick='showLetter(this)'>Y</a>
-            <a class='sort-letter' onclick='showLetter(this)'>Z</a>
+            <a class='sort-letter' onclick='showLetter("A")' id="A">A</a>
+            <a class='sort-letter' onclick='showLetter("B")' id="B">B</a>
+            <a class='sort-letter' onclick='showLetter("C")' id="C">C</a>
+            <a class='sort-letter' onclick='showLetter("D")' id="D">D</a>
+            <a class='sort-letter' onclick='showLetter("E")' id="E">E</a>
+            <a class='sort-letter' onclick='showLetter("F")' id="F">F</a>
+            <a class='sort-letter' onclick='showLetter("G")' id="G">G</a>
+            <a class='sort-letter' onclick='showLetter("H")' id="H">H</a>
+            <a class='sort-letter' onclick='showLetter("I")' id="I">I</a>
+            <a class='sort-letter' onclick='showLetter("J")' id="J">J</a>
+            <a class='sort-letter' onclick='showLetter("K")' id="K">K</a>
+            <a class='sort-letter' onclick='showLetter("L")' id="L">L</a>
+            <a class='sort-letter' onclick='showLetter("M")' id="M">M</a>
+            <a class='sort-letter' onclick='showLetter("N")' id="N">N</a>
+            <a class='sort-letter' onclick='showLetter("O")' id="O">O</a>
+            <a class='sort-letter' onclick='showLetter("P")' id="P">P</a>
+            <a class='sort-letter' onclick='showLetter("Q")' id="Q">Q</a>
+            <a class='sort-letter' onclick='showLetter("R")' id="R">R</a>
+            <a class='sort-letter' onclick='showLetter("S")' id="S">S</a>
+            <a class='sort-letter' onclick='showLetter("T")' id="T">T</a>
+            <a class='sort-letter' onclick='showLetter("U")' id="U">U</a>
+            <a class='sort-letter' onclick='showLetter("V")' id="V">V</a>
+            <a class='sort-letter' onclick='showLetter("W")' id="W">W</a>
+            <a class='sort-letter' onclick='showLetter("X")' id="X">X</a>
+            <a class='sort-letter' onclick='showLetter("Y")' id="Y">Y</a>
+            <a class='sort-letter' onclick='showLetter("Z")' id="Z">Z</a>
         </div>
         <label for="categories">General & Mechanical terms</label>
-        <select name="categ" id="categories" onchange="search()">
+        <select name="categ" id="categories" onchange="showCateg()">
             <option value="str">structure</option>
             <option value="mmt">Mounting method</option>
             <option value="fst">Fastener</option>

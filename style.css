@@ -18,7 +18,7 @@ header {
 }
 #main-logo {
     width: 100%;
-    max-width: 240px;
+    max-width: 230px;
 }
 @media only screen and (max-width: 550px) {
     #main-logo {
@@ -45,12 +45,17 @@ header {
     width: 100%;
     max-width: 800px;
     /* background-color: aqua; */
+    margin-bottom: 50px;
 }
 #letter-sort { 
     margin-top: 20px;
     margin-bottom: 20px; 
     letter-spacing: .2rem;
     line-height: 40px;
+    font-size: 1.2em;
+}
+.sort-letter:hover {
+    cursor: pointer;
 }
 #results {
     margin-left: 0;
