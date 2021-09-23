@@ -2,14 +2,14 @@
 
 const abut_mns = {
     word: "abutment means",
-    definition: "",
+    definition: "A protrusion from a first body configured to act as a support for a second body",
     tags: [],
     has_img: false,
     img_src: {}
 };
 const adjg_mns = {
     word: "adjoining means",
-    definition: "",
+    definition: "A material or mechanism capable of connecting at least two components or faces",
     tags: [],
     has_img: false,
     img_src: {}
@@ -7006,8 +7006,8 @@ const conic_section = {
 };
 const serpentine = {
     word: "serpentine",
-    definition: "",
-    tags: ["curve", ],
+    definition: "A line or movement with a primary direction and repeated uniform deviation",
+    tags: ["curve", "line", "wave", "snake"],
     has_img: true,
     img_src: {
         path: "figs/2D-plane-curves/",
@@ -7016,8 +7016,8 @@ const serpentine = {
 };
 const wavy_line = {
     word: "wavy line",
-    definition: "",
-    tags: ["curve", ],
+    definition: "A substantially continuous sinusoidal line",
+    tags: ["curve", "line", "wave"],
     has_img: true,
     img_src: {
         path: "figs/2D-plane-curves/",
