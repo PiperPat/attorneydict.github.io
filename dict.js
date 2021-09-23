@@ -5403,1357 +5403,3112 @@ const valve = {
     has_img: false,
     img_src: {}
 };
-// Giving up on datastructure from here
 // gear
 const bevel_g = {
     word: "bevel gear",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cam = {
     word: "cam",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cog = {
     word: "cog",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const comb  = {
     word: "comb ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const differential_gear = {
     word: "differential gear",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gear_train  = {
     word: "gear train ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gear_ratio  = {
     word: "gear ratio ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const helical_g  = {
     word: "helical gear",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pawl = {
     word: "pawl",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pinion  = {
     word: "pinion ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const rack = {
     word: "rack",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ratchet  = {
     word: "ratchet ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const screw  = {
     word: "screw ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const spiral  = {
     word: "spiral ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const spoke = {
     word: "spoke",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const Sprocket = {
     word: "Sprocket",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const Spur_g  = {
     word: "Spur gear",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const toothed_wheel  = {
     word: "toothed wheel ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const worm_g = {
     word: "worm gear",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cable = {
     word: "cable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cable_hook  = {
     word: "cable hook ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const crane = {
     word: "crane",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dead_end  = {
     word: "dead-end ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dead_eye = {
     word: "dead-eye",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ferrule  = {
     word: "ferrule ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hoist = {
     word: "hoist",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pulley  = {
     word: "pulley ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const roller  = {
     word: "roller ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const runner = {
     word: "runner",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const snatch  = {
     word: "snatch ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const block  = {
     word: "block ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tackle = {
     word: "tackle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const sheave = {
     word: "sheave",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 // JAWS
 const bolt_cutter = {
-    word: "bolt cutter"
+    word: "bolt cutter",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const clamp= {
-    word: "clamp"
+    word: "clamp",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cutters= {
-    word: "cutters"
+    word: "cutters",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fibro_cutter = {
-    word: "fibro cutter"
+    word: "fibro cutter",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const foot_prints = {
-    word: "foot prints"
+    word: "foot prints",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const G_clamp= {
-    word: "G-clamp"
+    word: "G-clamp",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const grips= {
-    word: "grips"
+    word: "grips",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 // SPRING
 
 const biassing_means  = {
-    word: "biasing means"
+    word: "biasing means",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const buffer = {
-    word: "buffer"
+    word: "buffer",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const coil = {
-    word: "coil"
+    word: "coil",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const compression_s  = {
-    word: "compression s"
+    word: "compression s",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const corkscrew  = {
-    word: "corkscrew"
+    word: "corkscrew",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const eliptical_s  = {
-    word: "eliptical s"
+    word: "eliptical s",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const extensible_tendon  = {
-    word: "extensible tendon"
+    word: "extensible tendon",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const helical_s = {
-    word: "helical s"
+    word: "helical s",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const helix = {
-    word: "helix"
+    word: "helix",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const leaf_s = {
-    word: "leaf s"
+    word: "leaf s",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const resilient  = {
-    word: "resilient"
+    word: "resilient",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const semi_eliptical  = {
-    word: "semi-eliptical"
+    word: "semi-eliptical",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const spiral_s  = {
-    word: "spiral s"
+    word: "spiral s",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const torsion_bar  = {
-    word: "torsion bar"
+    word: "torsion bar",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const torsion_s  = {
-    word: "torsion s"
+    word: "torsion s",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const threaded = {
-    word: "threaded"
+    word: "threaded",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const urging_means  = {
-    word: "urging means"
+    word: "urging means",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vortex = {
-    word: "vortex"
+    word: "vortex",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const load = {
-    word: "load"
+    word: "load",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const inertial_body  = {
-    word: "inertial body"
+    word: "inertial body",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gross_weight  = {
-    word: "gross weight"
+    word: "gross weight",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const mass = {
-    word: "mass"
+    word: "mass",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tare_weight = {
-    word: "tare weight"
+    word: "tare weight",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 //LIFT
 
 const capstan = {
-    word: "capstan"
+    word: "capstan",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cable_hoist  = {
-    word: "cable hoist"
+    word: "cable hoist",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const conveyor = {
-    word: "conveyor"
+    word: "conveyor",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const crane  = {
-    word: "crane"
+    word: "crane",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const derrick  = {
-    word: "derrick"
+    word: "derrick",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const elevator = {
-    word: "elevator"
+    word: "elevator",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hoist  = {
-    word: "hoist"
+    word: "hoist",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const jack = {
-    word: "jack"
+    word: "jack",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const jemmy  = {
-    word: "jemmy"
+    word: "jemmy",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lever  = {
-    word: "lever"
+    word: "lever",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lift = {
-    word: "lift"
+    word: "lift",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const scaffold  = {
-    word: "scaffold"
+    word: "scaffold",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const support = {
-    word: "support"
+    word: "support",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const winch  = {
-    word: "winch"
+    word: "winch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const windlass = {
-    word: "windlass"
+    word: "windlass",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 
 // FIBRE
 
 const band  = {
-    word: "band"
+    word: "band",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const braided = {
-    word: "braid (ed)"
+    word: "braid (ed)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cable  = {
-    word: "cable"
+    word: "cable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const chain  = {
-    word: "chain"
+    word: "chain",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cord  = {
-    word: "cord"
+    word: "cord",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fibre  = {
-    word: "fibre"
+    word: "fibre",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fibril = {
-    word: "fibril"
+    word: "fibril",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const filament = {
-    word: "filament"
+    word: "filament",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hemp_filament  = {
-    word: "hemp filament"
+    word: "hemp filament",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lace_filament = {
-    word: "lace filament"
+    word: "lace filament",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const line_filament = {
-    word: "line filament"
+    word: "line filament",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const rope_filament = {
-    word: "rope filament"
+    word: "rope filament",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const sheet  = {
-    word: "sheet"
+    word: "sheet",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const strand = {
-    word: "strand"
+    word: "strand",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const strap  = {
-    word: "strap"
+    word: "strap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const string  = {
-    word: "string"
+    word: "string",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const strip  = {
-    word: "strip"
+    word: "strip",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tape = {
-    word: "tape"
+    word: "tape",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tendril = {
-    word: "tendril"
+    word: "tendril",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const twisted  = {
-    word: "twist(ed)"
+    word: "twist(ed)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const warp = {
-    word: "warp"
+    word: "warp",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const weft  = {
-    word: "weft"
+    word: "weft",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const wire  = {
-    word: "wire"
+    word: "wire",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const winding  = {
-    word: "winding"
+    word: "winding",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const yarn = {
-    word: "yarn"
+    word: "yarn",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 
 // RECEPTACLE
 
 const ampoule  = {
-    word: "ampoule"
+    word: "ampoule",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bag = {
-    word: "bag"
+    word: "bag",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const barrel  = {
-    word: "barrel"
+    word: "barrel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const beaker = {
-    word: "beaker"
+    word: "beaker",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bin  = {
-    word: "bin"
+    word: "bin",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bladder  = {
-    word: "bladder"
+    word: "bladder",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bottle = {
-    word: "bottle"
+    word: "bottle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bowl  = {
-    word: "bowl"
+    word: "bowl",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const box  = {
-    word: "box"
+    word: "box",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bunker = {
-    word: "bunker"
+    word: "bunker",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const calabash = {
-    word: "calabash"
+    word: "calabash",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const can = {
-    word: "can"
+    word: "can",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const capsule = {
-    word: "capsule"
+    word: "capsule",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const carton  = {
-    word: "carton"
+    word: "carton",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const case_word = {
-    word: "case"
+    word: "case",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const catchment  = {
-    word: "catchment"
+    word: "catchment",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cellar  = {
-    word: "cellar"
+    word: "cellar",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const chamber  = {
-    word: "chamber"
+    word: "chamber",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cistern  = {
-    word: "cistern"
+    word: "cistern",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const coffer  = {
-    word: "coffer"
+    word: "coffer",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const container  = {
-    word: "container"
+    word: "container",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const depot  = {
-    word: "depot"
+    word: "depot",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const drain = {
-    word: "drain"
+    word: "drain",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const drum  = {
-    word: "drum"
+    word: "drum",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dump  = {
-    word: "dump"
+    word: "dump",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gourd  = {
-    word: "gourd"
+    word: "gourd",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hod = {
-    word: "hod"
+    word: "hod",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hold  = {
-    word: "hold"
+    word: "hold",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hopper = {
-    word: "hopper"
+    word: "hopper",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const jar = {
-    word: "jar"
+    word: "jar",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const jug = {
-    word: "jug"
+    word: "jug",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pan = {
-    word: "pan"
+    word: "pan",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const phial  = {
-    word: "phial"
+    word: "phial",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const receptacle  = {
-    word: "receptacle"
+    word: "receptacle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const reservoir = {
-    word: "reservoir"
+    word: "reservoir",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const slot = {
-    word: "slot"
+    word: "slot",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const socket = {
-    word: "socket"
+    word: "socket",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const spline = {
-    word: "spline"
+    word: "spline",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const trough = {
-    word: "trough"
+    word: "trough",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const well = {
-    word: "well"
+    word: "well",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 //  INTERIOR
 const cavity = {
-    word: "cavity"
+    word: "cavity",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const centre = {
-    word: "centre"
+    word: "centre",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const chamber = {
-    word: "chamber"
+    word: "chamber",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const focus_word = {
-    word: "focus"
+    word: "focus",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hollow = {
-    word: "hollow"
+    word: "hollow",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const inside = {
-    word: "inside"
+    word: "inside",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const interior = {
-    word: "interior"
+    word: "interior",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const opening = {
-    word: "opening"
+    word: "opening",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const recess	 = {
-    word: "recess"
+    word: "recess",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 // TUBE
 const aqua	 = {
-    word: "aqua"
+    word: "aqua",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const barrel = {
-    word: "barrel"
+    word: "barrel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bore	 = {
-    word: "bore"
+    word: "bore",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const canal	 = {
-    word: "canal"
+    word: "canal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cannula = {
-    word: "cannula"
+    word: "cannula",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const causeway	 = {
-    word: "causeway"
+    word: "causeway",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const channel	 = {
-    word: "channel"
+    word: "channel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const chimney	 = {
-    word: "chimney"
+    word: "chimney",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const circuit	 = {
-    word: "circuit"
+    word: "circuit",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cloaca	 = {
-    word: "cloaca"
+    word: "cloaca",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const conduit	 = {
-    word: "conduit"
+    word: "conduit",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const corridor	 = {
-    word: "corridor"
+    word: "corridor",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dike = {
-    word: "dike"
+    word: "dike",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ditch	 = {
-    word: "ditch"
+    word: "ditch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const downpipe	 = {
-    word: "downpipe"
+    word: "downpipe",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const drain = {
-    word: "drain"
+    word: "drain",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const duct	 = {
-    word: "duct"
+    word: "duct",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const egress	 = {
-    word: "egress"
+    word: "egress",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fall	 = {
-    word: "fall"
+    word: "fall",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const flexible_hose	 = {
-    word: "flexible hose"
+    word: "flexible hose",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const flue	 = {
-    word: "flue"
+    word: "flue",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const funnel	 = {
-    word: "funnel"
+    word: "funnel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gallery	 = {
-    word: "gallery"
+    word: "gallery",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const guide	 = {
-    word: "guide"
+    word: "guide",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hose	 = {
-    word: "hose"
+    word: "hose",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hosepipe	 = {
-    word: "hosepipe"
+    word: "hosepipe",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ingress = {
-    word: "ingress"
+    word: "ingress",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const main	 = {
-    word: "main"
+    word: "main",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const manifold	 = {
-    word: "manifold"
+    word: "manifold",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const passage = {
-    word: "passage"
+    word: "passage",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const path	 = {
-    word: "path"
+    word: "path",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pipe	 = {
-    word: "pipe"
+    word: "pipe",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pipeline	 = {
-    word: "pipeline"
+    word: "pipeline",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const race	 = {
-    word: "race"
+    word: "race",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const run_o_pipe	 = {
-    word: "run of pipe"
+    word: "run of pipe",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const scupper	 = {
-    word: "scupper"
+    word: "scupper",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const sewer	 = {
-    word: "sewer"
+    word: "sewer",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const stand_pipe	 = {
-    word: "stand pipe"
+    word: "stand pipe",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const syphon	 = {
-    word: "syphon"
+    word: "syphon",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const sluice	 = {
-    word: "sluice"
+    word: "sluice",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const trough	 = {
-    word: "trough"
+    word: "trough",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tube	 = {
-    word: "tube"
+    word: "tube",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tunnel	 = {
-    word: "tunnel"
+    word: "tunnel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vein	 = {
-    word: "vein"
+    word: "vein",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vent	 = {
-    word: "vent"
+    word: "vent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const viaduct	 = {
-    word: "viaduct"
+    word: "viaduct",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 // ORIFICE
 const aperture	 = {
-    word: "aperture"
+    word: "aperture",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bight	 = {
-    word: "bight"
+    word: "bight",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bore	 = {
-    word: "bore"
+    word: "bore",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const breech	 = {
-    word: "breech"
+    word: "breech",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const calibre	 = {
-    word: "calibre"
+    word: "calibre",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cavity	 = {
-    word: "cavity"
+    word: "cavity",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const chasm	 = {
-    word: "chasm"
+    word: "chasm",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const crack	 = {
-    word: "crack"
+    word: "crack",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const entrance	 = {
-    word: "entrance"
+    word: "entrance",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const egress  = {
-    word: "egress "
+    word: "egress ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const eye	 = {
-    word: "eye"
+    word: "eye",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const exhaust	 = {
-    word: "exhaust"
+    word: "exhaust",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gap	 = {
-    word: "gap"
+    word: "gap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gate	 = {
-    word: "gate"
+    word: "gate",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hatch	 = {
-    word: "hatch"
+    word: "hatch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hole	 = {
-    word: "hole"
+    word: "hole",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ingress	 = {
-    word: "ingress"
+    word: "ingress",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const inlet	 = {
-    word: "inlet"
+    word: "inlet",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const nozzle = {
-    word: "nozzle"
+    word: "nozzle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const opening = {
-    word: "opening"
+    word: "opening",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pin_hole = {
-    word: "pin hole"
+    word: "pin hole",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const slit = {
-    word: "slit"
+    word: "slit",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const venturi = {
-    word: "venturi"
+    word: "venturi",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 // CLOSURE
 const bung = {
-    word: "bung"
+    word: "bung",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cap = {
-    word: "cap"
+    word: "cap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const closure = {
-    word: "closure"
+    word: "closure",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cork = {
-    word: "cork"
+    word: "cork",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cover = {
-    word: "cover"
+    word: "cover",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const door = {
-    word: "door"
+    word: "door",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dome = {
-    word: "dome"
+    word: "dome",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const flap = {
-    word: "flap"
+    word: "flap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lacing = {
-    word: "lacing"
+    word: "lacing",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lid = {
-    word: "lid"
+    word: "lid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lug = {
-    word: "lug"
+    word: "lug",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const occlusion = {
-    word: "occlusion"
+    word: "occlusion",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const plug = {
-    word: "plug"
+    word: "plug",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ram = {
-    word: "ram"
+    word: "ram",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const throttle = {
-    word: "throttle"
+    word: "throttle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const trap = {
-    word: "trap"
+    word: "trap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const stopper = {
-    word: "stopper"
+    word: "stopper",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const seal = {
-    word: "seal"
+    word: "seal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const shive = {
-    word: "shive"
+    word: "shive",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const zip = {
-    word: "zip"
+    word: "zip",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 // COVER
 const awning = {
-    word: "awning"
+    word: "awning",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cap = {
-    word: "cap"
+    word: "cap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const capsule = {
-    word: "capsule"
+    word: "capsule",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hat = {
-    word: "hat"
+    word: "hat",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const coat = {
-    word: "coat"
+    word: "coat",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const coating = {
-    word: "coating"
+    word: "coating",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cocoon = {
-    word: "cocoon"
+    word: "cocoon",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const cover = {
-    word: "cover"
+    word: "cover",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const enclosure = {
-    word: "enclosure"
+    word: "enclosure",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const envelope = {
-    word: "envelope"
+    word: "envelope",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const file = {
-    word: "file"
+    word: "file",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lid = {
-    word: "lid"
+    word: "lid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 // APPEND
 const attach = {
-    word: "attach"
+    word: "attach",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const affix = {
-    word: "affix"
+    word: "affix",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bond = {
-    word: "bond"
+    word: "bond",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const braze = {
-    word: "braze"
+    word: "braze",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const coalesce = {
-    word: "coalesce"
+    word: "coalesce",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const contact = {
-    word: "contact"
+    word: "contact",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const draw = {
-    word: "draw"
+    word: "draw",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const embrace = {
-    word: "embrace"
+    word: "embrace",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const engage = {
-    word: "engage"
+    word: "engage",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fasten = {
-    word: "fasten"
+    word: "fasten",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fix = {
-    word: "fix"
+    word: "fix",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fuse = {
-    word: "fuse"
+    word: "fuse",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const grip = {
-    word: "grip"
+    word: "grip",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hold = {
-    word: "hold"
+    word: "hold",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const latch = {
-    word: "latch"
+    word: "latch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const limit = {
-    word: "limit"
+    word: "limit",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lock = {
-    word: "lock"
+    word: "lock",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const mount = {
-    word: "mount"
+    word: "mount",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const partially_embrace = {
-    word: "partially embrace"
+    word: "partially embrace",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const place = {
-    word: "place"
+    word: "place",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const retain = {
-    word: "retain"
+    word: "retain",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const secure = {
-    word: "secure"
+    word: "secure",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const solder = {
-    word: "solder"
+    word: "solder",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const weld = {
-    word: "weld"
+    word: "weld",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 // RELINQUISH 
 const collapse = {
-    word: "collapse"
+    word: "collapse",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const amount = {
-    word: "amount"
+    word: "amount",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const derange = {
-    word: "derange"
+    word: "derange",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const detach = {
-    word: "detach"
+    word: "detach",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const disassemble = {
-    word: "disassemble"
+    word: "disassemble",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const discharge = {
-    word: "discharge"
+    word: "discharge",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const disengage = {
-    word: "disengage"
+    word: "disengage",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dislodge = {
-    word: "dislodge"
+    word: "dislodge",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dismantle = {
-    word: "dismantle"
+    word: "dismantle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const displace = {
-    word: "displace"
+    word: "displace",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const disperse = {
-    word: "disperse"
+    word: "disperse",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ejaculate = {
-    word: "ejaculate"
+    word: "ejaculate",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const eject = {
-    word: "eject"
+    word: "eject",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const emit = {
-    word: "emit"
+    word: "emit",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const enclose = {
-    word: "enclose"
+    word: "enclose",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const furl = {
-    word: "furl"
+    word: "furl",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const recede = {
-    word: "recede"
+    word: "recede",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const reject = {
-    word: "reject"
+    word: "reject",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const release = {
-    word: "release"
+    word: "release",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const relinquish = {
-    word: "relinquish"
+    word: "relinquish",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const remove = {
-    word: "remove"
+    word: "remove",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const retract = {
-    word: "retract"
+    word: "retract",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const stow = {
-    word: "stow"
+    word: "stow",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tip = {
-    word: "tip"
+    word: "tip",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const throw_word = {
-    word: "throw"
+    word: "throw",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const trigger = {
-    word: "trigger"
+    word: "trigger",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const trip = {
-    word: "trip"
+    word: "trip",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const withdraw = {
-    word: "withdraw"
+    word: "withdraw",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const yield = {
-    word: "yield"
+    word: "yield",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 
 // MATERIAL STRUCTURE
 const alloy = {
-    word: "alloy"
+    word: "alloy",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const amorphous = {
-    word: "amorphous"
+    word: "amorphous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const anhydrous = {
-    word: "anhydrous"
+    word: "anhydrous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const anisotropic = {
-    word: "anisotropic"
+    word: "anisotropic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const adsorbent = {
-    word: "adsorbent"
+    word: "adsorbent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bound = {
-    word: "bound"
+    word: "bound",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const brittle = {
-    word: "brittle"
+    word: "brittle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const composite = {
-    word: "composite"
+    word: "composite",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const combustile = {
-    word: "combustile"
+    word: "combustile",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const capactive = {
-    word: "capactive"
+    word: "capactive",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const conductive = {
-    word: "conductive"
+    word: "conductive",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const coriaceous = {
-    word: "coriaceous"
+    word: "coriaceous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const corious = {
-    word: "corious"
+    word: "corious",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const crisp = {
-    word: "crisp"
+    word: "crisp",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const crumbly = {
-    word: "crumbly"
+    word: "crumbly",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const deformable = {
-    word: "deformable"
+    word: "deformable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const diaelectric = {
-    word: "diaelectric"
+    word: "diaelectric",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const diamagnetic = {
-    word: "diamagnetic"
+    word: "diamagnetic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const diffuse = {
-    word: "diffuse"
+    word: "diffuse",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const deliquescent = {
-    word: "deliquescent"
+    word: "deliquescent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const distortable = {
-    word: "distortable"
+    word: "distortable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const elastic = {
-    word: "elastic"
+    word: "elastic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const elastomer = {
-    word: "elastomer"
+    word: "elastomer",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const elastomeric = {
-    word: "elastomeric"
+    word: "elastomeric",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const electrolytic = {
-    word: "electrolytic"
+    word: "electrolytic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const emulsified = {
-    word: "emulsified"
+    word: "emulsified",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ferromagnetic = {
-    word: "ferromagnetic"
+    word: "ferromagnetic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fissible = {
-    word: "fissible"
+    word: "fissible",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const flexible = {
-    word: "flexible"
+    word: "flexible",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fluid = {
-    word: "fluid"
+    word: "fluid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const insulative = {
-    word: "insulative"
+    word: "insulative",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const foraminous = {
-    word: "foraminous (porus, contains apertures)"
+    word: "foraminous (porus, contains apertures)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fragile = {
-    word: "fragile"
+    word: "fragile",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const frangible = {
-    word: "frangible"
+    word: "frangible",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const friable = {
-    word: "friable"
+    word: "friable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const frothy = {
-    word: "frothy"
+    word: "frothy",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fume = {
-    word: "fume(y)"
+    word: "fume(y)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gas = {
-    word: "gas(eous)"
+    word: "gas(eous)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gel = {
-    word: "gel"
+    word: "gel",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gelatinous = {
-    word: "gelatinous"
+    word: "gelatinous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const glutinous = {
-    word: "glutinous"
+    word: "glutinous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const homogenous = {
-    word: "homogenous"
+    word: "homogenous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const homologous = {
-    word: "homologous"
+    word: "homologous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hydrated = {
-    word: "hydrated"
+    word: "hydrated",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hydroscopic = {
-    word: "hydroscopic"
+    word: "hydroscopic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const immovable = {
-    word: "immovable"
+    word: "immovable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const inductive = {
-    word: "inductive"
+    word: "inductive",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const isotropic = {
-    word: "isotropic"
+    word: "isotropic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const juice = {
-    word: "juice(y)"
+    word: "juice(y)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lacerable  = {
-    word: "lacerable "
+    word: "lacerable ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lacteal = {
-    word: "lacteal"
+    word: "lacteal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const liquid = {
-    word: "liquid"
+    word: "liquid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const magnetic = {
-    word: "magnetic"
+    word: "magnetic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const malleable = {
-    word: "malleable"
+    word: "malleable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const mastic = {
-    word: "mastic"
+    word: "mastic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const metallic = {
-    word: "metallic"
+    word: "metallic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const molten = {
-    word: "molten"
+    word: "molten",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const nebulous = {
-    word: "nebulous"
+    word: "nebulous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const opaque = {
-    word: "opaque"
+    word: "opaque",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ossified = {
-    word: "ossified"
+    word: "ossified",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const paramagnetic = {
-    word: "paramagnetic"
+    word: "paramagnetic",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pectinate = {
-    word: "pectinate (interdigitated, comblike)"
+    word: "pectinate (interdigitated, comblike)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const permeable = {
-    word: "permeable"
+    word: "permeable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 // UNKNOWN
 const undecahedron  = {
-    word: "undecahedron (11) "
+    word: "undecahedron (11) ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const washer = {
-    word: "washer"
+    word: "washer",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 // RELATIONSHIP 
 const abut = {
-    word: "abut"
+    word: "abut",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const alignment  = {
-    word: "alignment "
+    word: "alignment ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const communicating  = {
-    word: "communicating with "
+    word: "communicating with ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const contact = {
-    word: "contact"
+    word: "contact",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dangle = {
-    word: "dangle"
+    word: "dangle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const depend = {
-    word: "depend"
+    word: "depend",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const extend = {
-    word: "extend"
+    word: "extend",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hang = {
-    word: "hang"
+    word: "hang",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const intermediate = {
-    word: "intermediate"
+    word: "intermediate",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const interpose = {
-    word: "interpose"
+    word: "interpose",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const operatively_assoc  = {
-    word: "operatively associated with "
+    word: "operatively associated with ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pendancy = {
-    word: "pendancy"
+    word: "pendancy",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const planetary  = {
-    word: "planetary "
+    word: "planetary ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const protrude  = {
-    word: "protrude "
+    word: "protrude ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const radiating  = {
-    word: "radiating "
+    word: "radiating ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const suspend = {
-    word: "suspend"
+    word: "suspend",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const telescope  = {
-    word: "telescope(e) or telescope (icable)"
+    word: "telescope(e) or telescope (icable)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const truncate = {
-    word: "truncate (d)"
+    word: "truncate (d)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 // MOVEMENT 
 const abrasion = {
-    word: "abrasion"
+    word: "abrasion",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const acceleration  = {
-    word: "acceleration "
+    word: "acceleration ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const action = {
-    word: "action"
+    word: "action",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const attrition = {
-    word: "attrition"
+    word: "attrition",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const beat = {
-    word: "beat"
+    word: "beat",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const circination  = {
-    word: "circination "
+    word: "circination ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const circulation  = {
-    word: "circulation "
+    word: "circulation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const circumgyration  = {
-    word: "circumgyration "
+    word: "circumgyration ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const circumrevolution = {
-    word: "circumrevolution"
+    word: "circumrevolution",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const compression  = {
-    word: "compression "
+    word: "compression ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const conduction  = {
-    word: "conduction "
+    word: "conduction ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const convection  = {
-    word: "convection "
+    word: "convection ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const convolution  = {
-    word: "convolution "
+    word: "convolution ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const convulsion  = {
-    word: "convulsion "
+    word: "convulsion ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fluctuation  = {
-    word: "fluctuation "
+    word: "fluctuation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const friction = {
-    word: "friction"
+    word: "friction",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const gyration = {
-    word: "gyration"
+    word: "gyration",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const idle = {
-    word: "idle"
+    word: "idle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vibration = {
-    word: "vibration"
+    word: "vibration",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const movement  = {
-    word: "movement "
+    word: "movement ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const nutation  = {
-    word: "nutation "
+    word: "nutation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const orbit = {
-    word: "orbit"
+    word: "orbit",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const oscillation  = {
-    word: "oscillation "
+    word: "oscillation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pendular_motion  = {
-    word: "pendular motion "
+    word: "pendular motion ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pendulous  = {
-    word: "pendulous "
+    word: "pendulous ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const precession  = {
-    word: "precession "
+    word: "precession ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pulsation = {
-    word: "pulsation"
+    word: "pulsation",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const quiver  = {
-    word: "quiver "
+    word: "quiver ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const reciprocation  = {
-    word: "reciprocation "
+    word: "reciprocation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const recirculation  = {
-    word: "recirculation "
+    word: "recirculation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const recycling  = {
-    word: "recycling "
+    word: "recycling ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const retraction  = {
-    word: "retraction "
+    word: "retraction ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const revolution  = {
-    word: "revolution "
+    word: "revolution ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const rock = {
-    word: "rock"
+    word: "rock",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const roll = {
-    word: "roll"
+    word: "roll",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const rotation = {
-    word: "rotation"
+    word: "rotation",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const shake = {
-    word: "shake"
+    word: "shake",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const stationary  = {
-    word: "stationary "
+    word: "stationary ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const suspension  = {
-    word: "suspension "
+    word: "suspension ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const swing  = {
-    word: "swing "
+    word: "swing ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tension = {
-    word: "tension"
+    word: "tension",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tick = {
-    word: "tick"
+    word: "tick",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const turbination  = {
-    word: "turbination "
+    word: "turbination ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const undulation  = {
-    word: "undulation "
+    word: "undulation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vacillation  = {
-    word: "vacillation "
+    word: "vacillation ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vibration  = {
-    word: "vibration "
+    word: "vibration ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vibratiuncle  = {
-    word: "vibratiuncle "
+    word: "vibratiuncle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vortex = {
-    word: "vortex"
+    word: "vortex",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const waggle = {
-    word: "waggle"
+    word: "waggle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const wiggle = {
-    word: "wiggle"
+    word: "wiggle",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const zig_zag = {
     word: "zig zag",
@@ -6765,233 +8520,534 @@ const zig_zag = {
         imgs: ["A-4.PNG"]
     }
 };
+
 // GEOMETRIC
 const adaxial  = {
-    word: "adaxial "
+    word: "adaxial ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const anterior  = {
-    word: "anterior "
+    word: "anterior ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const arcuate  = {
-    word: "arcuate "
+    word: "arcuate ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const axial = {
-    word: "axial"
+    word: "axial",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const coaxial  = {
-    word: "coaxial "
+    word: "coaxial ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const co_extensive  = {
-    word: "co-extensive "
+    word: "co-extensive ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const concave  = {
-    word: "concave "
+    word: "concave ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const convergent = {
-    word: "convergent"
+    word: "convergent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const diagonal = {
-    word: "diagonal"
+    word: "diagonal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const diametrically_opposed  = {
-    word: "diametrically opposed "
+    word: "diametrically opposed ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const diametrically_opposite  = {
-    word: "diametrically opposite "
+    word: "diametrically opposite ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const divergent  = {
-    word: "divergent "
+    word: "divergent ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const dorsal = {
-    word: "dorsal"
+    word: "dorsal",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lateral  = {
-    word: "lateral "
+    word: "lateral ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const lenticular  = {
-    word: "lenticular "
+    word: "lenticular ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const longitudinal  = {
-    word: "longitudinal "
+    word: "longitudinal ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const posterior  = {
-    word: "posterior "
+    word: "posterior ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const prehensible  = {
-    word: "prehensible (able to grasp) "
+    word: "prehensible (able to grasp) ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const radiating  = {
-    word: "radiating "
+    word: "radiating ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const rotund = {
-    word: "rotund"
+    word: "rotund",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const transverse  = {
-    word: "transverse "
+    word: "transverse ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const truncated  = {
-    word: "truncated "
+    word: "truncated ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const sectioned  = {
-    word: "sectioned "
+    word: "sectioned ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const ventral = {
-    word: "ventral"
+    word: "ventral",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 // CONTACT
 const abut = {
-    word: "abut"
+    word: "abut",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bias = {
-    word: "bias"
+    word: "bias",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const bond  = {
-    word: "bond "
+    word: "bond ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const compress  = {
-    word: "compress "
+    word: "compress ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const contact  = {
-    word: "contact "
+    word: "contact ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const depress  = {
-    word: "depress "
+    word: "depress ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const embed  = {
-    word: "embed "
+    word: "embed ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const extend  = {
-    word: "extend "
+    word: "extend ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const expand  = {
-    word: "expand "
+    word: "expand ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const force  = {
-    word: "force "
+    word: "force ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const fuse = {
-    word: "fuse"
+    word: "fuse",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const hit  = {
-    word: "hit "
+    word: "hit ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const inject  = {
-    word: "inject "
+    word: "inject ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const insert  = {
-    word: "insert "
+    word: "insert ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const interpose  = {
-    word: "interpose "
+    word: "interpose ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pass_over  = {
-    word: "pass over "
+    word: "pass over ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pull = {
-    word: "pull"
+    word: "pull",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const push  = {
-    word: "push "
+    word: "push ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const straddle  = {
-    word: "straddle "
+    word: "straddle ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const touch = {
-    word: "touch"
+    word: "touch",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const urge = {
-    word: "urge"
+    word: "urge",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 // PHYSICAL PROPERTIES
 const plasma = {
-    word: "plasma"
+    word: "plasma",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const plastic  = {
-    word: "plastic(s) "
+    word: "plastic(s) ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pliable = {
-    word: "pliable"
+    word: "pliable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const pliant = {
-    word: "pliant"
+    word: "pliant",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const polymeric = {
-    word: "polymeric (co, homo)"
+    word: "polymeric (co, homo)",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const porous = {
-    word: "porous"
+    word: "porous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const paste = {
-    word: "paste"
+    word: "paste",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const refractory  = {
-    word: "refractory "
+    word: "refractory ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const resilient  = {
-    word: "resilient "
+    word: "resilient ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const resistive  = {
-    word: "resistive "
+    word: "resistive ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const rigid = {
-    word: "rigid"
+    word: "rigid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const sap = {
-    word: "sap"
+    word: "sap",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const semi_permeable  = {
-    word: "semi-permeable "
+    word: "semi-permeable ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const sequacious  = {
-    word: "sequacious "
+    word: "sequacious ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const solid = {
-    word: "solid"
+    word: "solid",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const spongy = {
-    word: "spongy"
+    word: "spongy",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const steam = {
-    word: "steam"
+    word: "steam",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const stringy = {
-    word: "stringy"
+    word: "stringy",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const supple = {
-    word: "supple"
+    word: "supple",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tenacious  = {
-    word: "tenacious "
+    word: "tenacious ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const thermoplastic  = {
-    word: "thermoplastic(s) "
+    word: "thermoplastic(s) ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const thermosetting  = {
-    word: "thermosetting "
+    word: "thermosetting ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const transparent  = {
-    word: "transparent "
+    word: "transparent ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const translucent  = {
-    word: "translucent "
+    word: "translucent ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const tumescent = {
-    word: "tumescent"
+    word: "tumescent",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vacuous = {
-    word: "vacuous"
+    word: "vacuous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vapour = {
-    word: "vapour"
+    word: "vapour",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const viscous = {
-    word: "viscous"
+    word: "viscous",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const vulcanised  = {
-    word: "vulcanised "
+    word: "vulcanised ",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 const yieldable = {
-    word: "yieldable"
+    word: "yieldable",
+    definition: "",
+    tags: [],
+    has_img: false,
+    img_src: {}
 };
 // 2D PLANE CURVES -- have images
 const conic_section = {
