@@ -602,7 +602,8 @@ categ_plane_curves_2D = {
 	code: "c2D",
 	tags: ["-----"],
 	contents: [
-		conic_section, serpentine, wavy_line, zig_zag
+		conic_section, serpentine, wavy_line, zig_zag, spiral, semicricle,
+		loop, 
 	]
 };
 // categ_ = {

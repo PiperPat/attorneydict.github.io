@@ -1045,4 +1045,7 @@ const complete_glossay = [
     conic_section,
     serpentine,
     wavy_line,
+    spiral, 
+    semicricle,
+    loop, 
 ];

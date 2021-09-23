@@ -5485,8 +5485,11 @@ const spiral  = {
     word: "spiral ",
     definition: "",
     tags: [],
-    has_img: false,
-    img_src: {}
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-5.PNG"]
+    }
 }; 
 
 const spoke = {
@@ -8491,5 +8494,27 @@ const wavy_line = {
     img_src: {
         path: "figs/2D-plane-curves/",
         imgs: ["A-3.PNG"]
+    }
+}; 
+
+const semicricle = {
+    word: "semicircle",
+    definition: "",
+    tags: ["half", "circle", "shape"],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-6.PNG"]
+    }
+}; 
+
+const loop = {
+    word: "loop",
+    definition: "",
+    tags: ["shape"],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-7.PNG"]
     }
 }
