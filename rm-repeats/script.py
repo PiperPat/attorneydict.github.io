@@ -13,7 +13,7 @@ for word in words:
     segments = word.split("\n")
     for seg in segments:
         if "const" in seg:
-            var = re.split('=| |\t', seg)[1]
+            var = re.split('=| |\t', seg)[1].lower()
             if var not in unique_vars:
                 unique_vars.append(var)
                 unique_words.append(word)

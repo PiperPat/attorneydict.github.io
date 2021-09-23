@@ -684,36 +684,42 @@ const abut = {
 };
 const attach = {
     word : "attach",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
 };
 const bolt = {
     word: "bolt",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
 };
 const couple = {
     word: "couple",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
 };
 const demntbly = {
     word: "demountably",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
 };
 const engage = {
     word: "engage",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
 };
 const fix = {
     word: "fix",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
@@ -4803,13 +4809,6 @@ const staunchion = {
 };
 const upright = {
     word: 'upright',
-    definition: '',
-    tags: [],
-    has_img: false,
-    img_src: {}
-};
-const BEAM = {
-    word: 'BEAM',
     definition: '',
     tags: [],
     has_img: false,

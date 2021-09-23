@@ -87,5 +87,7 @@ function showLetter(letter) {
         if (entry.word[0].toUpperCase() == letter ) results.push(entry);
     });
 
+    results.sort((a, b) => a.word.localeCompare(b.word))
+
     displayResults(results);
 }

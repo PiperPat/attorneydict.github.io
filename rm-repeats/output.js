@@ -781,6 +781,7 @@ const abut = {
 
 const attach = {
     word : "attach",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
@@ -788,6 +789,7 @@ const attach = {
 
 const bolt = {
     word: "bolt",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
@@ -795,6 +797,7 @@ const bolt = {
 
 const couple = {
     word: "couple",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
@@ -802,6 +805,7 @@ const couple = {
 
 const demntbly = {
     word: "demountably",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
@@ -809,6 +813,7 @@ const demntbly = {
 
 const engage = {
     word: "engage",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
@@ -816,6 +821,7 @@ const engage = {
 
 const fix = {
     word: "fix",
+    definition: "",
     tags: [],
     has_img: false,
     img_src: {}
@@ -5013,14 +5019,6 @@ const stave = {
 
 const stud = {
     word: 'stud',
-    definition: '',
-    tags: [],
-    has_img: false,
-    img_src: {}
-}; 
-
-const BEAM = {
-    word: 'BEAM',
     definition: '',
     tags: [],
     has_img: false,
