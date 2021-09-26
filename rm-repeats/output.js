@@ -8517,4 +8517,37 @@ const loop = {
         path: "figs/2D-plane-curves/",
         imgs: ["A-7.PNG"]
     }
+}; 
+
+const cycloid = {
+    word: "cycloid",
+    definition: "",
+    tags: ["shape"],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-8.PNG"]
+    }
+}; 
+
+const quadrilateral = {
+    word: "quadrilateral: Square, rectangle, rhombus, rhomboid, trapezium, kite, trapezoid, diagonal",
+    definition: "",
+    tags: ["shape"],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-9A.PNG", "A-9B.PNG", "A-9C.PNG", "A-9D.PNG", "A-9E.PNG", "A-9F.PNG", "A-9G.PNG"]
+    }
+}; 
+
+const polygon = {
+    word: "polygon: regular and circumscribed circle",
+    definition: "",
+    tags: ["shape"],
+    has_img: true,
+    img_src: {
+        path: "figs/2D-plane-curves/",
+        imgs: ["A-10.PNG", "A-10A.PNG"]
+    }
 }

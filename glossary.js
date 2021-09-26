@@ -1048,4 +1048,7 @@ const complete_glossay = [
     spiral, 
     semicricle,
     loop, 
+    cycloid,
+    quadrilateral,
+    polygon 
 ];

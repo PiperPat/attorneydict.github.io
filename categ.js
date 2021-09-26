@@ -603,7 +603,9 @@ categ_plane_curves_2D = {
 	tags: ["-----"],
 	contents: [
 		conic_section, serpentine, wavy_line, zig_zag, spiral, semicricle,
-		loop, 
+		loop, cycloid,
+		quadrilateral,
+		polygon 
 	]
 };
 // categ_ = {
