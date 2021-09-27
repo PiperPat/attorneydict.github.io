@@ -1637,13 +1637,6 @@ const conical = {
     has_img: false,
     img_src: {}
 };
-const corrugated = {
-    word: "corrugated",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: {}
-};
 const cuboid = {
     word: "cuboid",
     definition: "",
@@ -3080,13 +3073,6 @@ const centrifugal  = {
 };
 const sprag = {
     word: "sprag",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: {}
-};
-const toothed = {
-    word: "toothed",
     definition: "",
     tags: [],
     has_img: false,
@@ -4887,13 +4873,6 @@ const rafter = {
     has_img: false,
     img_src: {}
 };
-const RSJ = {
-    word: 'RSJ',
-    definition: '',
-    tags: [],
-    has_img: false,
-    img_src: {}
-};
 const tie_bar = {
     word: 'tie bar',
     definition: '',
@@ -5514,14 +5493,14 @@ const spoke = {
     has_img: false,
     img_src: {}
 };
-const Sprocket = {
+const sprocket = {
     word: "Sprocket",
     definition: "",
     tags: [],
     has_img: false,
     img_src: {}
 };
-const Spur_g  = {
+const spur_g  = {
     word: "Spur gear",
     definition: "",
     tags: [],
@@ -5676,7 +5655,7 @@ const foot_prints = {
     has_img: false,
     img_src: {}
 };
-const G_clamp= {
+const g_clamp= {
     word: "G-clamp",
     definition: "",
     tags: [],
@@ -9178,3 +9157,245 @@ const sphere = {
         imgs: ["B-6.PNG", "B-6B.PNG",  ]
     }
 };
+// patterns, edge and surface
+const spotted = {
+    word: "spotted",
+    definition: "(in engraving, painting, and drawing: stippled)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["1.PNG"]
+    }
+};
+const marked_strokes = {
+    word: "marked with strokes",
+    definition: "regularly with strokes (of cloth: broken stripes)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["2.PNG"]
+    }
+};
+const marked_dots_strokes = {
+    word: "marked with dotes and strokes",
+    definition: "regularly with dots and strokes alternately (marked in dot-and-dash pattern)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["3.PNG"]
+    }
+};
+const lineated = {
+    word: "lineated",
+    definition: "horizontally and vertically lineate or lineated",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["4.PNG"]
+    }
+};
+const hatched = {
+    word: "hatched",
+    definition: "or shaded",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["5.PNG"]
+    }
+};
+const irregular_stripes = {
+    word: "irregularly striped",
+    definition: "",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["6.PNG"]
+    }
+};
+const tessellated = {
+    word: "tessellated",
+    definition: "",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["7.PNG"]
+    }
+};
+const speckled = {
+    word: "speckled",
+    definition: "(in natural history: guttate)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["8.PNG"]
+    }
+};
+const grained = {
+    word: "grained or veined",
+    definition: "",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["9.PNG"]
+    }
+};
+const streaked = {
+    word: "streaked",
+    definition: "(flame-patterned)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["10.PNG"]
+    }
+};
+const watered = {
+    word: "watered",
+    definition: "",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["11.PNG"]
+    }
+};
+const designations = {
+    word: "designations of patterns",
+    definition: "",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["12.PNG"]
+    }
+};
+const jagged = {
+    word: "jagged",
+    definition: "(scientifically serrate or serrated)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["13.PNG"]
+    }
+};
+const toothed = {
+    word: "toothed",
+    definition: "(scientifically: dentate)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["14.PNG"]
+    }
+};
+const scalloped = {
+    word: "scalloped",
+    definition: "or scolloped (notched - of leaves crenate , or crenated)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["15.PNG"]
+    }
+};
+const curled = {
+    word: "curled or curly",
+    definition: "",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["16.PNG"]
+    }
+};
+const panelled = {
+    word: "panelled",
+    definition: "",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["17.PNG"]
+    }
+};
+const granulated = {
+    word: "granulated",
+    definition: "or grained (of leather, with artificially granulated surface: shagreened)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["18.PNG"]
+    }
+};
+const fluted = {
+    word: "fluted",
+    definition: "(grooved, rooded - in architecture also: channelled)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["19.PNG"]
+    }
+};
+const plaited = {
+    word: "plaited",
+    definition: "(crimped)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["20.PNG"]
+    }
+};
+const ribbed = {
+    word: "ribbed",
+    definition: "(of cloth: corded)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["21.PNG"]
+    }
+};
+const milled = {
+    word: "milled",
+    definition: "a diagonally milled",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["22.PNG"]
+    }
+};
+const crosswise = {
+    word: "crosswise",
+    definition: "milled or crosswise knurled",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["23.PNG"]
+    }
+};
+const corrugated = {
+    word: "corrugated",
+    definition: "(wavy, undulating)",
+    tags: ["pattern"],
+    has_img: true,
+    img_src: {
+        path: "figs/pattern-surface/",
+        imgs: ["24.PNG"]
+    }
+};
+

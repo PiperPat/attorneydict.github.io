@@ -25,6 +25,15 @@ f = open("output.js", "w")
 f.write(output)
 f.close()
 
-print("repeated words:")
-for repeat in repeats:
-    print(repeat)
+glossary_output = 'const complete_glossay = [\n'
+for unique_var in unique_vars:
+    glossary_output = glossary_output + unique_var + ",\n"
+glossary_output = glossary_output + '\n];'
+
+#print("repeated words:")
+#for repeat in repeats:
+#    print(repeat)
+
+f = open("generated_glossary.js", "w")
+f.write(glossary_output)
+f.close()

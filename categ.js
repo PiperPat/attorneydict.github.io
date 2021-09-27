@@ -349,7 +349,7 @@ categ_beam = {
 	contents: [
 	    arch ,	    beam ,	    cantilever ,	    chord ,	    girder,
 		jamb ,	    joist ,	    lintel ,	    prop ,	    rafter ,	    
-		RSJ ,	    tie_bar ,	    tie_beam ,	    transom ,	    truss 	
+		tie_bar ,	    tie_beam ,	    transom ,	    truss 	
 	]
 };
 categ_shaft = {
@@ -390,7 +390,7 @@ categ_gear = {
 	contents: [
 		bevel_g,    cam,    cog,    comb,   differential_gear, gear_train,  
 		gear_ratio,   helical_g, pawl,    pinion, rack,    ratchet,    screw,  
-		spiral,   spoke, Sprocket,    Spur_g, toothed_wheel,   worm_g,    
+		spiral,   spoke, sprocket,    spur_g, toothed_wheel,   worm_g,    
 		cable,  cable_hook,   crane, dead_end,    dead_eye,   ferrule,   hoist, 
 		pulley,  roller,   runner,    snatch, block,   tackle,    sheave, 
 	]
@@ -400,7 +400,7 @@ categ_jaws = {
 	tags: ["-----"],
 	contents: [
 		bolt_cutter,    clamp,  cutters,  fibro_cutter, foot_prints, 
-		G_clamp, grips,   
+		g_clamp, grips,   
 	]
 };
 
@@ -615,13 +615,16 @@ categ_3D_curves_solids = {
 		helix, prism, pyramid, cylinder, cone, sphere
 	]
 };
-// categ_ = {
-// 	code: "",
-// tags: ["-----"],
-// 	contents: [
-
-// 	]
-// };
+categ_patterns_surface = {
+	code: "pats",
+tags: ["-----"],
+	contents: [
+		spotted, marked_strokes, marked_dots_strokes, lineated, hatched, irregular_stripes,
+		tessellated, speckled, grained, streaked, watered, designations,
+		jagged, toothed, scalloped, curled, panelled, granulated,
+		fluted, plaited, ribbed, milled, crosswise, corrugated,
+	]
+};
 // categ_ = {
 // 	code: "",
 // tags: ["-----"],
@@ -642,5 +645,5 @@ categories = [
 	categ_orifice, categ_closure, categ_cover, categ_append, categ_relinquish,
 	categ_material_struct, categ_unknown, categ_relationship, categ_movement_again,
 	categ_geometric, categ_contact,	categ_physical_prop,
-	categ_plane_curves_2D, categ_3D_curves_solids
+	categ_plane_curves_2D, categ_3D_curves_solids, categ_patterns_surface
 ];
