@@ -1050,5 +1050,10 @@ const complete_glossay = [
     loop, 
     cycloid,
     quadrilateral,
-    polygon 
+    polygon,
+    helix,
+    prism,
+    pyramid,
+    cone,
+    sphere, 
 ];

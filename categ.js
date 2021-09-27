@@ -608,6 +608,20 @@ categ_plane_curves_2D = {
 		polygon 
 	]
 };
+categ_3D_curves_solids = {
+	code: "c3D",
+	tags: ["-----"],
+	contents: [
+		helix, prism, pyramid, cylinder, cone, sphere
+	]
+};
+// categ_ = {
+// 	code: "",
+// tags: ["-----"],
+// 	contents: [
+
+// 	]
+// };
 // categ_ = {
 // 	code: "",
 // tags: ["-----"],
@@ -628,5 +642,5 @@ categories = [
 	categ_orifice, categ_closure, categ_cover, categ_append, categ_relinquish,
 	categ_material_struct, categ_unknown, categ_relationship, categ_movement_again,
 	categ_geometric, categ_contact,	categ_physical_prop,
-	categ_plane_curves_2D
+	categ_plane_curves_2D, categ_3D_curves_solids
 ];

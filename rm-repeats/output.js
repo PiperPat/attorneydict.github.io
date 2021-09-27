@@ -1892,10 +1892,13 @@ const cup = {
 
 const cylinder = {
     word: "cylinder",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: {}
+    definition: "a - the curved cylinder,  b - the generating line (generator), c - the base",
+    tags: ["shape",],
+    has_img: true,
+    img_src: {
+        path: "figs/3D-planes/",
+        imgs: ["B-4.PNG", ]
+    }
 }; 
 
 const cylindroid = {
@@ -2463,7 +2466,7 @@ const cylinder_rod = {
     definition: "",
     tags: [],
     has_img: false,
-    img_src: {}
+    img_src: { }
 }; 
 
 const dashpot = {
@@ -5714,10 +5717,13 @@ const helical_s = {
 
 const helix = {
     word: "helix",
-    definition: "",
-    tags: [],
-    has_img: false,
-    img_src: {}
+    definition: "cylindrical spiral",
+    tags: ["shape"],
+    has_img: true,
+    img_src: {
+        path: "figs/3D-planes/",
+        imgs: ["B-1.PNG",]
+    }
 }; 
 
 const leaf_s = {
@@ -8549,5 +8555,49 @@ const polygon = {
     img_src: {
         path: "figs/2D-plane-curves/",
         imgs: ["A-10.PNG", "A-10A.PNG"]
+    }
+}; 
+
+const prism = {
+    word: "prism",
+    definition: "types of prisms: the cube, the rectangular parallelepiped, triangular prism, right-triangular prism, the vertex (pl. vertices), the corner, the edge, the face",
+    tags: ["shape", "vertex", "prism", "types of", "triangl", "box"],
+    has_img: true,
+    img_src: {
+        path: "figs/3D-planes/",
+        imgs: ["B-2A.PNG", "B-2B.PNG", "B-2C.PNG", ]
+    }
+}; 
+
+const pyramid = {
+    word: "pyramid",
+    definition: "types of pyramids: regular quadrilateral, the frustrum (pl. frustra or frustrums) of a pyramid (ie. truncated)",
+    tags: ["shape", "triangle", "square-base"],
+    has_img: true,
+    img_src: {
+        path: "figs/3D-planes/",
+        imgs: ["B-3.PNG", "B-3A.PNG", ]
+    }
+}; 
+
+const cone = {
+    word: "cone",
+    definition: "a - base, b - frustrum",
+    tags: ["shape", "triangle", "circle"],
+    has_img: true,
+    img_src: {
+        path: "figs/3D-planes/",
+        imgs: ["B-5.PNG", "B-5B.PNG",  ]
+    }
+}; 
+
+const sphere = {
+    word: "sphere",
+    definition: "a - spherical cap, b - spherical segment (rarely called zonal solid) enclosed by two parallel planes, c - the great circlo, d - the plane section ",
+    tags: ["shape", "ball", "circle", "round"],
+    has_img: true,
+    img_src: {
+        path: "figs/3D-planes/",
+        imgs: ["B-6.PNG", "B-6B.PNG",  ]
     }
 }
