@@ -30,10 +30,10 @@ for unique_var in unique_vars:
     glossary_output = glossary_output + unique_var + ",\n"
 glossary_output = glossary_output + '\n];'
 
-#print("repeated words:")
-#for repeat in repeats:
-#    print(repeat)
+print("repeated words:")
+for repeat in repeats:
+    print(repeat, end=" ")
 
-f = open("generated_glossary.js", "w")
-f.write(glossary_output)
-f.close()
+f2 = open("generated_glossary.js", "w")
+f2.write(glossary_output)
+f2.close()

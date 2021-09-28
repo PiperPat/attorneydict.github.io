@@ -8574,9 +8574,10 @@ const sphere = {
     has_img: true,
     img_src: {
         path: "figs/3D-planes/",
-        imgs: ["B-6.PNG", "B-6B.PNG",  ]
+        imgs: ["B-6.PNG", "B-6B.PNG", "../solids/sphere.PNG" ]
     }
 }; 
+
 
 // patterns, edge and surface
 const spotted = {
@@ -8840,5 +8841,280 @@ const corrugated = {
     img_src: {
         path: "figs/pattern-surface/",
         imgs: ["24.PNG"]
+    }
+}; 
+
+const tetrahedron = {
+    word: "tetrahedron",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["tetrahedron.PNG"]
+    }
+}; 
+
+const cube = {
+    word: "cube",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["cube.PNG"]
+    }
+}; 
+
+const octahedron = {
+    word: "octahedron",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["octahedron.PNG"]
+    }
+}; 
+
+const dodecahedron = {
+    word: "dodecahedron",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["dodecahedron.PNG"]
+    }
+}; 
+
+const icosahedron = {
+    word: "icosahedron",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["icosahedron.PNG"]
+    }
+}; 
+
+const right_pyramid = {
+    word: "right pyramid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["right-pyramid.PNG"]
+    }
+}; 
+
+const oblique_pyramid = {
+    word: "oblique pyramid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["oblique-pyramid.PNG"]
+    }
+}; 
+
+const right_prism = {
+    word: "right prism",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["right-prism.PNG"]
+    }
+}; 
+
+const oblique_prism = {
+    word: "oblique prism",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["oblique-prism.PNG"]
+    }
+}; 
+
+const right_cone = {
+    word: "right cone",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["right-cone.PNG"]
+    }
+}; 
+
+const oblique_cone = {
+    word: "oblique cone",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["oblique-cone.PNG"]
+    }
+}; 
+
+const right_cylinder = {
+    word: "right cylinder",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["right-cylinder.PNG"]
+    }
+}; 
+
+const oblique_cylinder = {
+    word: "oblique cylinder",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["oblique-cylinder.PNG"]
+    }
+}; 
+
+const helical_convolute = {
+    word: "helical convolute",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["helical-thing.PNG"]
+    }
+}; 
+
+const convolute = {
+    word: "convolute",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["convolute.PNG"]
+    }
+}; 
+
+const oblate_spheroid = {
+    word: "oblate spheroid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["oblate-spheroid.PNG"]
+    }
+}; 
+
+const prolate_spheroid = {
+    word: "prolate spheroid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["prolate-spheroid.PNG"]
+    }
+}; 
+
+const torus = {
+    word: "torus",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["torus.PNG"]
+    }
+}; 
+
+const hyperbolic_paraboloid = {
+    word: "hyperbolic paraboloid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["hyperbolic-paraboloid.PNG"]
+    }
+}; 
+
+const right_helicoid = {
+    word: "right helicoid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["right-heloid.PNG"]
+    }
+}; 
+
+const oblique_helicoid = {
+    word: "oblique helicoid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["oblique-helicoid.PNG"]
+    }
+}; 
+
+const hyperboloid_o_revolution = {
+    word: "hyperboloid of revolution",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["hyperboloid-revolution.PNG"]
+    }
+}; 
+
+const conoid = {
+    word: "conoid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["conoid.PNG"]
+    }
+}; 
+
+const hyperboloid_two_sheets = {
+    word: "hyperboloid of two sheets",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["hyperboloid-two-sheets.PNG"]
+    }
+}; 
+
+const paraboloid = {
+    word: "paraboloid",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/solids/",
+        imgs: ["paraboloid.PNG"]
     }
 }
