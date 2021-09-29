@@ -638,9 +638,16 @@ categ_solids = {
 		paraboloid,
 	]
 };
+categ_ceiling = {
+	code: "cei",
+	tags: ["-----"],
+	contents: [
+		jack_joist, ceiling_joist , hanging_beam , rafter_zwei , top_plate ,
+	]
+};
 // categ_ = {
 // 	code: "",
-// tags: ["-----"],
+// 	tags: ["-----"],
 // 	contents: [
 
 // 	]
@@ -659,5 +666,5 @@ categories = [
 	categ_material_struct, categ_unknown, categ_relationship, categ_movement_again,
 	categ_geometric, categ_contact,	categ_physical_prop,
 	categ_plane_curves_2D, categ_3D_curves_solids, categ_patterns_surface,
-	categ_solids, 
+	categ_solids, categ_ceiling
 ];

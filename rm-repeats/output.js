@@ -9117,4 +9117,62 @@ const paraboloid = {
         path: "figs/solids/",
         imgs: ["paraboloid.PNG"]
     }
+}; 
+
+
+// ceiling
+
+const jack_joist = {
+    word: "jack joist",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/ceiling-construction/",
+        imgs: ["jack-joist.png"]
+    }
+}; 
+
+const ceiling_joist = {
+    word: "ceiling joist",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/ceiling-construction/",
+        imgs: ["ceiling-joist.PNG"]
+    }
+}; 
+
+const hanging_beam = {
+    word: "hanging beam",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/ceiling-construction/",
+        imgs: ["hanging-beam.png"]
+    }
+}; 
+
+const rafter_zwei = {
+    word: "rafter",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/ceiling-construction/",
+        imgs: ["rafter.png"]
+    }
+}; 
+
+const top_plate = {
+    word: "top plate",
+    definition: "",
+    tags: [],
+    has_img: true,
+    img_src: {
+        path: "figs/ceiling-construction/",
+        imgs: ["top-plate.png"]
+    }
 }
