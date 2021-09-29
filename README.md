@@ -1,5 +1,5 @@
 
-<h1>PATENT DICTIONARY	</h1>
+<h1>PATENT GLOSSARY	</h1>
 ---
 
 
@@ -34,4 +34,4 @@ It would be pretty dumb to have "ellipse" and "elliptical" as separate entries. 
 ---
 
 The rm-repeats dir was created because the glossary had lots of repeated words and it would have been stupid to check/handle this manually. It takes the file I was entering words into (dict.js) and spits them output into output.js - which is currently what the html file is reading. 
-The categ_data_upgrade.py was created when upgrading the category data structure - doing this manually would've taken too long. 
+For some reason, rem-repeats has a bug. After 1102, it experiences a brain problem and spits out the same word twice. To resolve this, after 1100 entries, it needs to create a new file. It will then write to that. At the end, it will converge the two documents for one output file. I hope that works... 
