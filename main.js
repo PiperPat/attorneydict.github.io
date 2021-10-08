@@ -1,3 +1,9 @@
+
+
+
+// is given an array of word objects and converts it into html to display
+// to the user -- it's a helper fn to the other fns below
+
 function displayResults(results) {
     let lcHtml = "";
     if (results.length == 0) {
@@ -44,23 +50,24 @@ function customQuery() {
     // user could be searching by category or word 
    
     if (q) {
+        // check word
+        complete_glossary.forEach(function (entry) {
+            if (entry.word.includes(q)) results.push(entry);
+        });
+
+
         // check category
         categories.forEach(function(c) {
             c.tags.forEach(function(tag) {
-                if (tag.match(q)) {
-                    // alert("yes");
-                    results.push.apply(results, c.contents);
-                }
+                // tag.contents is a collection of word objects
+                if (tag.includes(q)) results.push.apply(results, c.contents);
+                // {
+                //     var things = c.contents;
+                //     things.forEach(function(thing) {
+                //         results.push(thing);
+                //     })
+                // }
             });
-        });
-
-        // check word
-        complete_glossay.forEach(function (entry) {
-            // also need to rm repeats
-            if (entry.word == q ) {
-                // alert("gottem");
-                results.push.apply(results, entry);
-            }
         });
     }
 

@@ -1,4 +1,4 @@
-const complete_glossay = [
+const complete_glossary = [
 abut_mns,
 adjg_mns,
 actg_mns,
